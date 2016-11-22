@@ -8,7 +8,7 @@ In short it’s a 3rd party tool that can track your Elite Dangerous travels, co
 
 EDDiscovery also gives you a [3D map](Using the 3D Map) and [2D maps](Using the 2D Map) of the galaxy, showing travel history and data from EDSM and EDDB to aid your journey through the Elite Dangerous galaxy.
 
-Here’s an example of the history page using the ED Theme Elite Verdana:
+Here’s an example of the history page using the [ED Theme Elite Verdana](Configuring the look of EDDiscovery):
 
 ![](http://i.imgur.com/gAxIRN8.png)  
 
