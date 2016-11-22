@@ -15,7 +15,7 @@ See the sidebar to the right for topics.
 
 The main user interface of ED consists of a set of tab pages
 
-* History
+* [History](Using the History Page)
 * Journal
 * Trilateration
 * Screenshots
