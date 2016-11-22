@@ -16,9 +16,9 @@ See the sidebar to the right for topics.
 The main user interface of ED consists of a set of tab pages
 
 * [History](Using the History Page)
-* Journal
-* Trilateration
-* Screenshots
+* [Journal](Using the Journal Page)
+* [Trilateration](Using the Trilateration Page)
+* [Screenshots](Using the Screenshots Page)
 * Route
 * Route/Expeditions
 * Export
