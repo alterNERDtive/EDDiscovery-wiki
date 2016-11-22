@@ -12,8 +12,6 @@ Here’s an example of the history page using the ED Theme Elite Verdana:
 
 ![](http://i.imgur.com/gAxIRN8.png)  
 
-See the sidebar to the right for topics.
-
 The main user interface of ED consists of a set of tab pages
 
 * [History](Using the History Page)
@@ -28,4 +26,6 @@ The main user interface of ED consists of a set of tab pages
 Which you can select from. See the topics above for information on each page.
 
 EDDiscovery also has [Menu Options](Menu Options) for some quick access functions and to run housekeeping functions which seldom need executing.
+
+See the sidebar to the right for other topics.
 
