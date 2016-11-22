@@ -4,12 +4,15 @@ Welcome to the EDDiscovery wiki!
 
 You play Elite Dangerous and have heard of EDDiscovery - and ended up here.  So what _is_ it?  
   
-In short (and this does kinda sell it short) it’s a 3rd party tool that can track your Elite Dangerous travels, plot them on a series of 2D maps (included) and also plot them on a 3D map.  
-  
-Here’s an example of the travel history:
-![](http://i.imgur.com/lRlK2EA.png)  
-  
-Nice right?  Now you don’t need to try and remember to write down the systems you went to – this can be especially important if you get yourself into a sparsely populated area of the galaxy and need to re-trace your steps to get out.  
+In short it’s a 3rd party tool that can track your Elite Dangerous travels, combat, trading, rank etc. Before Elite Dangerous 2.2 it could only track travel, now with 2.2, EDDiscovery tracks much more! It can now log other data such as rank, commodities, materials, scans and all host of other data.
+
+EDDiscovery also gives you a 3D and 2D maps of the galaxy, showing travel history and data from EDSM and EDDB to aid your journey through the Elite Dangerous galaxy.
+
+Here’s an example of the history page using the ED Theme Elite Verdana:
+![](http://imgur.com/a/T09Gh)  
+
+
+
   
 But whilst a list of visited systems is useful, lets be honest, it's a bit boring.  EDDiscovery takes these visited systems and plots them on series of high quality 2D maps.  Here's an example:  
 ![](http://i.imgur.com/8XihLab.png)  
