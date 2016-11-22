@@ -19,9 +19,12 @@ The main user interface of ED consists of a set of tab pages
 * [Journal](Using the Journal Page)
 * [Trilateration](Using the Trilateration Page)
 * [Screenshots](Using the Screenshots Page)
-* Route
-* Route/Expeditions
-* Export
-* Settings
+* [Route](Using the Route Page)
+* [Route/Expeditions](Using the Route/Expeditions Page)
+* [Export](Using the Export Page)
+* [Settings](Using the Settings Page)
 
+Which you can select from. See the topics above for information on each page.
+
+EDDiscovery also has [Menu Options](Menu Options) for some quick access functions and to run housekeeping functions which seldom need executing.
 
