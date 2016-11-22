@@ -12,3 +12,16 @@ Here’s an example of the history page using the ED Theme Elite Verdana:
 ![](http://i.imgur.com/gAxIRN8.png)  
 
 See the sidebar to the right for topics.
+
+The main user interface of ED consists of a set of tab pages
+
+* History
+* Journal
+* Trilateration
+* Screenshots
+* Route
+* Route/Expeditions
+* Export
+* Settings
+
+
