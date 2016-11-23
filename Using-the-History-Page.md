@@ -61,4 +61,4 @@ Travel Grid (this)
 
 [Statistics panel](Using the Statistics Panel)
 
-[Using the Scan Panel](Scan panel)
+[Scan Panel](Using the Scan Panel)
