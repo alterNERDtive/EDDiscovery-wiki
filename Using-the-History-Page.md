@@ -42,12 +42,21 @@ Clicking on the icon changes the view to that data. You can also pop out the dat
 The panels currently supported (more will be added)
 
 [Using the EDDiscovery Log Panel](EDDiscovery Log)
+
 [Using the Nearest Stars Panel](Nearest stars)
+
 [Using the Materials Panel](Materials count)
+
 [Using the Commodities Panel](Commodities count)
+
 [Using the Ledger Panel](Ledger)
+
 Travel Grid (this)
+
 [Using the Journal Page](Journal Grid)
+
 [Using the Screenshot Panel](Screenshot panel)
+
 [Using the Statistics Panel](Statistics panel)
+
 [Using the Scan Panel](Scan panel)
