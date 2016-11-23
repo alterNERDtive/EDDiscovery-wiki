@@ -36,20 +36,20 @@ Right click either on a previous selection or a entry and you will be presented 
 
 ![Right click options](http://i.imgur.com/URNsxY7.png)
 
-* Go to star on 3D Map : Open the [3D Map](Using the 3D Map) and go to this system.
+* Go to star on 3D Map : Open the [3D Map](Using the 3DMap) and go to this system.
 
 * Star Map Colour: Set the colour to show on the 3D Map for this entry.
 
 * Hide Entries: Clicking on a range, or a single entry, and using this moves the entry to the hidden commander.  You can see hidden entries by using the [commander selection drop down](Using the History Page) to select 'Hidden commander'.
 
-* Move Entries to another Commander: Move the entry to another commander.  Not recommended now, since ED Discovery 2.2, but retained to support older entries from 2.1 and before.
+* Move Entries to another Commander: **Advanced**. Move the entry to another commander.  Not recommended now, since ED Discovery 2.2, but retained to support older entries from 2.1 and before.
 
 * Add To: Add system or systems to one of the trilateration dialogs or to the routing page
 
 * View On EDSM: Open a web page on this system
 
-* Assign New System: If EDSM and ED disagree about the system, allows you to pick another EDSM system to attach this entry to.  ED has instances of repeated names, so this can correct this.
+* Assign New System: **Advanced**. If EDSM and ED disagree about the system, allows you to pick another EDSM system to attach this entry to.  ED has instances of repeated names, so this can correct this.
 
 * Set Start/Stop point for travel calculations: Use to set up travel calculation of distance and time by setting start and end points
 
-* Remove Journal Entry: Delete this entry entirely.  Use with caution. Useful for the EDD Set Item entry (which the user creates).  If journals are rescanned, the entry may reappear.
+* Remove Journal Entry: **Advanced, Caution**. Delete this entry entirely.  Use with caution. Useful for the EDD Set Item entry (which the user creates).  If journals are rescanned, the entry may reappear.
