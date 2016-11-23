@@ -53,7 +53,7 @@ The panels currently supported (more will be added)
 
 [Ledger](Using the Ledger Panel)
 
-Travel Grid (this)
+[Travel Grid](Using the Travel Grid)
 
 [Journal Grid](Using the Journal Page)
 
