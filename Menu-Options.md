@@ -35,9 +35,9 @@ The menu options, accessible in all pages, is detailed below:
 
 * About: Who, what, when.  The credits.
 
-* GitHub: Open a web page on the EDDiscovery GIT Hub project.
-
 * EDDiscovery Help: This stuff
+
+* GitHub: Open a web page on the EDDiscovery GIT Hub project.
 
 * Frontier Forum thread: The main thread about EDDiscovery
 
