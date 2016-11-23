@@ -16,18 +16,38 @@ Options here are:
 
 * Scan For: What files to scan for. Select BMP for ED launcher/ED, JPG/PNG (as selected by steam).
 
-* Remove original image after conversion: Select to delete the original screenshot
+* Remove original image after conversion: Select to delete the original screenshot (do not use for steam).
 
 * Mark High Resolution Files: Add a marker to show in the filename its Hi Res (ED Screenshots only)
 
 * File Name Format: Use the drop down to select your preferred naming schema.
 
-# Finding the correct folder to set the directory to:
+On the left you have the following options:
+
+* Show preview: Show the picture in the box on the right
+
+* Copy to clipboard: Copy the image directly to the clipboard, so you can paste it into other programs
+
+* Crop Image (and the settings): Cut the image to these specification.
+
+# Using the Screenshot panel
+
+Screenshot previews are also available in the [screenshot panel](Using the Screenshot Panel).
+
+# Setting up For Elite Dangerous Screenshots
+
+Select Scan For BMPs.
 
 The correct folder for screenshots taken with Elite Dangerous is c:\users\<user name>\Pictures\Frontier Developments\Elite Dangerous.  Replace <user name> with your user name. Do a test screenshot and them ensure that .BMPs are in there from ED.
 
-For steam, this depends on where you store your steam game files, but it should be <Steam root folder>/userdata/<steam ID>/<ED ID>/screenshots
-
-# Set up for Elite Dangerous
+Save as JPG, PNG etc.  Do not select BMPs if the two folders are the same.
 
 # Set up for Steam
+
+Select Scan for JPG or PNG, dependent on your steam F12 settings.
+
+The correct folder depends on where you store your steam game files, but it should be <Steam root folder>/userdata/<steam ID>/<ED ID>/screenshots.
+
+Save as JPG, PNG etc into a different folder than above. Do not delete the originals.
+
+
