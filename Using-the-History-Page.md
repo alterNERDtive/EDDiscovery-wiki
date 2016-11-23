@@ -8,7 +8,7 @@ Each view can be resized, as shown above, against its siblings. The split betwee
 
 Two of the views are fixed:
 
-* [History Grid](Using the Travel Grid) (Top Left)
+* [History Grid](Using the History Grid) (Top Left)
 * User Controls and System Report on currently selected item on Travel Grid (Top Right)
 
 Three of the views are configurable:
@@ -17,8 +17,8 @@ Three of the views are configurable:
 * Right Middle View
 * Right Bottom View
 
-# Using the Travel Grid
-See the [travel grid](Using the Travel Grid) topic for help in use of this view area.
+# Using the History Grid
+See the [history grid](Using the Hravel Grid) topic for help in use of this view area.
 
 # Using the User Controls
 ![User Controls](http://i.imgur.com/tppkCVe.png)
@@ -53,7 +53,7 @@ The panels currently supported (more will be added)
 
 [Ledger](Using the Ledger Panel)
 
-[Travel Grid](Using the Travel Grid)
+[History Grid](Using the History Grid)
 
 [Journal Grid](Using the Journal Page)
 
