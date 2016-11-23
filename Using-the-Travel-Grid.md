@@ -14,6 +14,8 @@ Hover over an entry to see any expanded information about the event:
 
 Double click on the event and it will expand the row height and show you all the information it has about the event.
 
+![Expand rows](http://i.imgur.com/Uov1DMz.png)
+
 # Sorting and Filtering
 
 Each column is sortable, click on the column header to sort under that item.
@@ -24,5 +26,30 @@ Using the Search text box, you can filter events by if they contain this bit of 
 
 Using the Event Filter drop down, you can filter events by specific event types
 
+# Selecting multiple entries
 
+You can click drag down on the grid to select multiple entries at one time for right clicking.
 
+# Right Click options
+
+Right click either on a previous selection or a entry and you will be presented with the following options:
+
+![Right click options](http://i.imgur.com/URNsxY7.png)
+
+* Go to star on 3D Map : Open the [3D Map](Using the 3D Map) and go to this system.
+
+* Star Map Colour: Set the colour to show on the 3D Map for this entry.
+
+* Hide Entries: Clicking on a range, or a single entry, and using this moves the entry to the hidden commander.  You can see hidden entries by using the [commander selection drop down](Using the History Page) to select 'Hidden commander'.
+
+* Move Entries to another Commander: Move the entry to another commander.  Not recommended now, since ED Discovery 2.2, but retained to support older entries from 2.1 and before.
+
+* Add To: Add system or systems to one of the trilateration dialogs or to the routing page
+
+* View On EDSM: Open a web page on this system
+
+* Assign New System: If EDSM and ED disagree about the system, allows you to pick another EDSM system to attach this entry to.  ED has instances of repeated names, so this can correct this.
+
+* Set Start/Stop point for travel calculations: Use to set up travel calculation of distance and time by setting start and end points
+
+* Remove Journal Entry: Delete this entry entirely.  Use with caution. Useful for the EDD Set Item entry (which the user creates).  If journals are rescanned, the entry may reappear.
