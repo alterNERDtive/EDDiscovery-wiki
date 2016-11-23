@@ -15,7 +15,7 @@ You can manually delete a commander. Note if the journal is scanned with the com
 
 You may wish to configure a commander, for interaction with other systems as follows:
 
-* EDSM API Key: If your going to send travel history to EDSM, you need to enter your EDSM API key (see EDSM for how to do that) here.
+* EDSM API Key: If your going to send travel history to EDSM, you need to enter your EDSM API key (see below).
 
 * EDSM Name: If for some reason you did not use the same commander name used in game on EDSM, enter your EDSM name here.
 
