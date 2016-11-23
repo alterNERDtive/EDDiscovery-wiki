@@ -1,6 +1,6 @@
 The route page uses the data collected from EDSM by EDDiscovery and allows you to plot a route throughout the whole galaxy.  It does not suffer from the Frontier curse of only 1000ly maximum plot range!
 
-![Routing Page](http://i.imgur.com/LZX8LmL.png)
+![Routing Page](http://i.imgur.com/dOrvDIN.png)
 
 You select either a system or galaxy object name (in the From and To Boxes) or enter a X/Y/Z co-ordinate in either if you want to go to an unexplored place.
 
