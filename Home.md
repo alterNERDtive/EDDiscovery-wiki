@@ -27,5 +27,7 @@ Which you can select from. See the topics above for information on each page.
 
 EDDiscovery also has [Menu Options](Menu Options) for some quick access functions and to run housekeeping functions which seldom need executing.
 
+You can learn how [How EDDiscovery Works](EDDiscovery works with Elite Dangerous) here.
+
 See the sidebar to the right for other topics.
 
