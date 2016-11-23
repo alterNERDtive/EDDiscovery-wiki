@@ -18,17 +18,17 @@ Three of the views are configurable:
 * Right Bottom View
 
 # Using the Travel Grid
-See the [Using the Travel Grid](travel grid) topic for help in use of this
+See the [Using the Travel Grid](travel grid) topic for help in use of this view area.
 
 # Using the User Controls
 ![User Controls](http://i.imgur.com/tppkCVe.png)
 
-Refresh - causes EDDiscovery to recheck the journal files
-Cmdr - use to select which commander to display information about, or Hidden for entries you have hidden
-2DMap, 3DMap - open maps
-PopOut - select a pop out data panel (see below)
-S-Panel - launch the nitty [Using the SPanel](SPanel) which you can place over the top of Elite Dangerous and give you information when you are playing the game
-EDSM Sync - if you've configured EDSM sync in [Using the Settings Page](Settings page) then this causes EDDiscovery to check for EDSM information and up and download it
+* Refresh - causes EDDiscovery to recheck the journal files
+* Cmdr - use to select which commander to display information about, or Hidden for entries you have hidden
+* 2DMap, 3DMap - open maps
+* PopOut - select a pop out data panel (see below)
+* S-Panel - launch the nitty [Using the SPanel](SPanel) which you can place over the top of Elite Dangerous and give you information when you are playing the game
+* EDSM Sync - if you've configured EDSM sync in [Using the Settings Page](Settings page) then this causes EDDiscovery to check for EDSM information and up and download it
 
 The system report shows you information about the current system that is selected by the travel grid cursor.  It also shows you any notes you made about the travel grid entry. It has an EDSM, EDDBId and ROSS button to take you directly to the appropriate web pages for that system.
 
