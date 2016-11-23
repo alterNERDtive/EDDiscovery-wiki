@@ -1,5 +1,7 @@
 The screenshot page allows you to configure EDDiscovery to automatically recognise screenshots taken either inside Elite Dangerous (F10) or via Steam, and convert and rename them into another format.  Additionally you can crop them if required.
 
+The [log](Using the EDDiscovery Log Panel) during startup tells you what folder and file type it is scanning for, and after every screenshot tells you it has converted it.  Use this to check the system is working.
+
 ![Screenshot](http://i.imgur.com/3p3bqye.png)
 
 # Settings Panel (top)
@@ -30,10 +32,6 @@ On the left you have the following options:
 
 * Crop Image (and the settings): Cut the image to these specification.
 
-# Using the Screenshot panel
-
-Screenshot previews are also available in the [screenshot panel](Using the Screenshot Panel).
-
 # Setting up For Elite Dangerous Screenshots
 
 Select Scan For BMPs.
@@ -49,5 +47,9 @@ Select Scan for JPG or PNG, dependent on your steam F12 settings.
 The correct folder depends on where you store your steam game files, but it should be <Steam root folder>/userdata/<steam ID>/<ED ID>/screenshots.
 
 Save as JPG, PNG etc into a different folder than above. Do not delete the originals.
+
+# Using the Screenshot panel
+
+Screenshot previews are also available in the [screenshot panel](Using the Screenshot Panel).
 
 
