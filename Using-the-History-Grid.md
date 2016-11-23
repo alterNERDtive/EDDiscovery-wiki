@@ -40,7 +40,7 @@ Right click either on a previous selection or a entry and you will be presented 
 
 ![Right click options](http://i.imgur.com/URNsxY7.png)
 
-* Go to star on 3D Map : Open the [3D Map](Using the 3DMap) and go to this system.
+* Go to star on 3D Map : Open the [3D Map](Using the 3D Map) and go to this system.
 
 * Star Map Colour: Set the colour to show on the 3D Map for this entry.
 
