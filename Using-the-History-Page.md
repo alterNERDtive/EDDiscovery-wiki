@@ -18,7 +18,7 @@ Three of the views are configurable:
 * Right Bottom View
 
 # Using the History Grid
-See the [history grid](Using the Hravel Grid) topic for help in use of this view area.
+See the [history grid](Using the History Grid) topic for help in use of this view area.
 
 # Using the User Controls
 ![User Controls](http://i.imgur.com/tppkCVe.png)
