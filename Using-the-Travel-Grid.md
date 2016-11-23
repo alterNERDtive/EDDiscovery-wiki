@@ -14,7 +14,7 @@ Hover over an entry to see any expanded information about the event:
 
 Double click on the event and it will expand the row height and show you all the information it has about the event.
 
-![Expand rows](http://i.imgur.com/Uov1DMz.png)
+![Expand rows](http://i.imgur.com/wnpT3Fz.png)
 
 # Sorting and Filtering
 
