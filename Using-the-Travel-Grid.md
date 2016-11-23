@@ -40,7 +40,7 @@ Right click either on a previous selection or a entry and you will be presented 
 
 * Star Map Colour: Set the colour to show on the 3D Map for this entry.
 
-* Hide Entries: Clicking on a range, or a single entry, and using this moves the entry to the hidden commander.  You can see hidden entries by using the [commander selection drop down](Using the History Page) to select 'Hidden commander'.
+* Hide Entries: Clicking on a range, or a single entry, and using this moves the entry to the hidden commander.  You can see hidden entries by using the [commander selection drop down](Using the History Page) to select 'Hidden commander'.  You can then move them back to another commander using the next option.
 
 * Move Entries to another Commander: **Advanced**. Move the entry to another commander.  Not recommended now, since ED Discovery 2.2, but retained to support older entries from 2.1 and before.
 
