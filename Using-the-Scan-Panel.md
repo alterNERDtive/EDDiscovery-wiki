@@ -12,7 +12,7 @@ You can select by the toolbar above the star:
 
 * Show/Hide Moons: Diable showing moons, planets and stars only
 
-* Planet size:  4 sizing options are allowed
+* Planet size:  4 sizing options are given
 
 Right clicking the star panel gives you the following options:
 
