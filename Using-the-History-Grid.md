@@ -26,6 +26,10 @@ Using the Search text box, you can filter events by if they contain this bit of 
 
 Using the Event Filter drop down, you can filter events by specific event types
 
+# Column Resizing
+
+Columns automatically resize when you change the size of the EDDiscovery window.  They also remember their widths over a shutdown of the program.
+
 # Selecting multiple entries
 
 You can click drag down on the grid to select multiple entries at one time for right clicking.
