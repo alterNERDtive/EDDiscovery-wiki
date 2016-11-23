@@ -15,7 +15,7 @@ You can manually delete a commander. Note if the journal is scanned with the com
 
 You may wish to configure a commander, for interaction with other systems as follows:
 
-* EDSM API Key: If your going to send travel history to EDSM, you need to enter your EDSM API key (see below).
+* EDSM API Key: If your going to send travel history to EDSM, you need to enter your EDSM API key [EDSM Integration](EDSM Integration with EDDiscovery).
 
 * EDSM Name: If for some reason you did not use the same commander name used in game on EDSM, enter your EDSM name here.
 
@@ -54,21 +54,6 @@ You can configure some information that 3D Maps needs before starting here:
 * Default Zoom: Select the zoom to use when opening. Use the map itself to find out your preferred zoom and then enter it here.
 
 * Default Map Colour: New FSD journal entries are assigned this colour to show on 3D Map.
-
-# EDSM Integration
-In order to save journal history and trilateration results back into EDSM, you need to have configured an API key.  
-
-First head over to [http://www.edsm.net/](www.edsm.net) and create yourself a free account.  With that done, in EDSM go to the user drop down and select 'My API Key'  
-
-![](http://i.imgur.com/6g8VGlZ.png)  
-
-Now copy the numbers and and letters from the API Key  
-
-![](http://i.imgur.com/VSwjmNh.png)  
-  
-And paste into the "EDSM api key" section of the Settings tab as shown above.
-
-That's it!  You should now be able to submit your trilaterated distances back to EDSM as well and sync your travel logs back and forth.
 
 
 
