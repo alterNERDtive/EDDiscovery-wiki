@@ -1,4 +1,4 @@
-The travel grid present a list of events entries.  Each event is named, given an icon to help you recognise it, and optionally has data fields to describe the event in more detail.
+The history grid present a list of events entries.  Each event is named, given an icon to help you recognise it, and optionally has data fields to describe the event in more detail.
 
 The grid consists of the following columns:
 
