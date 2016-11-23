@@ -32,7 +32,7 @@ This creates a new entry in the history, called EDDItemSet, inserted at the curs
 
 ![EDDItemSet](http://i.imgur.com/J3BZtZB.png)
 
-This entry records the count and name of materials set at this point.  It will only include entries which have changed.
+This entry records the count and name of materials (and maybe also commodities if set at the same point) set at this point.  It will only include entries which have changed.
 
 If you are unhappy with an EDDItemSet, right click on it and select Remove Journal Entry.  You can try again. Or if you wish to edit an EDDItemSet, click on it in the history window, click modify in the materials section, change the data, and click apply. The entry will be updated if required.
 
