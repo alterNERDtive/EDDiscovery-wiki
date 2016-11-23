@@ -31,3 +31,7 @@ You can learn how [EDDiscovery works with Elite Dangerous](How EDDiscovery Works
 
 See the sidebar to the right for other topics.
 
+
+***
+
+Some images are screenshots from Elite: Dangerous © 2012, 2013 Frontier Developments plc. All rights reserved.
