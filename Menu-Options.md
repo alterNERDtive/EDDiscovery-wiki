@@ -2,9 +2,8 @@ The menu options, accessible in all pages, is detailed below:
 
 # Tools
 
-* Show 2D Maps: Show the 2D Map
-
-* Show 3D Maps: Show the 3D Map
+* Show 2D Maps: Show the [2D Map](Using the 2D Map)
+* Show 3D Maps: Show the [3D Map](Using the 3D Map)
 
 * Set Default Map Colour: [set the default map colour](Using the Settings Page), 3D Map section.
 
