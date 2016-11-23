@@ -44,7 +44,7 @@ Save as JPG, PNG etc.  Do not select BMPs if the two folders are the same.
 
 Select Scan for JPG or PNG, dependent on your steam F12 settings.
 
-The correct folder depends on where you store your steam game files, but it should be <Steam root folder>/userdata/<steam ID>/<ED ID>/screenshots.
+The correct folder depends on where you store your steam game files, but it should be Steam root folder/userdata/steam ID/ED ID/screenshots.
 
 Save as JPG, PNG etc into a different folder than above. Do not delete the originals.
 
