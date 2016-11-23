@@ -2,7 +2,7 @@ The materials count panel shows the current state and number of known materials 
 
 ![Materials](http://i.imgur.com/av5Ni5I.png)
 
-As each Material is collected or discarded, Elite Dangerous places a entry in the journal saying an item has been collected or discarded:
+As each Material is collected or discarded, Elite Dangerous places a entry in the journal indicating this.
 
 ![Material Collected](http://i.imgur.com/MHbLuKj.png)
 
