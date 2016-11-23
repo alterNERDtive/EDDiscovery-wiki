@@ -8,7 +8,7 @@ Each view can be resized, as shown above, against its siblings. The split betwee
 
 Two of the views are fixed:
 
-* Travel Grid (Top Left)
+* [History Grid](Using the Travel Grid) (Top Left)
 * User Controls and System Report on currently selected item on Travel Grid (Top Right)
 
 Three of the views are configurable:
