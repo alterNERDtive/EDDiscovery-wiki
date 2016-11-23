@@ -1,6 +1,4 @@
-The history page is the main information and control page of EDDiscovery.
-
-![History Page](http://i.imgur.com/kJzuQ6D.png)
+The history page is the main information and control page of EDDiscovery. Here you can see the history of your travels through the galaxy, find data about these entries.
 
 The page is split into the following view areas:
 
