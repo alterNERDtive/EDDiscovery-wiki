@@ -18,7 +18,7 @@ If your using EDDiscovery for the first time, then the first new commander found
 
 If you already have a commander, the current commander chosen is not changed.
 
-The journal entries in the file are then associated with a commander. You won't see them unless you've selected that commander. Use the settings page to see which commanders you have.
+The journal entries in the file are then associated with a commander. You won't see them unless you've selected that commander. Use the [settings page](Using the Settings Page) to see which commanders you have. Use the [history page](Using the History Page) to change the commander.
 
 # Reading old pre 2.2 log files.
 
