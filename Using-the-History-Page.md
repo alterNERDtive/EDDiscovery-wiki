@@ -23,16 +23,16 @@ See the [history grid](Using the History Grid) topic for help in use of this vie
 # Using the User Controls
 ![User Controls](http://i.imgur.com/tppkCVe.png)
 
-* Refresh - causes EDDiscovery to recheck the journal files
-* Cmdr - use to select which commander to display information about, or Hidden for entries you have hidden
-* 2DMap, 3DMap - open maps
-* PopOut - select a pop out data panel (see below)
-* S-Panel - launch the nitty [SPanel](Using the SPanel) which you can place over the top of Elite Dangerous and give you information when you are playing the game
-* EDSM Sync - if you've configured EDSM sync in [Settings Page](Using the Settings Page) then this causes EDDiscovery to check for EDSM information and up and download it
+* Refresh: causes EDDiscovery to recheck the journal files
+* Cmdr: use to select which commander to display information about, or Hidden for entries you have hidden
+* [2D Maps](Using the 2D Map), [3D Map](Using the 3D Map): open maps
+* PopOut: select a pop out data panel (see below)
+* S-Panel: launch the nitty [SPanel](Using the SPanel) which you can place over the top of Elite Dangerous and give you information when you are playing the game
+* EDSM Sync: if you've configured EDSM sync in [Settings Page](Using the Settings Page) then this causes EDDiscovery to check for EDSM information and up and download it
 
 The system report shows you information about the current system that is selected by the travel grid cursor.  It also shows you any notes you made about the travel grid entry. It has an EDSM, EDDBId and ROSS button to take you directly to the appropriate web pages for that system.
 
-Finally, the current target system is shown, with the distance to go.  You can set the target designator either thru the [the 3D Map](Using the 3DMap), or by typing in a system or galaxy object here.
+Finally, the current target system is shown, with the distance to go.  You can set the target designator either thru the [the 3D Map](Using the 3D Map), or by typing in a system or galaxy object here.
 
 # Configuring the three views
 You can configure these bottom views and select different data panels to display on each view.  Hover the cursor over the tab bar area above the view as shown below.  After a short interval, a set of icons appear which will allow you to select different information to view in that view area.
