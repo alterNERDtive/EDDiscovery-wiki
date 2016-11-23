@@ -34,4 +34,4 @@ See the sidebar to the right for other topics.
 
 ***
 
-Some images are screenshots from Elite: Dangerous © 2012, 2013 Frontier Developments plc. All rights reserved.
+Some images are screenshots from Elite: Dangerous © 2012-2016 Frontier Developments plc. All rights reserved.
