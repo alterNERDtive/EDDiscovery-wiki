@@ -31,7 +31,7 @@ See the sidebar to the right for other topics.
 
 # Build Status
 
-* Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/q80iftthuw3fdmt6/branch/master?svg=true)](https://ci.appveyor.com/project/klightspeed/eddiscovery-t4gfy/branch/master)
+* Windows: [![Build status](https://ci.appveyor.com/api/projects/status/ccoyd5tlu5l0n1l2/branch/master?svg=true)](https://ci.appveyor.com/project/EDDiscovery/eddiscovery/branch/master)
 * Mono: [![Travis CI](https://travis-ci.org/EDDiscovery/EDDiscovery.svg?branch=master)](https://travis-ci.org/EDDiscovery/EDDiscovery)
 
 ***
