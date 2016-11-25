@@ -7,7 +7,7 @@
 * Select `Public repositories only` and click `Authorize GitHub`
 * Review the permissions and click `Authorize application`
 * Under the appropriate organisation or your username, mouse over the project (`EDDiscovery`) and click `+ Add`
-* AppVeyor should now automatically build every new commit or pull request, and save a portable version of the build as an artifact.
+* AppVeyor should now automatically build any new pull requests or pushes, and save a portable version of the build as an artifact.
 
 ## Getting AppVeyor build badge
 
@@ -24,7 +24,7 @@
 * Under the permissions and Organization access, click `Authorize application`
 * After authorizing the application, in Travis, under `My Repositories` click the project (e.g. `EDDiscovery/EDDiscovery`)
 * Click `Activate repository`
-* Travis-CI should now build all new commits and pull requests, and provide a build status for any pull requests
+* Travis-CI should now build all new pull requests and pushes, and provide a build status for any pull requests
 
 ## Travis CI build badge
 
