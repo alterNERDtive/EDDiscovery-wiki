@@ -1,6 +1,6 @@
 The materials count panel shows the current state and number of known materials recorded by the Journal, at the [history cursor](Using the History Grid) position.
 
-![Materials](http://i.imgur.com/av5Ni5I.png)
+![Materials](http://i.imgur.com/AJF2CFm.png)
 
 As each Material is collected or discarded, Elite Dangerous places a entry in the journal indicating this.
 
@@ -37,3 +37,7 @@ This entry records the count and name of materials (and maybe also commodities i
 If you are unhappy with an EDDItemSet, right click on it and select Remove Journal Entry.  You can try again. Or if you wish to edit an EDDItemSet, click on it in the history window, click modify in the materials section, change the data, and click apply. The entry will be updated if required.
 
 If you wish to set the name and count of materials in the past to a certain value, instead of selecting the latest position for the EDDItemSet to be stored, move the history cursor lower (by clicking on a row) to the point where you want the material count to be set up.
+
+# Auto Removing Materials with zero count
+
+Click on remove zero items to have EDDiscovery remove items which have zero counts.  They will be removed at the next point when a new material is used or collected.
