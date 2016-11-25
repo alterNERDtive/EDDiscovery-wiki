@@ -10,6 +10,18 @@ The stars build dynamically as you run the 3D Map, so you will see them building
 
 Zooming in and out, moving around is performed by the mouse mostly.  Use the mouse wheel to zoom, Left drag to rotate, right to go up/down (dependent on perpective mode), left+right to translate.
 
+Click on perspective mode button to change from an othographic straight down projection to a 3D perspective projection of the system.
+
+Click left on a star and the menu bar (on right) will show you its name.
+
+Double click on a star to centre to it.  Then use the mouse wheel to zoom in
+
+Here is a close in view of Sol:
+
+![Sol](http://i.imgur.com/LIA8Czu.png)
+
+This is with star naming enabled, in perspective mode.
+
 Use the menu bar to select many features to turn on/off on the maps:
 
 ![Menu bar](http://i.imgur.com/2qTou0G.png)
@@ -25,7 +37,7 @@ Toolbar (from left):
 * Target	Center on selected target system
 * Lines	For the travelled history, Turn on/off lines between travelled systems or dots on each system
 * Star	Select what stars to display, either none, all stars, all stars with stations marked in blue
-* Star(n)	Select to turn on or off star discs showing at high zoom levels (zoom>=1), and/or star naming, and if stars are coloured.
+* Star(n)	Select to turn on or off star discs showing at high zoom levels (zoom>=1), and/or star naming, and if stars are coloured. Star naming only happens at higher zoom levels.
 * Bookmarks	Turn on/off bookmarks, notemarks or add a new region mark
 * Map Objects	Turn on/off various galaxy map objects, and decide if to name them or not
 * Grid	Turn on/off coarse grid
@@ -41,6 +53,7 @@ Toolbar (from left):
 * Star/Object Entry	Entry box to find specific star or galaxy object
 * Centre	Press this to center what is in the star/object box
 * Eye	Press this to move the camera to look at what is in the star/object box
+
 * Yellow Dot	Show current centered system 
 * Orange Dot	Show selected system (by left mouse click).  Double click to make it centered system. Right click for choice to look up in EDSM (in a web browser tab).
 
