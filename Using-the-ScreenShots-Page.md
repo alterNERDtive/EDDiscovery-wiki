@@ -2,7 +2,7 @@ The screenshot page allows you to configure EDDiscovery to automatically recogni
 
 The [log](Using the EDDiscovery Log Panel) during startup tells you what folder and file type it is scanning for, and after every screenshot tells you it has converted it.  Use this to check the system is working.
 
-![Screenshot](http://i.imgur.com/3p3bqye.png)
+![Screenshot](http://i.imgur.com/29WV12v.png)
 
 # Settings Panel (top)
 
@@ -10,19 +10,21 @@ Options here are:
 
 * Auto convert: turn on/off screen shot system
 
-* ED/Steam Screenshot directory: Set this to the correct folder. See below.
+* ED/Steam Screenshot folder: Set this to the correct folder. See below.
 
-* Converted Pictures: Where to put the files after conversion.
+* Store Converted Pictures: Where to put the files after conversion.
 
 * Save As: What format to put the files in (note BMP cannot be used if the converted pictures folder is the same as ED screenshot folder)
 
 * Scan For: What files to scan for. Select BMP for ED launcher/ED, JPG/PNG (as selected by steam).
 
+* In Sub Folder: Option to store the file in a subfolder of store converted pictures, which different naming schemes.
+
+* File Name Format: Use the drop down to select your preferred naming schema.
+
 * Remove original image after conversion: Select to delete the original screenshot (do not use for steam).
 
 * Mark High Resolution Files: Add a marker to show in the filename its Hi Res (ED Screenshots only)
-
-* File Name Format: Use the drop down to select your preferred naming schema.
 
 On the left you have the following options:
 
