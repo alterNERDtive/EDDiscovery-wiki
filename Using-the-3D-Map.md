@@ -22,32 +22,32 @@ Here is a close in view of Sol:
 
 This is with star naming enabled, in perspective mode.
 
+# Menu Bar
+
 Use the menu bar to select many features to turn on/off on the maps:
 
 ![Menu bar](http://i.imgur.com/2qTou0G.png)
 
-Toolbar (from left):
-
-* Left arrow	Go to previous travelled system (or first system if not selected on a travelled system)
-* Right arrow	Go to next travelled system
-* Marker	Go to latest travelled system
-* >A	Turn on/off Automatically jump to current system when travelling
-* Home	Center on home system
-* !	Center on selected system in the travel history
-* Target	Center on selected target system
-* Lines	For the travelled history, Turn on/off lines between travelled systems or dots on each system
-* Star	Select what stars to display, either none, all stars, all stars with stations marked in blue
-* Star(n)	Select to turn on or off star discs showing at high zoom levels (zoom>=1), and/or star naming, and if stars are coloured. Star naming only happens at higher zoom levels.
-* Bookmarks	Turn on/off bookmarks, notemarks or add a new region mark
-* Map Objects	Turn on/off various galaxy map objects, and decide if to name them or not
-* Grid	Turn on/off coarse grid
-* Fine Grid	Turn on/off fine grid
-* 10,21	Turn on/off grid coordinates
-* Perspective mode	Turn on/off perspective mode.  Perspective mode allows you to fly through the galaxy anywhere
-* Elite Movement	Turn on/off Elite movement - keep Y the same as you travel. Useful in perspective mode only
-* Galaxy	Display galaxy maps
-* Filter	Filter travel by expedition dates
-* ?	In game help
+* Left arrow:	Go to previous travelled system (or first system if not selected on a travelled system)
+* Right arrow:	Go to next travelled system
+* Marker:	Go to latest travelled system
+* >A:	Turn on/off Automatically jump to current system when travelling
+* Home:	Center on home system
+* !:	Center on selected system in the travel history
+* Target:	Center on selected target system
+* Lines:	For the travelled history, Turn on/off lines between travelled systems or dots on each system
+* Star:	Select what stars to display, either none, all stars, all stars with stations marked in blue
+* Star(n):	Select to turn on or off star discs showing at high zoom levels (zoom>=1), and/or star naming, and if stars are coloured. Star naming only happens at higher zoom levels.
+* Bookmarks:	Turn on/off bookmarks, notemarks or add a new region mark
+* Map Objects:	Turn on/off various galaxy map objects, and decide if to name them or not
+* Grid:	Turn on/off coarse grid
+* Fine Grid:	Turn on/off fine grid
+* 10,21:	Turn on/off grid coordinates
+* Perspective mode:	Turn on/off perspective mode.  Perspective mode allows you to fly through the galaxy anywhere
+* Elite Movement:	Turn on/off Elite movement - keep Y the same as you travel. Useful in perspective mode only
+* Galaxy:	Display galaxy maps
+* Filter:	Filter travel by expedition dates
+* ?:	In game help
 	
 * Video Recorder	Record a flight, play back a flight, and save/load flights
 * Star/Object Entry	Entry box to find specific star or galaxy object
@@ -57,3 +57,37 @@ Toolbar (from left):
 * Yellow Dot	Show current centered system 
 * Orange Dot	Show selected system (by left mouse click).  Double click to make it centered system. Right click for choice to look up in EDSM (in a web browser tab).
 
+# Mouse
+
+* Move Hover: Over star or bookmark or galaxy object to get its information in a popup
+* Left Button:	Select star or bookmark or galaxy object
+* Right Button:	Add or Update a bookmark, update a region mark, set as target. Show information on a note mark and set it as a target. Show information on a galaxy object and set it as a target
+* Double Left Click:	Center on selected item
+* Left Hold:	Pitch up/down
+* Right Hold:	Go up/down (Y)
+* Left+Right Hold:	Move position
+* Wheel:	Zoom in/out
+* Ctrl+Wheel:	Change field of view (perspective mode only)
+
+# Keyboard
+
+* WASD:	Move forward, left, back, right 
+* Arrow Pad:	Move forward, left, back, right 
+* RF: Move up and down
+* Shift:	Increase moving speed by 2, used in conjunction with above keys
+* + or Z: Zoom in
+* - or X: Zoom out
+* 1 to 9: Zoom in (1) to out (9) in increments
+* Keypad 4: Yaw left
+* Keypad 6: Yaw right
+* Keypad 8: Pitch up
+* Keypad 5 or 2: Pitch down
+* Q or Keypad 7: Roll left
+* E or Keypad 9: Roll right
+* F1 ?:	This help
+* F3 F4: Increase or decrease the light year limit for displaying star names at a zoom level
+* F5: Start/Stop/Resume a recording
+* F6: Start/Stop/Resumt a step recording
+* F7: Record a manual step during video recording.  Applies in both normal and step recording
+* F8: Pause/Un-Pause a recording
+* F9: Playback the current recording
