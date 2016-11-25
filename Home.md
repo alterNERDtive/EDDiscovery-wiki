@@ -29,11 +29,6 @@ You can learn how [EDDiscovery works with Elite Dangerous](How EDDiscovery Works
 
 See the sidebar to the right for other topics.
 
-# Build Status
-
-* Windows: [![Build status](https://ci.appveyor.com/api/projects/status/ccoyd5tlu5l0n1l2/branch/master?svg=true)](https://ci.appveyor.com/project/EDDiscovery/eddiscovery/branch/master)
-* Mono: [![Travis CI](https://travis-ci.org/EDDiscovery/EDDiscovery.svg?branch=master)](https://travis-ci.org/EDDiscovery/EDDiscovery)
-
 ***
 
 Some images are screenshots from Elite: Dangerous © 2012-2016 Frontier Developments plc. All rights reserved.
