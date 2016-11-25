@@ -1,8 +1,8 @@
 # Interaction with Elite Dangerous
 
-Elite Dangerous creates journal files, with journal entries, in a folder as it runs.  EDDiscovery reads those files, and uses that as its information source.
+Elite Dangerous creates journal files, with journal entries, in a folder as it runs. It places those files in c:\users\ _username_ \Saved Games\Frontier Developments\Elite Dangerous.  
 
-EDDiscovery reads journal files by default from c:\users\<username>\Saved Games\Frontier Developments\Elite Dangerous.  This is where ED 2.2 and on place the journal Log files. 
+EDDiscovery reads those files, and uses that as its information source.
 
 See the [settings page](Using the Settings Page) for the ability to read journal files from places other than this default folder.
 
