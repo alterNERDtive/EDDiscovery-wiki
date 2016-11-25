@@ -8,7 +8,7 @@ See the [settings page](Using the Settings Page) for the ability to read journal
 
 # Journal Entries
 
-There are over 100 types of entry, containing data about your ED game.  Most of the data we want is there, some of it is not listed (such as total material/commodity counts) so some of the limitations of EDDiscovery is due to this.
+There are over 100 types of entry, containing data about your ED game.  Most of the data the user needs is in these entries.  Some of the data you and we want is not in those entries (such as total material/commodity counts), and therefore some of the limitations of EDDiscovery that you may notice could be down to this.
 
 # Commander Creation
 
