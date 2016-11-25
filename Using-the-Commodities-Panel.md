@@ -1,6 +1,6 @@
 The commodities count panel shows the current state and number of known commodities recorded by the Journal, at the [history cursor](Using the History Grid) position.
 
-![Commodities](http://i.imgur.com/zaKUkaE.png)
+![Commodities](http://i.imgur.com/pD4BTlc.png)
 
 As each Commodities is bought, sold, ejected, Elite Dangerous places a entry in the journal indicating this.
 
@@ -37,3 +37,7 @@ This entry records the count and name of commodities (and maybe also materials i
 If you are unhappy with an EDDItemSet, right click on it and select Remove Journal Entry.  You can try again. Or if you wish to edit an EDDItemSet, click on it in the history window, click modify in the commodities section, change the data, and click apply. The entry will be updated if required.
 
 If you wish to set the name and count of commodities in the past to a certain value, instead of selecting the latest position for the EDDItemSet to be stored, move the history cursor lower (by clicking on a row) to the point where you want the commodity count to be set up.
+
+# Auto Removing Commodities with zero count
+
+Click on remove zero items to have EDDiscovery remove items which have zero counts.  They will be removed at the next point when a new commodity is bought, sold or ejected.
