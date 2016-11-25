@@ -22,4 +22,4 @@ The journal entries in the file are then associated with a commander. You won't 
 
 # Reading old pre 2.2 log files.
 
-If you had verbose logging on and have old netlogs, you can still read them in.  See [menu options](Menu Options).  If you did not have verbose logging on (and you will remember if you did!) then your out of luck.
+If you had verbose logging on and have old netlogs, you can still read them in.  See [menu options](Menu Options).  If you did not have verbose logging on (and you will remember if you did!) then your out of luck.  The previous netlogs had only jump information in them.
