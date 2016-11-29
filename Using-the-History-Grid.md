@@ -24,7 +24,10 @@ Using the Time drop down selection, you can filter events by how long ago they o
 
 Using the Search text box, you can filter events by if they contain this bit of text (any Column).
 
-Using the Event Filter drop down, you can filter events by specific event types
+Using the Event Filter drop down, you can filter events by specific event types.
+
+**New!** Use the [Field Filter](Using the Field Filter) to filter out entries matching criteria.  The journal view gives you a good idea of the fields you can pick.  If you have the event in memory already the field entries available will be listed.
+
 
 # Column Resizing
 
