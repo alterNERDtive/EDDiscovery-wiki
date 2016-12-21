@@ -16,6 +16,12 @@ Select the appropriate format.  Include Header places column titles in row 1.  S
 
 * Travel History
 
+* Sold exploration data (all)
+
+* Sold exploration data (by date)
+
+* Route Plan
+
 # Bottom Section: Export Visited Stars to ED Galactic Map
 
 This writes importstars.txt to the correct folder for elite dangerous to read the file, to allow ED to update its visiting stars cache. These stars will appear in the ED Galactic map next time ED is started.  
