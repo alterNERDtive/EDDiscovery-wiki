@@ -31,6 +31,10 @@ The menu options, accessible in all pages, is detailed below:
 
 * Send unsysced EDDN events: **Test Feature** Use to send EDDN events in the past. Use with extreme caution.
 
+* Clear EDSM ID assigned to all records for current commander: **Advanced** If you are having problems with notes disappearing, or a system is not matching the EDSM entry (which on an individual basis you can fix using a right click on the travel grid and selecting Assign new system), use this. This will clear the association between a entry and an EDSM star.  EDDiscovery will then when next refreshed or run try and find that association again.  
+
+If EDSM ever (unlikely) renumbers stars, then also notes could disappear as they are keyed to the EDSM ID.  This would also solve this.
+
 # Help
 
 * About: Who, what, when.  The credits.
