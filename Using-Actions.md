@@ -80,7 +80,7 @@ A program when run gets the following variables:
 
  EventJID - Journal unique ID for this entry
 
-* Key Actions
+# Key Actions
 To define a key action, the trigger event needs to be onKeyPress, the condition must be in the form KeyPress string equals (or IsOneOf) and either a single keyname (string equals) or a comma separated list of keynames (IsOneOf)
 
 Keynames are:
@@ -101,14 +101,9 @@ Keynames are:
 
 * tidle, comma, period, question, Minus, Plus, Home, End, Insert, Delete, Next (Pagedown) PageUp, Back, Down, Up, Left, Right, F1-F12, Decimal, Return, Enter, Add, Subtract, Multiply, Divide
 
-
-
-
- 
-
-*** Action Program Page
+# Action Program
 
 link to action doc
 
-*** Running actions due to journal entries
+
 
