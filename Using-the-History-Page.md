@@ -70,4 +70,13 @@ The panels currently supported (more will be added)
 
 And additional pop out ones only:
 
-[S panel]
+[S panel] (Using the SPanel)
+
+[Trip panel] (Using the Trip Panel)
+
+[Note panel] (Using the Note Panel)
+
+[Route tracker] (using the Route Tracker Panel)
+
+[Exploration] (using the Exploration Panel)
+
