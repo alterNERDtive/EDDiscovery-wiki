@@ -27,7 +27,8 @@ See the [history grid](Using the History Grid) topic for help in use of this vie
 * Cmdr: use to select which commander to display information about, or Hidden for entries you have hidden
 * [2D Maps](Using the 2D Map), [3D Map](Using the 3D Map): open maps
 * PopOut: select a pop out data panel (see below)
-* S-Panel: launch the nitty [SPanel](Using the SPanel) which you can place over the top of Elite Dangerous and give you information when you are playing the game
+* S-Panel + more: launch a pop out window (one of many)
+* [Actions](Using Actions): Open the action configuration menu. Actions are little programs which can run when a journal entry, key or voice command is received and allow you to say or change the configuration of the program
 * EDSM Sync: if you've configured EDSM sync in [Settings Page](Using the Settings Page) then this causes EDDiscovery to check for EDSM information and up and download it
 
 The system report shows you information about the current system that is selected by the travel grid cursor.  It also shows you any notes you made about the travel grid entry. It has an EDSM, EDDBId and ROSS button to take you directly to the appropriate web pages for that system.
