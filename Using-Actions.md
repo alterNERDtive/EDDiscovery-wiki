@@ -80,6 +80,29 @@ A program when run gets the following variables:
 
  EventJID - Journal unique ID for this entry
 
+* Key Actions
+To define a key action, the trigger event needs to be onKeyPress, the condition must be in the form KeyPress string equals (or IsOneOf) and either a single keyname (string equals) or a comma separated list of keynames (IsOneOf)
+
+Keynames are:
+
+* Shift+ , Ctrl+ , Alt+ , Shift+Ctrl+, Shift+Alt+, Shift+Ctrl+Alt+
+
+* A-Z, 0-9
+
+* Numpad 0-9
+
+* Oem1 (';' on UK keyboards)
+
+* Oem5 ('\' on UK keyboards)
+
+* Oem7 ('#' on UK keyboards)
+
+* Oem8 ('`' on UK keyboards)
+
+* tidle, comma, period, question, Minus, Plus, Home, End, Insert, Delete, Next (Pagedown) PageUp, Back, Down, Up, Left, Right, F1-F12, Decimal, Return, Enter, Add, Subtract, Multiply, Divide
+
+
+
 
  
 
