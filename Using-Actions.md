@@ -48,6 +48,10 @@ A program when run gets the following variables:
 
  TriggerType - the main reason type why the program was run.  "ProgramEvent", "NewEntry", "KeyPress", "UserRightClick"
 
+ TriggerLocalTime - Local time in US format
+
+ TriggerUTCTime - UTC time in US format
+
 * Parameters in the event which causes the program to run 
  
  Any variables defined in the parameter field (just pass the P button) is passed to the event.  These parameters are associated with the action condition itself, not the program, so a single program can be assigned to multiple action conditions and have unique parameters passed in for each condition.  This is a powerful mechanism meaning you can limit the number of programs you need to write.
@@ -57,6 +61,27 @@ A program when run gets the following variables:
  Associated with the condition event which caused it to run.  Event data directly from the event JSON are named EventJS_<name>, event data decoded through the internal classes are named EventClass_<name>.  Often these will duplicate each other, sometimes the class names have better decoded information. The best way to see what is available is setting up an event, and running it (right click and run event) and using #pragma dumpvars * to see what is available.
 
  EventJS_event always gives the eventname, and EventJS_timestamp gives the time (US format).
+
+ EventLocalTime - Local time of event
+
+ EventDockedState - docked state, 1 or 0
+
+ EventLandedState - landed state, 1 or 0
+
+ EventStarSystem - star system name
+
+ EventStarSystemEDSMID - EDSMID
+
+ EventWhereAmI - if docked, what station, empty otherwise
+
+ EventShipType - ship type
+
+ EventIndexOf - index displayed on screen for this entry
+
+ EventJID - Journal unique ID for this entry
+
+
+ 
 
 *** Action Program Page
 
