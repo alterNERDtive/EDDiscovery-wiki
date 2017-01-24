@@ -13,9 +13,9 @@ Two of the views are fixed:
 
 Three of the views are configurable:
 
-* Bottom Left View
-* Right Middle View
-* Right Bottom View
+* Bottom View
+* Middle Right View
+* Bottom Right View
 
 # Using the History Grid
 See the [history grid](Using the History Grid) topic for help in use of this view area.
@@ -27,7 +27,7 @@ See the [history grid](Using the History Grid) topic for help in use of this vie
 * Cmdr: use to select which commander to display information about, or Hidden for entries you have hidden
 * [2D Maps](Using the 2D Map), [3D Map](Using the 3D Map): open maps
 * PopOut: select a pop out data panel (see below)
-* S-Panel + more: launch a pop out window (one of many)
+* S-Panel + more: launch a pop out window (see below)
 * [Actions](Using Actions): Open the action configuration menu. Actions are little programs which can run when a journal entry, key or voice command is received and allow you to say or change the configuration of the program
 * EDSM Sync: if you've configured EDSM sync in [Settings Page](Using the Settings Page) then this causes EDDiscovery to check for EDSM information and up and download it
 
@@ -44,6 +44,8 @@ Left clicking on the pop out icon (first one) pops out the current view to a new
 
 Left clicking on any other icon changes the view to that data panel. Right clicking on any other icon gives you the option to pop out that data panel to a new window.
 
+# Panel Views and Pop Outs
+
 The panels currently supported (more will be added)
 
 [EDDiscovery Log](Using the EDDiscovery Log Panel)
@@ -56,12 +58,16 @@ The panels currently supported (more will be added)
 
 [Ledger](Using the Ledger Panel)
 
-[History Grid](Using the History Grid)
-
 [Journal Grid](Using the Journal Page)
+
+[History Grid](Using the History Grid)
 
 [Screenshot panel](Using the Screenshot Panel)
 
 [Statistics panel](Using the Statistics Panel)
 
 [Scan Panel](Using the Scan Panel)
+
+And additional pop out ones only:
+
+[S panel]
