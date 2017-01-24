@@ -41,8 +41,11 @@ A program when run gets the following variables:
 * Program information
 
  Commander - commander name
+
  RefreshCount - number of times refresh has been run on this commander. Reset to 1 when commander changes
+
  TriggerName - Event which caused the program to run.  The same as the event in the first column of the Action condition
+
  TriggerType - the main reason type why the program was run.  "ProgramEvent", "NewEntry", "KeyPress", "UserRightClick"
 
 * Parameters in the event which causes the program to run 
