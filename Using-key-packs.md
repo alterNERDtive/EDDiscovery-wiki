@@ -44,8 +44,3 @@ The keys currently set up are:
 * Alt+F3 : Program window show in task bar
 * Alt+F4 : Program window not show in task bar
 * Alt+F8 : Configure speech synthesis
-
-
-
-
-This document describes what these %function are is described in this [action program language google document](https://docs.google.com/document/d/1M7ODl9Z68vzKCRFXKD2be3l3747G_rgzM1TnaXOiR0w/edit?usp=sharing) and also describes the Say command format with the semicolons.
