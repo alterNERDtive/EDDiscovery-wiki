@@ -1,6 +1,6 @@
 The settings page configures operation of EDDiscovery.
 
-![Settings page](http://i.imgur.com/nU2X9Ew.png)
+![Settings page](http://i.imgur.com/BeTNNbw.png)
 
 The page is split into the following sections.
 
@@ -39,6 +39,10 @@ These configure EDDiscovery:
 
 * Display Game time instead of local time: Display UTC game time instead of your local time.
 
+* Show notification area icon : show a notification icon in the notification area.
+
+* Minimize to notification area icon : when minimised, don't show a task bar icon, instead just show a notification area icon.
+
 # Theme
 
 See [configuring ED theme](Configuring the look of EDDiscovery) for how to change the look of EDDiscovery
@@ -54,6 +58,17 @@ You can configure some information that 3D Maps needs before starting here:
 * Default Zoom: Select the zoom to use when opening. Use the map itself to find out your preferred zoom and then enter it here.
 
 * Default Map Colour: New FSD journal entries are assigned this colour to show on 3D Map.
+
+# Pop Out Widnow Options
+
+* Load Setup on Start : Reload last saved pop out configuration
+
+* Save Setup on Start : Save pop out configuration at exit
+
+* Open Saved Setup : Open now the saved setup.  For manual use.
+
+* Save Current Setup : Save now the current setup.  For manual use.
+
 
 
 
