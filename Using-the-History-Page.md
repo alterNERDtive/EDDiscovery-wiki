@@ -46,7 +46,7 @@ Left clicking on any other icon changes the view to that data panel. Right click
 
 # Panel Views and Pop Outs
 
-The panels currently supported (more will be added)
+These panels can be either embedded in the travel history page or popped out:
 
 [EDDiscovery Log](Using the EDDiscovery Log Panel)
 
