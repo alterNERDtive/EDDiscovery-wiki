@@ -4,7 +4,7 @@ The edit add-ons menu provides the means to define new actions to events and ass
 
 This shows two simple action events defined:
 
-* The first, occurs on a keypress (column 1), and runs the program OnKeyPress(Column 2).  The condition associated is when the KeyPress variable (which gets the name of the keypress when it happens) is equal to F6.  So we have associated F6 with the action program onKeyPress.
+* The first, occurs on a keypress (column 1), and runs the program onKeyPress(Column 2).  The condition associated is when the KeyPress variable (which gets the name of the keypress when it happens) is equal to F6.  So we have associated F6 with the action program onKeyPress.
 
 * The second, occurs when a journal event ApproachSettlement is received by EDD.  It runs the program ApproachSettlement. We could set up a condition to check for a parameter of Approach settlements is true, and only allow the program to run if so (say EventClass_Name == (Str) settlement name) but here we have used the condition Always True, which means when any ApproachSettlement journal event is received, the program runs.
 
