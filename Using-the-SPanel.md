@@ -2,7 +2,7 @@ The scan panel is useful to place over the top of Elite Dangerous. Make sure ED 
 
 The scan panel in non transparent mode with caption on looks like this:
 
-[http://i.imgur.com/WTf1jtO.png](non transparent)
+![http://i.imgur.com/WTf1jtO.png](non transparent)
 
 The icons along the top configure it.  T means transparent on/off, C means caption("Summary panel") on/off, the box with dots mean show in taskbar on/off.  The empty rectangle is top most on/off, finally minimise and close.
 
