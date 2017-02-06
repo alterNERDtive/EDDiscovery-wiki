@@ -36,11 +36,11 @@ You can rename the program if required.  If so, the current program is left alon
 
 You can delete the program using the 'X' under the close icon at top.
 
-Left click drag and right click allows statements to be highlighted then copy/paste/deleted.
+Left click drag and right click allows statements to be highlighted then copy/paste/deleted.  Make sure your dragging across empty screen areas, it won't work if your on top of a control like the text box.  The area between the statement name and the statement value is best.
 
 ![copy paste](http://i.imgur.com/uLlzabM.png)
 
-Left click drag to highlight, then click copy.  Right click on the place to insert above, then paste.
+Left click drag to highlight, then click copy.  Right click on the place to insert above (make sure its empty screen space), then paste.
 
 You can also ask for whitespace to be inserted between statements for clarity.
 
