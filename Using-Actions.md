@@ -1,61 +1,21 @@
-# Defining Actions
+# What are Actions and Action Programs and Packs?
 
-Actions are small programs triggered by one of the action trigger conditions.  The programs allow you to reconfigure ED Discovery, to play a sound or voice synthesize a phrase. 
+The Action system, new to 6.0, adds the ability to run a small program when an event is received via the journal, or via a keypress, or due to a program event (startup,shutdown, popup etc).
 
-A trigger runs one program, which receives input variables to configure the program.
+These programs can trigger program events themselves, say phrases to the windows text to speech engine, play a sound etc.
 
-# Defining a new Action condition
+Using Actions makes it possible to make action packs. A action pack is a combination of the event triggers and the programs which support those triggers.  Various action packs are in existance, the most common ones is the voice pack (adding voice output to EDD) and the keyboard pack (adding ctrl and F key presses to EDD).
 
-.. pic
+Access to the actions system is via the Add-Ons menu (because these are optional add-ons to the system).  The menu defines:
 
-you define a new action condition:
+* [Manage Add-ons](Using the manage Add-Ons Menu) : Allows the user to install, remove or enable/disable the add on packs.
 
-* The first column defines ..
+* [Edit Add-on Action Files](Using the edit Add-On Action Files Menu) : Allows creation of add-on packs.  Also see [Actions](Using Actions)
 
-## Action triggers
+* [Speech Synthesis Settings](Using the Speech Synthesis Settings Menu) : For the speech pack, a user friendly menu to configure various speech parameters.
 
-* New Journal entries
-* Program start (onStartup)
-* Refresh start (onRefreshStart) and end (onRefreshEnd)
-* New journal entry (one of the Journal event types)
-* Keypress (onKeyPress)
-* Voice recognition (to come)
+* [Edit in text current speech synthesis variables](Using the edit Speech Synthesis Variables Menu) : For the speech pack, a quick way to go to the definition file for the speech variables
 
-## Associating a program
+* Stop currently running Action program : Only use if a program with a loop continues and refuses to stop (unlikely).
 
-## Defining Input Parameters to the program
-
-## Setting the condition for the program to run
-
-Can be based on event parameters
-Can be "Always true"
-For keyevents, it should be KeyPress (== str or IsOneOf) key names. See below for key value names.
-
-
-# Key Actions
-To define a key action, the trigger event needs to be onKeyPress, the condition must be in the form KeyPress string equals (or IsOneOf) and either a single keyname (string equals) or a comma separated list of keynames (IsOneOf)
-
-Keynames are:
-
-* Shift+ , Ctrl+ , Alt+ , Shift+Ctrl+, Shift+Alt+, Shift+Ctrl+Alt+
-
-* A-Z, 0-9
-
-* Numpad 0-9
-
-* Oem1 (';' on UK keyboards)
-
-* Oem5 ('\' on UK keyboards)
-
-* Oem7 ('#' on UK keyboards)
-
-* Oem8 ('`' on UK keyboards)
-
-* tidle, comma, period, question, Minus, Plus, Home, End, Insert, Delete, Next (Pagedown) PageUp, Back, Down, Up, Left, Right, F1-F12, Decimal, Return, Enter, Add, Subtract, Multiply, Divide
-
-# Action Program
-
-link to action doc
-
-
-
+Click on one of the above to see how to download and configure an action pack.
