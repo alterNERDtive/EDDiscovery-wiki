@@ -1,6 +1,6 @@
 # Whats New?
 
-* [6.0](Release 6.0) brings you voice packs to add speech to EDD, key packs to add key shortcuts, many visual improvements, refinements to journal output.
+* [6.0](Release 6.0) brings you [voice packs](Using voice packs) to add speech to EDD, [key packs](Using key packs) to add key shortcuts, many visual improvements, refinements to journal output.
 
 # EDDiscovery – What is it? 
 
