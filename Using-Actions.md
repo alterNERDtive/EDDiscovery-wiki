@@ -19,3 +19,5 @@ Access to the actions system is via the Add-Ons menu (because these are optional
 * Stop currently running Action program : Only use if a program with a loop continues and refuses to stop (unlikely).
 
 Click on one of the above to see how to download and configure an action pack.
+
+The action language is described in this [google doc](https://docs.google.com/document/d/1M7ODl9Z68vzKCRFXKD2be3l3747G_rgzM1TnaXOiR0w/edit?usp=sharing)
