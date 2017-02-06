@@ -35,6 +35,18 @@ The menu options, accessible in all pages, is detailed below:
 
 * Clear EDSM ID assigned to all records for current commander: **Advanced** If you are having problems with notes disappearing, or a system is not matching the EDSM entry (which on an individual basis you can fix using a right click on the travel grid and selecting Assign new system), use this. This will clear the association between a entry and an EDSM star.  EDDiscovery will then when next refreshed or run try and find that association again.  If EDSM ever (unlikely) renumbers stars, then also notes could disappear as they are keyed to the EDSM ID.  This would also solve this.
 
+# Add Ons
+
+* [Manage Add-ons](Using the manage Add-Ons Menu) : Allows the user to install, remove or enable/disable the add on packs.
+
+* [Edit Add-on Action Files](Using the edit Add-On Action Files Menu) : Allows creation of add-on packs.  Also see [Actions](Using Actions)
+
+* [Speech Synthesis Settings] : For the speech pack, a user friendly menu to configure various speech parameters.
+
+* [Edit in text current speech synthesis variables] : For the speech pack, a quick way to go to the definition file for the speech variables
+
+* Stop currently running Action program : Only use if a program with a loop continues and refuses to stop (unlikely).
+
 # Help
 
 * About: Who, what, when.  The credits.
