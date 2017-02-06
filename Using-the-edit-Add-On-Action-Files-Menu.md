@@ -20,7 +20,7 @@ The other options on this screen are:
 
 Along the bottom are some controls for the event packs as a whole:
 
-* Set: <name drop down> : This is how you make a new pack (using New) or go to another pack for editing. Changing from one pack to another causes the current pack to save (you may get a warning) and then the other packloads.
+* Set: name drop down box : This is how you make a new pack (using New) or go to another pack for editing. Changing from one pack to another causes the current pack to save (you may get a warning if it detects errors) and then the other packloads.
 * Enable : Enable or diable this pack, as per the [Manage Add-ons](Using the manage Add-Ons Menu) menu.
 * Program : directly edit a program, or make a new program (You may want a program not directly associated with an event if its a subroutine)
 * Globals : Edit the EDD global action variables.  These feed information into actions.  For instance the speech parameters are global variables which you can edit here (but thats easier using [Speech Synthesis Settings](Using the Speech Synthesis Settings Menu))
