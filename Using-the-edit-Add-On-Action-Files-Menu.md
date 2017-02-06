@@ -46,9 +46,13 @@ You can also ask for whitespace to be inserted between statements for clarity.
 
 Along the bottom are some controls for the program:
 
-* Text Edit : Edit in a text editor.  You can then edit it in text. Once finished, the program will be checked and imported if all is okay.  This is a more advanced option.
+* Text Edit : Edit in a text editor.  You can then edit it in text. Once finished, the program will be checked and imported if all is okay.  This is a more advanced option.  Make sure you save the file back to disk before quitting otherwise EDD won't see the changes!
 
 ![text edit](http://i.imgur.com/VIveDYQ.png)
 
 * Load : Load a text version of the program
 * Save : Save a text version of the program
+
+The power of this system comes from using the variables defined by events, such as EventClass_Name etc. 
+
+This [action program language google document](https://docs.google.com/document/d/1M7ODl9Z68vzKCRFXKD2be3l3747G_rgzM1TnaXOiR0w/edit?usp=sharing) describes the action program language.
