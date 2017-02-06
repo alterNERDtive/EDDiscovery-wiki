@@ -1,3 +1,7 @@
+# Whats New?
+
+* [6.0](Release 6.0) brings you voice packs to add speech to EDD, key packs to add key shortcuts, many visual improvements, refinements to journal output.
+
 # EDDiscovery – What is it? 
 
 You play Elite Dangerous and have heard of EDDiscovery - and ended up here.  So what _is_ it?  
