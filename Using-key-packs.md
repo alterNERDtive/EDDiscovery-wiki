@@ -44,3 +44,4 @@ The keys currently set up are:
 * Alt+F3 : Program window show in task bar
 * Alt+F4 : Program window not show in task bar
 * Alt+F8 : Configure speech synthesis
+* Shift+F8 : Edit last action file opened in text mode.
