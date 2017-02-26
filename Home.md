@@ -29,6 +29,8 @@ Which you can select from. See the topics above for information on each page.
 
 EDDiscovery also has [Menu Options](Menu Options) for some quick access functions and to run housekeeping functions which seldom need executing.
 
+[Configuration Options](Configuraton Options) exist to control how EDDiscovery starts and where data is stored.
+
 You can learn how [EDDiscovery works with Elite Dangerous](How EDDiscovery Works) here.
 
 See the sidebar to the right for other topics.
