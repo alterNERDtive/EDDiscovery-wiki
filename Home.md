@@ -1,6 +1,16 @@
 # Whats New?
 
-* [6.0](Release 6.0) brings you [voice packs](Using voice packs) to add speech to EDD, [key packs](Using key packs) to add key shortcuts, [Actions](Using Actions) to define your own custom responses to key presses or journal entries, and many visual improvements, refinements to journal output etc.
+[6.1](Release 6.1) is out! Featuring:
+
+* more [voice packs](Using voice packs) features, which add speech to EDD. This has voice effects to make your computers voice more fun to use, verbosity control, EDSM read out of known system data, better read out of star names etc.
+
+* Audio device can be selected
+
+* Minor changes to [key packs](Using key packs) to add a few more key shortcuts.
+
+* Stability fixes and speed improvements
+
+* Scan data estimated value added
 
 # EDDiscovery – What is it? 
 
@@ -35,6 +45,9 @@ You can learn how [EDDiscovery works with Elite Dangerous](How EDDiscovery Works
 
 See the sidebar to the right for other topics.
 
-***
+# Previous Releases:
 
+* [6.0](Release 6.0) brings you [voice packs](Using voice packs) to add speech to EDD, [key packs](Using key packs) to add key shortcuts, [Actions](Using Actions) to define your own custom responses to key presses or journal entries, and many visual improvements, refinements to journal output etc.
+
+# Images:
 Some images are screenshots from Elite: Dangerous © 2012-2016 Frontier Developments plc. All rights reserved.
