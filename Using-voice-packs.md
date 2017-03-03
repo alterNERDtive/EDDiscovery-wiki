@@ -8,7 +8,7 @@ For advanced users who wish to tailour the phrases, use the [Edit in text curren
 
 You may also want to translate it.  if so, once you have changed the file, please contact the Discovery team on discord and we can update the voice pack to have your translation in it!
 
-See the action help for a document describing what the functions mean.
+See the [action help](Using Actions) for a document describing what the functions mean.
 
 Hitting F8 (if you have the keypack) or using the Edit Add-On menu option brings up the Action editor.  At the bottom left, ensure you have the voice pack selected:
 
