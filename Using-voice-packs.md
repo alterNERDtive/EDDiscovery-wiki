@@ -8,4 +8,12 @@ For advanced users who wish to tailour the phrases, use the [Edit in text curren
 
 You may also want to translate it.  if so, once you have changed the file, please contact the Discovery team on discord and we can update the voice pack to have your translation in it!
 
-This document describes what these %function are is described in this [action program language google document](https://docs.google.com/document/d/1M7ODl9Z68vzKCRFXKD2be3l3747G_rgzM1TnaXOiR0w/edit?usp=sharing) and also describes the Say command format with the semicolons.
+See the action help for a document describing what the functions mean.
+
+Hitting F8 (if you have the keypack) or using the Edit Add-On menu option brings up the Action editor.  At the bottom left, ensure you have the voice pack selected:
+
+![](http://i.imgur.com/9bd7jql.png)
+
+Each event may be enabled/disabled using the column here shown Always True/Enable.  Set this to disable to turn the event off.
+
+See the [Action pack Edit] (Using the edit Add On Action Files Menu) for more information.
