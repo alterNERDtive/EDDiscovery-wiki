@@ -1,18 +1,18 @@
 # Whats New?
 
-[6.1](Release 6.1) is out! Featuring:
+[[6.1|Release 6.1]] is out! Featuring:
 
-* more [voice packs](Using voice packs) features, which add speech to EDD. This has voice effects to make your computers voice more fun to use, verbosity control, EDSM read out of known system data, better read out of star names etc.
+* more [[voice packs|Using voice packs]] features, which add speech to EDD. This has voice effects to make your computers voice more fun to use, verbosity control, EDSM read out of known system data, better read out of star names etc.
 
 * Audio device can be selected
 
-* Minor changes to [key packs](Using key packs) to add a few more key shortcuts.
+* Minor changes to [[key packs|Using key packs]] to add a few more key shortcuts.
 
 * Stability fixes and speed improvements
 
 * Scan data estimated value added
 
-Also See [Previous Releases](Previous Releases) for past history of EDDiscovery.
+Also See [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
 # EDDiscovery – What is it? 
 
