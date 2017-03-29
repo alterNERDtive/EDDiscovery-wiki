@@ -7,7 +7,7 @@ The page is split into the following sections.
 # Commanders
 This grid allows you to configure information for commanders. 
 
-See the topic [How EDDiscovery Works](How EDDiscovery Works) for information on how EDDiscovery discovers and creates new commanders.
+See the topic [[How EDDiscovery Works|How EDDiscovery Works]] for information on how EDDiscovery discovers and creates new commanders.
 
 You can add a new commander manually, but that is not normally required any longer.  The only use case for this is if you want to scan non standard folders for journal files. In which case, make a commander (any name will do) and set the override journal location to the folder where journal files will be written.  Then EDDiscovery will scan that folder and read in all journal files found there, creating commanders as required.  This is useful if your runnin EDDiscovery remotely from ED - share a network drive and EDDiscovery will work.
 
@@ -15,7 +15,7 @@ You can manually delete a commander. Note if the journal is scanned with the com
 
 You may wish to configure a commander, for interaction with other systems as follows:
 
-* EDSM API Key: If your going to send travel history to EDSM, you need to enter your EDSM API key [EDSM Integration](EDSM Integration with EDDiscovery).
+* EDSM API Key: If your going to send travel history to EDSM, you need to enter your EDSM API key [[EDSM Integration|EDSM Integration with EDDiscovery]].
 
 * EDSM Name: If for some reason you did not use the same commander name used in game on EDSM, enter your EDSM name here.
 
@@ -35,7 +35,7 @@ These configure EDDiscovery:
 
 * Number Rows Latest Entry Highest: By default 1 is the latest entry. If you prefer it the other way around, click this.
 
-* History cursor to new Journal Entry automatically: When a new journal entry is entered, change the cursor on the [history grid](Using the History Grid) to the entry.
+* History cursor to new Journal Entry automatically: When a new journal entry is entered, change the cursor on the [[history grid|Using the History Grid]] to the entry.
 
 * Display Game time instead of local time: Display UTC game time instead of your local time.
 
@@ -45,7 +45,7 @@ These configure EDDiscovery:
 
 # Theme
 
-See [configuring ED theme](Configuring the look of EDDiscovery) for how to change the look of EDDiscovery
+See [[configuring ED theme|Configuring the look of EDDiscovery]] for how to change the look of EDDiscovery
 
 # 3D Map Settings
 
