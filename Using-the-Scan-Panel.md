@@ -18,7 +18,7 @@ Right clicking the star panel gives you the following options:
 
 * Show/Hide menu bar: Once configured, turn it off and get more space
 
-Hovering over a item shows you a text description of it.  CLicking on a planet pops up a note with the same data.
+Hovering over a item shows you a text description of it.  Clicking on a planet pops up a note with the same data.
 
 ![Scan notes](http://i.imgur.com/Rdh8TqX.png)
 
