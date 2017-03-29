@@ -8,7 +8,7 @@ Each view can be resized, as shown above, against its siblings. The split betwee
 
 Two of the views are fixed:
 
-* [History Grid](Using the History Grid) (Top Left)
+* [[History Grid|Using the History Grid]] (Top Left)
 * User Controls and System Report on currently selected item on Travel Grid (Top Right)
 
 Three of the views are configurable:
@@ -18,17 +18,17 @@ Three of the views are configurable:
 * Bottom Right View
 
 # Using the History Grid
-See the [history grid](Using the History Grid) topic for help in use of this view area.
+See the [[history grid|Using the History Grid]] topic for help in use of this view area.
 
 # Using the User Controls
 ![User Controls](http://i.imgur.com/tppkCVe.png)
 
 * Refresh: causes EDDiscovery to recheck the journal files
 * Cmdr: use to select which commander to display information about, or Hidden for entries you have hidden
-* [2D Maps](Using the 2D Map), [3D Map](Using the 3D Map): open maps
+* [[2D Maps|Using the 2D Map]], [[3D Map|Using the 3D Map]]: open maps
 * PopOut: select a pop out data panel (see below)
 * S-Panel + more: launch a pop out window (see below)
-* EDSM Sync: if you've configured EDSM sync in [Settings Page](Using the Settings Page) then this causes EDDiscovery to check for EDSM information and up and download it
+* EDSM Sync: if you've configured EDSM sync in [[Settings Page|Using the Settings Page]] then this causes EDDiscovery to check for EDSM information and up and download it
 
 The system report shows you information about the current system that is selected by the travel grid cursor.  It also shows you any notes you made about the travel grid entry. It has an EDSM, EDDBId and ROSS button to take you directly to the appropriate web pages for that system.
 
@@ -47,35 +47,40 @@ Left clicking on any other icon changes the view to that data panel. Right click
 
 These panels can be either embedded in the travel history page or popped out:
 
-[EDDiscovery Log](Using the EDDiscovery Log Panel)
+[[EDDiscovery Log|Using the EDDiscovery Log Panel]]
 
-[Nearest stars](Using the Nearest Stars Panel)
+[[Nearest stars|Using the Nearest Stars Panel]]
 
-[Materials count](Using the Materials Panel)
+[[Materials count|Using the Materials Panel]]
 
-[Commodities count](Using the Commodities Panel)
+[[Commodities count|Using the Commodities Panel]]
 
-[Ledger](Using the Ledger Panel)
+[[Ledger|Using the Ledger Panel]]
 
-[Journal Grid](Using the Journal Page)
+[[Journal Grid|Using the Journal Page]]
 
-[History Grid](Using the History Grid)
+[[History Grid|Using the History Grid]]
 
-[Screenshot panel](Using the Screenshot Panel)
+[[Screenshot panel|Using the Screenshot Panel]]
 
-[Statistics panel](Using the Statistics Panel)
+[[Statistics panel|Using the Statistics Panel]]
 
-[Scan Panel](Using the Scan Panel)
+[[Scan Panel|Using the Scan Panel]]
+
+[[Modules|Using the Modules Panel]]
+
+[[Exploration|Using the Exploration Panel]]
+
+[[Synthesis|Using the Synthesis Panel]]
 
 And additional pop out ones only:
 
-[S panel] (Using the SPanel)
+[[S panel|Using the SPanel]]
 
-[Trip panel] (Using the Trip Panel)
+[[Trip panel|Using the Trip Panel]]
 
-[Note panel] (Using the Note Panel)
+[[Note panel|Using the Note Panel]]
 
-[Route tracker] (using the Route Tracker Panel)
+[[Route tracker|Using the Route Tracker Panel]]
 
-[Exploration] (using the Exploration Panel)
 
