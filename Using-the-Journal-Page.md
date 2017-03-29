@@ -4,7 +4,7 @@ The journal page (and also Grid) shows a simpler view of the history, with a sin
 
 The grid consists of the following columns:
 
-* Time: (either Game time (UTC) or Time (Local), set this up [using the settings page](Using the Settings Page).
+* Time: (either Game time (UTC) or Time (Local), set this up [[using the settings page|Using the Settings Page]].
 * Event: Icons describing the event, plus other icons for start/stop journey, Map entry colour, etc
 * Description: short description of the event
 * Information: more detailed information about the event
@@ -21,7 +21,7 @@ Using the Search text box, you can filter events by if they contain this bit of 
 
 Using the Event Filter drop down, you can filter events by specific event types.
 
-**New!** Use the [Field Filter](Using the Field Filter) to filter out entries matching criteria.  The journal view gives you a good idea of the fields you can pick.  If you have the event in memory already the field entries available will be listed.
+Use the [[Field Filter|Using the Field Filter]] to filter out entries matching criteria.  The journal view gives you a good idea of the fields you can pick.  If you have the event in memory already the field entries available will be listed.
 
 # Column Resizing
 
@@ -33,11 +33,11 @@ You can click drag down on the grid to select multiple entries at one time for r
 
 # Right Click options
 
-Right click either on a previous selection or a entry and you will be presented with the following options (a more limited selection than [the history grid](Using the History Grid) ):
+Right click either on a previous selection or a entry and you will be presented with the following options (a more limited selection than [[the history grid|Using the History Grid]] ):
 
 ![Right click options](http://i.imgur.com/URNsxY7.png)
 
-* Go to star on 3D Map : Open the [3D Map](Using the 3D Map) and go to this system.
+* Go to star on 3D Map : Open the [[3D Map|Using the 3D Map]] and go to this system.
 
 * View On EDSM: Open a web page on this system
 
