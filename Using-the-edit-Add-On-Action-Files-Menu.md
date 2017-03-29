@@ -1,6 +1,6 @@
 The edit add-ons menu provides the means to define new actions to events and associate action programs with these events.
 
-![actions](http://i.imgur.com/3zNu4sh.png)
+![actions](http://i.imgur.com/gMhHyfu.png)
 
 This shows two simple action events defined:
 
