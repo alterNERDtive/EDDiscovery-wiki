@@ -1,6 +1,6 @@
 The screenshot page allows you to configure EDDiscovery to automatically recognise screenshots taken either inside Elite Dangerous (F10) or via Steam, and convert and rename them into another format.  Additionally you can crop them if required.
 
-The [log](Using the EDDiscovery Log Panel) during startup tells you what folder and file type it is scanning for, and after every screenshot tells you it has converted it.  Use this to check the system is working.
+The [[log|Using the EDDiscovery Log Panel]] during startup tells you what folder and file type it is scanning for, and after every screenshot tells you it has converted it.  Use this to check the system is working.
 
 ![Screenshot](http://i.imgur.com/29WV12v.png)
 
