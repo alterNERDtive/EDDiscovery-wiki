@@ -4,7 +4,7 @@ The ledger panel shows a history of financial related transactions in time order
 
 The grid consists of the following columns:
 
-* Time: (either Game time (UTC) or Time (Local), set this up [using the settings page](Using the Settings Page).
+* Time: (either Game time (UTC) or Time (Local), set this up [[using the settings page|Using the Settings Page]].
 * Type: Event Type of entry
 * Notes: short description on the line item
 * Credits: If a positive cash flow in
