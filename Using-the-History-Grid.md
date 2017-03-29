@@ -2,7 +2,7 @@ The history grid present a list of events entries.  Each event is named, given a
 
 The grid consists of the following columns:
 
-* Time: (either Game time (UTC) or Time (Local), set this up [using the settings page](Using the Settings Page).
+* Time: (either Game time (UTC) or Time (Local), set this up [[using the settings page|Using the Settings Page]].
 * Event: Icons describing the event, plus other icons for start/stop journey, Map entry colour, etc
 * Description: short description of the event
 * Information: more detailed information about the event
@@ -26,7 +26,7 @@ Using the Search text box, you can filter events by if they contain this bit of 
 
 Using the Event Filter drop down, you can filter events by specific event types.
 
-**New!** Use the [Field Filter](Using the Field Filter) to filter out entries matching criteria.  The journal view gives you a good idea of the fields you can pick.  If you have the event in memory already the field entries available will be listed.
+Use the [[Field Filter|Using the Field Filter]] to filter out entries matching criteria.  The journal view gives you a good idea of the fields you can pick.  If you have the event in memory already the field entries available will be listed.
 
 
 # Column Resizing
@@ -43,11 +43,11 @@ Right click either on a previous selection or a entry and you will be presented 
 
 ![Right click options](http://i.imgur.com/URNsxY7.png)
 
-* Go to star on 3D Map : Open the [3D Map](Using the 3D Map) and go to this system.
+* Go to star on 3D Map : Open the [[3D Map|Using the 3D Map]] and go to this system.
 
 * Star Map Colour: Set the colour to show on the 3D Map for this entry.
 
-* Hide Entries: Clicking on a range, or a single entry, and using this moves the entry to the hidden commander.  You can see hidden entries by using the [commander selection drop down](Using the History Page) to select 'Hidden commander'.  You can then move them back to another commander using the next option.
+* Hide Entries: Clicking on a range, or a single entry, and using this moves the entry to the hidden commander.  You can see hidden entries by using the [[commander selection drop down|Using the History Page]][|o select 'Hidden commander'.  You can then move them back to another commander using the next option.
 
 * Move Entries to another Commander: **Advanced**. Move the entry to another commander.  Not recommended now, since ED Discovery 2.2, but retained to support older entries from 2.1 and before.
 
@@ -59,4 +59,4 @@ Right click either on a previous selection or a entry and you will be presented 
 
 * Set Start/Stop point for travel calculations: Use to set up travel calculation of distance and time by setting start and end points
 
-* Remove Journal Entry: **Advanced, Caution**. Delete this entry entirely.  Use with caution. Useful for the EDD Set Item entry (which the user creates).  If journals are rescanned, the entry may reappear.
+* Remove Journal Entry: **Advanced, Caution**. Delete this entry entirely.  Use with caution. Useful for the EDD Set Item entry (which the user creates]].  If journals are rescanned, the entry may reappear.
