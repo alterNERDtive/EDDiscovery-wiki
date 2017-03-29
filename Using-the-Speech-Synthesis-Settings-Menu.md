@@ -1,6 +1,6 @@
 The voice synthesizer default menu allows you to define the voice, volume and rate to use:
 
-![synth](http://i.imgur.com/4Oo3eYm.png)
+![synth](http://i.imgur.com/1bokxnu.png)
 
 The windows default voices are of varying quality.  You must have the voice pack installed for this to make any effect.
 
