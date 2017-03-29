@@ -15,8 +15,8 @@ The other options on this screen are:
 * Plus (at end of list) : add another event
 * Sort/Sort2 : Sort the events. First option is by event name, then program name.  Second is by Condition value, then event name.
 * X : delete event
-* + (on right) : Add another condition
-* ^ : move event up one
+* Plus (on right) : Add another condition
+* Up Caret : move event up one
 
 Along the bottom are some controls for the event packs as a whole:
 
