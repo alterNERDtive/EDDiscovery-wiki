@@ -10,13 +10,9 @@ Using Actions makes it possible to make action packs. An action pack is a combin
 
 Access to the actions system is via the Add-Ons menu (because these are optional add-ons to the system).  The menu defines:
 
-* [Manage Add-ons](Using the manage Add-Ons Menu) : Allows the user to install, remove or enable/disable the add on packs.
+* [[Manage Add-ons|Using the manage Add-Ons Menu]] : Allows the user to install, remove or enable/disable the add on packs.
 
-* [Edit Add-on Action Files](Using the edit Add-On Action Files Menu) : Allows creation of add-on packs.  Also see [Actions](Using Actions)
-
-* [Speech Synthesis Settings](Using the Speech Synthesis Settings Menu) : For the speech pack, a user friendly menu to configure various speech parameters.
-
-* [Edit in text current speech synthesis variables](Using the edit Speech Synthesis Variables Menu) : For the speech pack, a quick way to go to the definition file for the speech variables
+* [[Edit Add-on Action Files|Using the edit Add-On Action Files Menu]] : Allows creation of add-on packs.  Also see [[Actions|Using Actions]]
 
 * Stop currently running Action program : Only use if a program with a loop continues and refuses to stop (unlikely).
 
