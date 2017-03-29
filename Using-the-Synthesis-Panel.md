@@ -1,5 +1,5 @@
 Link to
 
-[[Config](Configuration Options)]
+[[Config|Configuration Options]]
 
 [bbc news](http://news.bbc.co.uk)
