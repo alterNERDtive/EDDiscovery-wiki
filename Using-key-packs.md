@@ -1,6 +1,6 @@
 The Key Pack adds on key shortcuts to EDD.
 
-Install this pack via the [Manage Add-ons](Using the manage Add-Ons Menu) menu.
+Install this pack via the [[Manage Add-ons|Using the manage Add-Ons Menu]] menu.
 
 The keys currently set up are:
 
