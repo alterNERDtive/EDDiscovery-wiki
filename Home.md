@@ -12,6 +12,8 @@
 
 * Scan data estimated value added
 
+Also See [Previous Releases](Previous Releases) for past history of EDDiscovery.
+
 # EDDiscovery – What is it? 
 
 You play Elite Dangerous and have heard of EDDiscovery - and ended up here.  So what _is_ it?  
@@ -44,10 +46,6 @@ EDDiscovery also has [Menu Options](Menu Options) for some quick access function
 You can learn how [EDDiscovery works with Elite Dangerous](How EDDiscovery Works) here.
 
 See the sidebar to the right for other topics.
-
-# Previous Releases:
-
-* [6.0](Release 6.0) brings you [voice packs](Using voice packs) to add speech to EDD, [key packs](Using key packs) to add key shortcuts, [Actions](Using Actions) to define your own custom responses to key presses or journal entries, and many visual improvements, refinements to journal output etc.
 
 # Images:
 Some images are screenshots from Elite: Dangerous © 2012-2016 Frontier Developments plc. All rights reserved.
