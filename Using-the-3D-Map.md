@@ -31,7 +31,7 @@ Use the menu bar to select many features to turn on/off on the maps:
 * Left arrow:	Go to previous travelled system (or first system if not selected on a travelled system)
 * Right arrow:	Go to next travelled system
 * Marker:	Go to latest travelled system
-* > A:	Turn on/off Automatically jump to current system when travelling
+* RightArrow A:	Turn on/off Automatically jump to current system when travelling
 * Home:	Center on home system
 * !:	Center on selected system in the travel history
 * Target:	Center on selected target system
