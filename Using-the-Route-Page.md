@@ -10,6 +10,6 @@ Select the maximum jump distance. Use either the maximum jump range of your ship
 
 Hit Find Route and it will calculate the route. Shown here is Sol to Lembava.  
 
-You can, once the route is found, click on the [3D Map Button](Using the 3D Map) and see the route in full super 3D!
+You can, once the route is found, click on the [[3D Map Button|Using the 3D Map]] and see the route in full super 3D!
 
 
