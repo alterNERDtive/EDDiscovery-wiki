@@ -2,12 +2,12 @@ The menu options, accessible in all pages, is detailed below:
 
 # Tools
 
-* Show 2D Maps: Show the [2D Map](Using the 2D Map)
-* Show 3D Maps: Show the [3D Map](Using the 3D Map)
+* Show 2D Maps: Show the [[2D Map|Using the 2D Map]]
+* Show 3D Maps: Show the [[3D Map|Using the 3D Map]]
 
-* Set Default Map Colour: [set the default map colour](Using the Settings Page), 3D Map section.
+* Set Default Map Colour: [[set the default map colour|Using the Settings Page]], 3D Map section.
 
-* Edit theme: See [Configuring the look of EDDiscovery](Configuring the look of EDDiscovery)
+* Edit theme: See [[Configuring the look of EDDiscovery|Configuring the look of EDDiscovery]]
 
 * Pop Outs: If you have pop outs you can't find on the screen due to transparency or are configured to not show in the task bar, use this to make them findable.
 
@@ -37,13 +37,13 @@ The menu options, accessible in all pages, is detailed below:
 
 # Add Ons
 
-* [Manage Add-ons](Using the manage Add-Ons Menu) : Allows the user to install, remove or enable/disable the add on packs.
+* [[Manage Add-ons|Using the manage Add-Ons Menu]] : Allows the user to install, remove or enable/disable the add on packs.
 
-* [Edit Add-on Action Files](Using the edit Add-On Action Files Menu) : Allows creation of add-on packs.  Also see [Actions](Using Actions)
+* [[Edit Add-on Action Files|Using the edit Add-On Action Files Menu]] : Allows creation of add-on packs.  Also see [[Actions|Using Actions]]
 
-* [Speech Synthesis Settings](Using the Speech Synthesis Settings Menu) : For the speech pack, a user friendly menu to configure various speech parameters.
+* [[Speech Synthesis Settings|Using the Speech Synthesis Settings Menu]] : For the speech pack, a user friendly menu to configure various speech parameters.
 
-* [Edit in text current speech synthesis variables](Using the edit Speech Synthesis Variables Menu) : For the speech pack, a quick way to go to the definition file for the speech variables
+* [[Edit in text current speech synthesis variables|Using the edit Speech Synthesis Variables Menu]][| For the speech pack, a quick way to go to the definition file for the speech variables
 
 * Stop currently running Action program : Only use if a program with a loop continues and refuses to stop (unlikely).
 
