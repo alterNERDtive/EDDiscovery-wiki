@@ -1,4 +1,4 @@
-The scan panel shows you the known stars and planets of a system, due to a system scan of it, for the system selected by the [history window cursor](Using the History Grid).
+The scan panel shows you the known stars and planets of a system, due to a system scan of it, for the system selected by the [[history window cursor|Using the History Grid]].
 
 ![Scan Panel](http://i.imgur.com/9P99T4C.png)
 
