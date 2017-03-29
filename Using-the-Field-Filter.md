@@ -1,12 +1,14 @@
 The field filter allows you to set conditions up to filter out events.
 
-Full help to come.
+![](http://i.imgur.com/kdQflpq.png)
 
-Add event conditions to look for using the + key.
+The above image shows the receive text event, when the Channel value contains NPC, being filtered out.  Very useful to remove all the NPC chatter.
+
+Your first add event conditions to look for using the + key.
 
 Select the event, and a condition box allowing you to set the field, condition and value appears.
 
-* Set the field name to test by the first drop down.  If the event is already in memory, the fields will be listed. If not, add a field in manually using the User Defined option (see the ED Journal Manual).
+* Set the field name to test by the first drop down.  Autocomplete can help you pick out the field names, type a few characters, delete then the whole list appears.
 * Set the condition - strings (case or non case sensitive), numbers and dates can be compared.
 * Use the text box to enter a value.
 * Use the X box to remove the condition or entire group.
