@@ -16,7 +16,7 @@ Hitting F8 (if you have the keypack) or using the Edit Add-On menu option brings
 
 Each event may be enabled/disabled using the column here shown Always True/Enable.  Set this to disable to turn the event off.
 
-See the [[Action pack Edit|(Using the edit Add On Action Files Menu]] for more information.
+See the [[Action pack Edit|Using the edit Add On Action Files Menu]] for more information.
 
 The voice pack adds on extra menu items to the add-on menu:
 
