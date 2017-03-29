@@ -60,3 +60,7 @@ Right click either on a previous selection or a entry and you will be presented 
 * Set Start/Stop point for travel calculations: Use to set up travel calculation of distance and time by setting start and end points
 
 * Remove Journal Entry: **Advanced, Caution**. Delete this entry entirely.  Use with caution. Useful for the EDD Set Item entry (which the user creates]].  If journals are rescanned, the entry may reappear.
+
+* Set Note: An alternate way of entering a note rather than using the note box on the right
+
+* Run Actions on this entry.  Re-run any actions that apply to this entry.
