@@ -1,4 +1,4 @@
-The materials count panel shows the current state and number of known materials recorded by the Journal, at the [history cursor](Using the History Grid) position.
+The materials count panel shows the current state and number of known materials recorded by the Journal, at the [[history cursor|Using the History Grid]] position.
 
 ![Materials](http://i.imgur.com/AJF2CFm.png)
 
