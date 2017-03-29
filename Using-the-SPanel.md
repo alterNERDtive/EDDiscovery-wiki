@@ -22,4 +22,4 @@ The field widths can be configured. Hover over the top of the box and the divers
 
 ![dividers](http://i.imgur.com/9zm1lzu.png)
 
-Move the dividers to configure your window.  Note if you change what fields are shown, the divers are reset to their default values.
+Move the dividers to configure your window.  Note if you change what fields are shown, the dividers are reset to their default values.
