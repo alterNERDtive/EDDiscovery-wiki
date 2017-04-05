@@ -1,4 +1,4 @@
-Each panels displays different information to the user. The main history page supports displaying four different panels. Panels can be popped out into their own windows to allow more to be shown:
+Each panels displays different information to the user. The main history page supports displaying three different panels. Panels can be popped out into their own windows to allow more to be shown:
 
 These panels can be either embedded in the travel history page or popped out:
 
