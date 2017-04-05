@@ -44,43 +44,4 @@ Left clicking on the pop out icon (first one) pops out the current view to a new
 Left clicking on any other icon changes the view to that data panel. Right clicking on any other icon gives you the option to pop out that data panel to a new window.
 
 # Panel Views and Pop Outs
-
-These panels can be either embedded in the travel history page or popped out:
-
-[[EDDiscovery Log|Using the EDDiscovery Log Panel]]
-
-[[Nearest stars|Using the Nearest Stars Panel]]
-
-[[Materials count|Using the Materials Panel]]
-
-[[Commodities count|Using the Commodities Panel]]
-
-[[Ledger|Using the Ledger Panel]]
-
-[[Journal Grid|Using the Journal Page]]
-
-[[History Grid|Using the History Grid]]
-
-[[Screenshot panel|Using the Screenshot Panel]]
-
-[[Statistics panel|Using the Statistics Panel]]
-
-[[Scan Panel|Using the Scan Panel]]
-
-[[Modules|Using the Modules Panel]]
-
-[[Exploration|Using the Exploration Panel]]
-
-[[Synthesis|Using the Synthesis Panel]]
-
-And additional pop out ones only:
-
-[[S panel|Using the SPanel]]
-
-[[Trip panel|Using the Trip Panel]]
-
-[[Note panel|Using the Note Panel]]
-
-[[Route tracker|Using the Route Tracker Panel]]
-
-
+See [[Panels|Using Panels]]
