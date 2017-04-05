@@ -14,6 +14,9 @@
 
 Also See [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
+# Troubleshooting
+See [[Troubleshooting|Troubleshooting]]
+
 # EDDiscovery - What is it?
 
 You play Elite Dangerous and have heard of EDDiscovery - and ended up here.  So what _is_ it?  
