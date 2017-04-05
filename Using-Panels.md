@@ -28,6 +28,8 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Synthesis|Using the Synthesis Panel]]
 
+[[Missions|Using the Missions Panel]]
+
 These panels are pop out only:
 
 [[S panel|Using the SPanel]]
