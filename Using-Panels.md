@@ -22,7 +22,7 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Scan Panel|Using the Scan Panel]]
 
-[[Modules|Using the Modules Panel]]
+[[Load Out|Using the Load Out Panel]]
 
 [[Exploration|Using the Exploration Panel]]
 
