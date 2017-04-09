@@ -6,9 +6,9 @@
 
 * [[New Sythesis panel|Using the Synthesis Panel]].  Show what enhancements you can make with your available resources. Set up a wish list and it will tell you want you can make and what you need to make more.
 
-* Updated voice support for all new journal events
+* [[Updated voice support|Using voice packs]] for all new journal events
 
-* New Mission panel.  Display current missions and past missions, total rewards.
+* [[New Mission panel|Using the Missions panel]].  Display current missions and past missions, total rewards.
 
 # Current 6.1
 6.1 is out! Featuring:
