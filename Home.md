@@ -1,4 +1,4 @@
-# Whats New?
+# Whats Coming?
 
 6.2 is releasing at the same time as 2.3 Commaders. Featuring:
 
@@ -10,6 +10,7 @@
 
 * New Mission panel.  Display current missions and past missions, total rewards.
 
+# Current 6.1
 6.1 is out! Featuring:
 
 * more [[voice packs|Using voice packs]] features, which add speech to EDD. This has voice effects to make your computers voice more fun to use, verbosity control, EDSM read out of known system data, better read out of star names etc.
