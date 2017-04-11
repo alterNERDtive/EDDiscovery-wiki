@@ -16,13 +16,13 @@ Command line options are as follows:
 
 # Developer
 
-* -appfolder : Use this folder instead of EDDiscovery in the <users>/appdata/local folder.  This can be used to separate the data bases of different commanders if required.  Not needed for multi commander use.  Mostly its for debug purposes.
+* -Appfolder : Use this folder instead of EDDiscovery in the <users>/appdata/local folder.  This can be used to separate the data bases of different commanders if required.  Not needed for multi commander use.  Mostly its for debug purposes.
 
-* -userdbpath: Use this path for the user data base instead of the default appfolder/EDDUser.sqlite file.
+* -Userdbpath: Use this path for the user data base instead of the default appfolder/EDDUser.sqlite file.
 
-* -systemsdbpath: Use this path for the systems data base instead of the default appfolder/EDDSystem.sqlite file.
+* -Systemsdbpath: Use this path for the systems data base instead of the default appfolder/EDDSystem.sqlite file.
 
-* -olddbpath: Use this path for the old ED Discovery data base (pre 2.2) instead of the default appfolder/EDDSystem.sqlite file.
+* -Olddbpath: Use this path for the old ED Discovery data base (pre 2.2) instead of the default appfolder/EDDSystem.sqlite file.
 
 * -Tracelog : Do a tracelog even when debugging.
 
