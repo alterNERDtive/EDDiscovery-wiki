@@ -10,7 +10,7 @@
 * Improvements to importing systems into trilateration
 * 2.3 Journal entries added
 
-Also See [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
+Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
 # Troubleshooting
 See [[Troubleshooting|Troubleshooting]]
