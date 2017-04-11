@@ -3,12 +3,12 @@
 6.2 is releasing at the same time as 2.3 Commaders. Featuring:
 
 * [[New Load out panel|Using the Load Out Panel]] with Coriolis integration.  Track the modules on your ship. Export to Corolis (excepting any Engineer modifications which Frontier does not currently tell us above via Journals)
-
 * [[New Sythesis panel|Using the Synthesis Panel]].  Show what enhancements you can make with your available resources. Set up a wish list and it will tell you want you can make and what you need to make more.
-
 * [[Updated voice support|Using voice packs]] for all new journal events
-
 * [[New Mission panel|Using the Missions panel]].  Display current missions and past missions, total rewards.
+* Ship information is sent to EDSM
+* Improvements to importing systems into trilateration
+* 2.3 Journal entries added
 
 # Current 6.1
 6.1 is out! Featuring:
