@@ -1,6 +1,6 @@
 # Previous Releases:
 
-# Current 6.1
+# 6.1 for ED 2.2
 * more [[voice packs|Using voice packs]] features, which add speech to EDD. This has voice effects to make your computers voice more fun to use, verbosity control, EDSM read out of known system data, better read out of star names etc.
 
 * Audio device can be selected
@@ -11,7 +11,7 @@
 
 * Scan data estimated value added
 
-## 6.0
+## 6.0 for ED 2.2
 
 * [[voice packs|Using voice packs]] to add speech to EDD
 
