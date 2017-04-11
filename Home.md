@@ -1,6 +1,6 @@
-# Whats Coming?
+# Current Version
 
-7.0 is releasing at the same time as 2.3 Commanders (11 April 2017). Featuring:
+7.0 has been released to coincide with 2.3 Commanders (11 April 2017). This features:
 
 * [[New Load out panel|Using the Load Out Panel]] with Coriolis integration.  Track the modules on your ship. Export to Corolis (excepting any Engineer modifications which Frontier does not currently tell us above via Journals)
 * [[New Sythesis panel|Using the Synthesis Panel]].  Show what enhancements you can make with your available resources. Set up a wish list and it will tell you want you can make and what you need to make more.
@@ -8,7 +8,8 @@
 * [[New Mission panel|Using the Missions panel]].  Display current missions and past missions, total rewards.
 * Ship information is sent to EDSM
 * Improvements to importing systems into trilateration
-* 2.3 Journal entries added
+* New 2.3 Journal entries added.  
+* Lots of effort into normalising and making the journal data human readable.
 
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
