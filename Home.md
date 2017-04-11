@@ -1,6 +1,6 @@
 # Whats Coming?
 
-6.2 is releasing at the same time as 2.3 Commaders. Featuring:
+7.0 is releasing at the same time as 2.3 Commanders (11 April 2017). Featuring:
 
 * [[New Load out panel|Using the Load Out Panel]] with Coriolis integration.  Track the modules on your ship. Export to Corolis (excepting any Engineer modifications which Frontier does not currently tell us above via Journals)
 * [[New Sythesis panel|Using the Synthesis Panel]].  Show what enhancements you can make with your available resources. Set up a wish list and it will tell you want you can make and what you need to make more.
@@ -9,19 +9,6 @@
 * Ship information is sent to EDSM
 * Improvements to importing systems into trilateration
 * 2.3 Journal entries added
-
-# Current 6.1
-6.1 is out! Featuring:
-
-* more [[voice packs|Using voice packs]] features, which add speech to EDD. This has voice effects to make your computers voice more fun to use, verbosity control, EDSM read out of known system data, better read out of star names etc.
-
-* Audio device can be selected
-
-* Minor changes to [[key packs|Using key packs]] to add a few more key shortcuts.
-
-* Stability fixes and speed improvements
-
-* Scan data estimated value added
 
 Also See [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
