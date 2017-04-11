@@ -1,5 +1,16 @@
 # Previous Releases:
 
+# Current 6.1
+* more [[voice packs|Using voice packs]] features, which add speech to EDD. This has voice effects to make your computers voice more fun to use, verbosity control, EDSM read out of known system data, better read out of star names etc.
+
+* Audio device can be selected
+
+* Minor changes to [[key packs|Using key packs]] to add a few more key shortcuts.
+
+* Stability fixes and speed improvements
+
+* Scan data estimated value added
+
 ## 6.0
 
 * [[voice packs|Using voice packs]] to add speech to EDD
