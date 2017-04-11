@@ -11,7 +11,7 @@
 
 * Scan data estimated value added
 
-## 6.0 for ED 2.2
+# 6.0 for ED 2.2
 
 * [[voice packs|Using voice packs]] to add speech to EDD
 
