@@ -4,7 +4,7 @@ These are for advanced users only.  Use at own risk.
 
 These are read from both the EDDiscovery command line and from an options file.  They are case insensitive.
 
-The default options file to read is options.txt in the application install folder of EDDiscovery.  To change this, on the command line, use -optionsfile <name>. If just a file name, it will be searched for in the install folder of EDDiscovery.  If a full path, use the full path location.
+The default options file to read is options.txt in the application install folder of EDDiscovery.  To change this file use -optionsfile <filename> on the command line. If just a file name, it will be searched for in the install folder of EDDiscovery.  If a full path, use the full path location.
 
 Command line options are as follows:
 
