@@ -45,7 +45,7 @@ You can also ask for whitespace to be inserted between statements for clarity.
 
 Along the bottom are some controls for the program:
 
-* Text Edit : Edit in a text editor.  You can then edit it in text. Once finished, the program will be checked and imported if all is okay.  This is a more advanced option.  Make sure you save the file back to disk before quitting otherwise EDD won't see the changes!
+* Text Edit : Edit in a text editor.  This is a more advanced option. EDDiscovery will write the script to a temporary location.  It will launch your text editor.  Your edit it.  Then you must save the file back to disk and quit your text editor.  Once EDDiscovery sees the text editor has been closed, it then re-reads the file and checks it. Any problems will be notified and you can then correct them in the editor if you choose.  Remember, make sure you save the file back to disk before quitting otherwise EDD won't see the changes!
 
 ![text edit](http://i.imgur.com/VIveDYQ.png)
 
