@@ -1,6 +1,6 @@
 # Current Version
 
-7.0 has been released to coincide with 2.3 Commanders (11 April 2017). This features:
+7.0 has been released to coincide with 2.3 Commanders (11 April 2017). [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
 
 * [[New Load out panel|Using the Load Out Panel]] with Coriolis integration.  Track the modules on your ship. Export to Corolis (excepting any Engineer modifications which Frontier does not currently tell us above via Journals)
 * [[New Sythesis panel|Using the Synthesis Panel]].  Show what enhancements you can make with your available resources. Set up a wish list and it will tell you want you can make and what you need to make more.
