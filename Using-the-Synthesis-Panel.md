@@ -28,5 +28,5 @@ To allow you to prioritise some synthesis over others, you can left click and dr
 
 Finally, if you need more materials, at the bottom of the list it will show a shopping list of materials needed to fulfil your wanted totals.
 
-
+Note - the engineering panel is independent of the synthesis panel and if the same material is required for both upgrades and synthesis this is not recognised by the required materials in either panel.
 
