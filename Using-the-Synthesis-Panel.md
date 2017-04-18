@@ -16,7 +16,7 @@ The following columns are defined:
 
 * Notes: Shows how many materials were used, and if any materials are needed to make your wanted total.
 
-* Recipe: The recipe for this particular synthesis.
+* Recipe: The recipe for this particular synthesis, the materials are listed using their [short names](https://github.com/EDDiscovery/EDDiscovery/wiki/Material-Short-Names-List).
 
 The drop down selector allows you to adjust the recipe list to show a subset.
 
