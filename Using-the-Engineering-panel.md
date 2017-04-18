@@ -4,23 +4,23 @@ The grid shows a list of the Engineer modifications Elite Dangerous defines and 
 
 The following columns are defined:
 
-Upgrade/Mat : Shows the name of the upgrade or material (at bottom) required.
+ * Upgrade/Mat : Shows the name of the upgrade or material (at bottom) required.
 
-Module: Shows you which module the upgrade applies to.
+ * Module: Shows you which module the upgrade applies to.
 
-Level: Shows you the level of upgrade the recipe will create.
+ * Level: Shows you the level of upgrade the recipe will create.
 
-Max: For upgrades, indicates if you devoted all your material resources to that upgrade you can have this many rolls.
+ * Max: For upgrades, indicates if you devoted all your material resources to that upgrade you can have this many rolls.
 
-Wanted: Indicate in here, by clicking on it and entering a number, followed by the return key, the number of rolls you want from a particular upgrade.
+ * Wanted: Indicate in here, by clicking on it and entering a number, followed by the return key, the number of rolls you want from a particular upgrade.
 
-Available: This shows how many of the wanted you can actually create.
+ * Available: This shows how many of the wanted you can actually create.
 
-Notes: Shows how many materials were used, and if any materials are needed to make your wanted total.
+ * Notes: Shows how many materials were used, and if any materials are needed to make your wanted total.
 
-Recipe: The recipe for this particular upgrade.
+ * Recipe: The recipe for this particular upgrade.
 
-Engineers: Shows which engineers offer this particular upgrade.
+ * Engineers: Shows which engineers offer this particular upgrade.
 
 The drop down selectors allow you to adjust the upgrade list to show a subset filtered by Upgrade, Module, Level and/or Engineer.
 
