@@ -1,5 +1,7 @@
 The engineering panel allows you to plan your material collection, showing you how many upgrade rolls you can make, and what you need to collect to get to your goal.
 
+![Engineering panel](http://imgur.com/3exQg7U)
+
 The grid shows a list of the Engineer modifications Elite Dangerous defines and gives you information about how many rolls you can make. The grid adapts to the currently selected travel history entry, so if you move the selected position up and down you can see the state at a certain point in time.
 
 The following columns are defined:
