@@ -20,7 +20,7 @@ The following columns are defined:
 
  * Notes: Shows how many materials were used, and if any materials are needed to make your wanted total.
 
- * Recipe: The recipe for this particular upgrade.
+ * Recipe: The recipe for this particular upgrade, the materials are listed by their [short names](https://github.com/EDDiscovery/EDDiscovery/wiki/Material-Short-Names-List).
 
  * Engineers: Shows which engineers offer this particular upgrade.
 
