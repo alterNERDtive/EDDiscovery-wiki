@@ -30,7 +30,7 @@ EDDiscovery operates as follows. Given the total material resources, it works it
 
 Since materials are shared between upgrade, and they are done in order, it can run out at any point in the list.
 
-To allow you to prioritise some upgrade over others, you can left click and drag an ugade up or down to re-order the list. Move your top priority upgrade to the top of the list.
+To allow you to prioritise some upgrade over others, you can left click and drag an upgrade up or down to re-order the list. Move your top priority upgrade to the top of the list.
 
 Finally, if you need more materials, at the bottom of the list it will show a shopping list of materials needed to fulfil your wanted totals.
 
