@@ -30,6 +30,8 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Missions|Using the Missions Panel]]
 
+[[Engineering|Using the Engineering Panel]]
+
 These panels are pop out only:
 
 [[S panel|Using the SPanel]]
