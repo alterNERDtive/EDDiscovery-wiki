@@ -13,6 +13,10 @@
 
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
+7.0.2 adds on:
+* [[New Engineering panel|Using the Engineering Panel]].  Show what blueprints you can make with your available resources. Set up a wish list and it will tell you want you can make and what you need to make more.
+
+
 # Troubleshooting
 See [[Troubleshooting|Troubleshooting]]
 
