@@ -14,7 +14,7 @@ Command line options are as follows:
 
 * -NRW or -NoRepositionWindow : Use default window positions, don't load at previous positions.  Same as holding down shift during program start.
 
-* -Portable : Store data in same folder as executable.  If you use this, the EDDiscovery folder must be user writable.
+* -Portable : Store EDDiscovery data files in same folder as executable.  If you use this, the EDDiscovery folder must be user writable.
 
 # Developer
 
