@@ -2,9 +2,11 @@ Command Line Options.
 
 These are for advanced users only.  Use at own risk.
 
-These are read from both the EDDiscovery command line and from an options file.  They are case insensitive.
+Options are read from both the EDDiscovery command line and from an options file.  
 
-The default options file to read is options.txt in the application install folder of EDDiscovery.  To change this file use -optionsfile <filename> on the command line. If just a file name, it will be searched for in the install folder of EDDiscovery.  If a full path, use the full path location.
+The default options file is read from the file options.txt located in the application install folder of EDDiscovery.  To change to another location and file use -optionsfile <filename> on the command line. If just a file name, it will be searched for in the install folder of EDDiscovery.  If a full path, use the full path location.
+
+Options are case insensitive.
 
 Command line options are as follows:
 
@@ -33,3 +35,5 @@ Command line options are as follows:
 * -EDSMNull: Disable EDSM integration
 
 * -DisableBetaCheck: Don't check for beta flag in journals.  Warning this may confuse the history.  Debugging only.
+
+Other internal options are present for developer use only.
