@@ -12,6 +12,12 @@
 * Lots of effort into normalising and making the journal data human readable.
 * Voice pack updates to voice pack 3
 
+7.0.2 adds on:
+* [[New Engineering panel|Using the Engineering Panel]].  Show what blueprints you can make with your available resources. Set up a wish list and it will tell you want you can make and what you need to make more.
+
+
+
+
 # 6.1 for ED 2.2
 * more [[voice packs|Using voice packs]] features, which add speech to EDD. This has voice effects to make your computers voice more fun to use, verbosity control, EDSM read out of known system data, better read out of star names etc.
 
