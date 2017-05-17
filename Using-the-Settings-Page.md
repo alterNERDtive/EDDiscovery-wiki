@@ -1,5 +1,6 @@
 The settings page configures operation of EDDiscovery.
 
+TBD Updated
 ![Settings page](http://i.imgur.com/BeTNNbw.png)
 
 The page is split into the following sections.
