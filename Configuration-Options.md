@@ -30,10 +30,4 @@ Command line options are as follows:
 
 * -LogExceptions: Log exceptions
 
-* -EDSMBeta: Use EDSM Beta server
-
-* -EDSMNull: Disable EDSM integration
-
-* -DisableBetaCheck: Don't check for beta flag in journals.  Warning this may confuse the history.  Debugging only.
-
 Other internal options are present for developer use only.
