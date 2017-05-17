@@ -32,6 +32,8 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Engineering|Using the Engineering Panel]]
 
+[[Market Data|Using the Market Data Panel]]
+
 These panels are pop out only:
 
 [[S panel|Using the SPanel]]
