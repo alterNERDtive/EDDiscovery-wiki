@@ -10,6 +10,7 @@
 * Improvements to importing systems into trilateration
 * New 2.3 Journal entries added.  
 * Lots of effort into normalising and making the journal data human readable.
+* Voice pack updates to voice pack 3
 
 # 6.1 for ED 2.2
 * more [[voice packs|Using voice packs]] features, which add speech to EDD. This has voice effects to make your computers voice more fun to use, verbosity control, EDSM read out of known system data, better read out of star names etc.
