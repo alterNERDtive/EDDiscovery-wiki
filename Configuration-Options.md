@@ -16,7 +16,7 @@ Command line options are as follows:
 
 * -Portable : Store EDDiscovery data files in same folder as executable.  If you use this, the EDDiscovery folder must be user writable.
 
-# Developer
+# Advanced User
 
 * -Appfolder : Use this folder instead of EDDiscovery in the <users>/appdata/local folder.  This can be used to separate the data bases of different commanders if required.  Not needed for multi commander use.  Mostly its for debug purposes.
 
@@ -24,7 +24,7 @@ Command line options are as follows:
 
 * -Systemsdbpath: Use this path for the systems data base instead of the default appfolder/EDDSystem.sqlite file.
 
-* -Olddbpath: Use this path for the old ED Discovery data base (pre 2.2) instead of the default appfolder/EDDSystem.sqlite file.
+* -Olddbpath: Use this path for the old ED Discovery data base (pre 2.2) instead of the default appfolder/EDDSystem.sqlite file. (8.0+ removes the ability to read this DB).
 
 * -Tracelog : Do a tracelog even when debugging.
 
