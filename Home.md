@@ -2,16 +2,18 @@
 
 8.0.X is in beta - try it if you wish. [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
 
-* Added Companion API (CAPI) login (login in to Elite Dangerous Web API
+* Added Companion API (CAPI) login (login in to Elite Dangerous Web API) this will provide:
 * Market Data Panel showing commodity prices
 * Storage of commodity prices in the journal so you can see the price at a given station
+* Autosend commodity prices to EDDN at docked Event.
+
+Also:
 * Commander dialog added for commander settings with CAPI login details
 * Many engineering recipe fixes.
 * On scan panel lava icon temperature limit increased.
 * Distance tooltips are to systems, not planets.
 * Show home system directly in the tooltip.
 * Add SuperMassiveBlackHole star type (for Sgr A*)
-* Autosend commodity prices to EDDN at docked Event.
 * Name M and MS stars
 * Removed some EDDN start/end sync spam in log
 * Catch errors reading register from EDDUser.sqlite Don't error out when EDDUser.sqlite exists but has no data.
