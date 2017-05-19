@@ -27,7 +27,7 @@ Here you can configure:
 
 * EDDN Integration: Select if you want to send information to the EDDN network (which you probably do if you like using EDDB etc since they rely on our data feeds)
 
-* Frontier Companion API: If you wish, give your Frontier account log in details here (which is saved in encrypted form) and EDDiscovery will obtain information from the Frontier servers.  This is used primarly to obtain [Market Data Panel](Using the Market Data Panel) and drives that panels information. 
+* Frontier Companion API: If you wish, give your Frontier account log in details here (which is saved in encrypted form) and EDDiscovery will obtain information from the Frontier servers.  This is used primarly to obtain [[Market Data Panel|Using the Market Data Panel]] and drives that panels information. 
 
 # Options
 
