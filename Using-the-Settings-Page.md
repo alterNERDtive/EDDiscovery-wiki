@@ -13,29 +13,21 @@ See the topic [[How EDDiscovery Works|How EDDiscovery Works]] for information on
 
 The only use case for adding a commander manually is if you want to scan non standard folders for journal files. 
 
-Clicking on Edit or Add will take you to the settings screen
-
-
-
-
-
-In which case, make a commander (any name will do) and set the override journal location to the folder where journal files will be written.  Then EDDiscovery will scan that folder and read in all journal files found there, creating commanders as required.  This is useful if your runnin EDDiscovery remotely from ED - share a network drive and EDDiscovery will work.
-
 You can manually delete a commander. Note if the journal is scanned with the commander again, it will be auto recreated.
 
-You may wish to configure a commander, for interaction with other systems as follows:
+Clicking on Edit or Add will take you to the settings screen
 
-* EDSM API Key: If your going to send travel history to EDSM, you need to enter your EDSM API key [[EDSM Integration|EDSM Integration with EDDiscovery]].
+![](http://i.imgur.com/iHMQX8k.png)
 
-* EDSM Name: If for some reason you did not use the same commander name used in game on EDSM, enter your EDSM name here.
+Here you can configure:
 
-* Override Journal Location: Used in the remote EDDiscovery use case above.
+* Override Journal Location: Used in the remote EDDiscovery use case where you are running EDDiscovery from another computer and looking at the journal files on a file share. EDDiscovery will scan the folder given and read in all journal files found there.
 
-* Sync To EDSM: Click this on to send travel entries to EDSM.
+* EDSM Integration: If your going to send travel history to EDSM, you need to enter your EDSM Commander name, EDSM API key [[EDSM Integration|EDSM Integration with EDDiscovery]], and choose the sync directions you want to use.
 
-* Sync From EDSM: Click this to get travel entries from EDSM into your history
+* EDDN Integration: Select if you want to send information to the EDDN network (which you probably do if you like using EDDB etc since they rely on our data feeds)
 
-* Sync to EDDN: Send selected events to EDDN.  The list of events is Trading data, outfitting, shipyear, stars.
+* Frontier Companion API: If you wish, give your Frontier account log in details here (which is saved in encrypted form) and EDDiscovery will obtain information from the Frontier servers.  This is used primarly to obtain market data and drives that panels information. 
 
 # Options
 
