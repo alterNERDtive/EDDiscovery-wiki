@@ -1,16 +1,25 @@
 The settings page configures operation of EDDiscovery.
 
-TBD Updated
-![Settings page](http://i.imgur.com/BeTNNbw.png)
+![Settings page](http://i.imgur.com/PGcYUQi.png)
 
 The page is split into the following sections.
 
 # Commanders
-This grid allows you to configure information for commanders. 
+This grid shows you information on the list of commanders that EDDiscovery has stored information on.
 
-See the topic [[How EDDiscovery Works|How EDDiscovery Works]] for information on how EDDiscovery discovers and creates new commanders.
+It also allows you to edit the configuration of a commander and add or delete commanders.
 
-You can add a new commander manually, but that is not normally required any longer.  The only use case for this is if you want to scan non standard folders for journal files. In which case, make a commander (any name will do) and set the override journal location to the folder where journal files will be written.  Then EDDiscovery will scan that folder and read in all journal files found there, creating commanders as required.  This is useful if your runnin EDDiscovery remotely from ED - share a network drive and EDDiscovery will work.
+See the topic [[How EDDiscovery Works|How EDDiscovery Works]] for information on how EDDiscovery discovers and creates new commanders. You can add a new commander manually, but that is not normally required any longer as EDDiscovery will make a new commander if it sees one in your journal logs.
+
+The only use case for adding a commander manually is if you want to scan non standard folders for journal files. 
+
+Clicking on Edit or Add will take you to the settings screen
+
+
+
+
+
+In which case, make a commander (any name will do) and set the override journal location to the folder where journal files will be written.  Then EDDiscovery will scan that folder and read in all journal files found there, creating commanders as required.  This is useful if your runnin EDDiscovery remotely from ED - share a network drive and EDDiscovery will work.
 
 You can manually delete a commander. Note if the journal is scanned with the commander again, it will be auto recreated.
 
