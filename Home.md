@@ -1,6 +1,6 @@
 # Current Version
 
-8.0.X is in beta - try it if you wish. [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
+8.0.X is the current version - try it if you wish. [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
 
 * Added Companion API (CAPI) login (login in to Elite Dangerous Web API) this will provide:
 * Market Data Panel showing commodity prices
