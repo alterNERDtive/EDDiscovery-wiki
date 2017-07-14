@@ -2,6 +2,10 @@ The edit add-ons menu provides the means to show what actions packs are installe
 
 Select Edit one of the packs from the menu and you can alter the conditions and events the packs respond to, and edit the programs.
 
+![actions](http://i.imgur.com/gMhHyfu.png)
+
+(Image out of date)
+
 This shows two simple action events defined:
 
 * The first, occurs on a keypress (column 1), and runs the program onKeyPress (Column 2).  The condition associated is when the KeyPress variable (which gets the name of the keypress when it happens) is equal to F6.  So we have associated F6 with the action program onKeyPress.
