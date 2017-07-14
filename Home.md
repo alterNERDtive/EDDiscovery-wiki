@@ -5,6 +5,7 @@
 * Supports the [[Joystick Keyboard Mouse|Using the JKM Pack]] pack adding vocalisations to your input devices
 * Supports the [[OBS Pack|Using the OBS Pack]] to provide OBS overlays
 * Supports the [[SoundBlaster|Using the SoundBlaster Pack]] pack to play sounds when journal events occur
+* Updates the [[voice|Using voice packs]] pack to add many more events and adds NPC voices into the pack
 * Action Menu Improvements
 * CSCore back to nuget package, added mouse input
 * Added Missions event info, changed info to basic ship info on events.
