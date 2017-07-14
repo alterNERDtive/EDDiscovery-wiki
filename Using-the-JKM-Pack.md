@@ -4,4 +4,6 @@ Once enabled, you can check under Add-Ons | List Joystick.. menu option if it su
 
 The bindings are read at power up of EDD only.  Any changes you make in Elite to the bindings are not dynamically updated.
 
-Keys/Buttons bound to UI actions are not vocalised even if they are bound to other actions, due to the inability to tell what UI mode Elite is in.
+Keys/Buttons bound to UI actions are not vocalised even if they are bound to other actions, due to the inability to tell what UI mode Elite is in.  
+
+When docked no keys/buttons are vocalised.
