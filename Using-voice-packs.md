@@ -12,7 +12,7 @@ The voice pack adds on extra menu items to the add-on menu:
 
 See the [[action help|Using Actions]] for a document describing what the functions mean.
 
-Hitting F8 (if you have the keypack) or using the Edit Add-On menu option brings up the Action editor.  At the bottom left, ensure you have the voice pack selected:
+Use the Add-ons | Edit Add-on Action Files to bring up a menu showing the packs installed.  Hit Edit on the voice pack to edit the file (ensure you have installed it first!):
 
 ![](http://i.imgur.com/9bd7jql.png)
 
