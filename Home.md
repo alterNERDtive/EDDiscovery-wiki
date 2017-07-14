@@ -2,6 +2,9 @@
 
 8.1.X released on 10 july 2017 is the current version - try it if you wish. [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
 
+* Supports the [[Joystick Keyboard Mouse|Using the JKM Pack]] pack adding vocalisations to your input devices
+* Supports the [[OBS Pack|Using the OBS Pack]] to provide OBS overlays
+* Supports the [[SoundBlaster|Using the SoundBlaster Pack]] pack to play sounds when journal events occur
 * Action Menu Improvements
 * CSCore back to nuget package, added mouse input
 * Added Missions event info, changed info to basic ship info on events.
