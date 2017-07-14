@@ -16,7 +16,7 @@ Use the Add-ons | Edit Add-on Action Files to bring up a menu showing the packs 
 
 ![](http://i.imgur.com/9bd7jql.png)
 
-Each event may be enabled/disabled using the column here shown Always True/Enable.  Set this to disable to turn the event off.
+(Image out of date) Each event may be enabled/disabled using the column here shown Always True/Enable.  Set this to disable to turn the event off.
 
 See the [[Action pack Edit|Using the edit Add On Action Files Menu]] for more information.
 
