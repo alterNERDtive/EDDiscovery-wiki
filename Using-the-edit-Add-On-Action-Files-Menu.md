@@ -1,6 +1,6 @@
-The edit add-ons menu provides the means to define new actions to events and associate action programs with these events.
+The edit add-ons menu provides the means to show what actions packs are installed, allow them to be enabled or disabled, and allow them to be edited.
 
-![actions](http://i.imgur.com/gMhHyfu.png)
+Select Edit one of the packs from the menu and you can alter the conditions and events the packs respond to, and edit the programs.
 
 This shows two simple action events defined:
 
