@@ -1,26 +1,35 @@
 # Current Version
 
-8.0.X is the current version - try it if you wish. [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
+8.1.X released on 10 july 2017 is the current version - try it if you wish. [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
 
-* Added Companion API (CAPI) login (login in to Elite Dangerous Web API) this will provide:
-* Market Data Panel showing commodity prices
-* Storage of commodity prices in the journal so you can see the price at a given station
-* Autosend commodity prices to EDDN at docked Event.
+* Action Menu Improvements
+* CSCore back to nuget package, added mouse input
+* Added Missions event info, changed info to basic ship info on events.
+* Fixed bug in writing event line with comma in condition
+* Fixed major bug in missionlists - new entries was losing the data
+* Historylist has been cleaned up and re-orged into sections. Only real change is addition of Copy() to handle copying the class from one to another properly, for use in eddiscoverycontroller
+* Prevent some overflows in WndProc
+* CAPI checks for forbidden and login url
+* Improved expired session fix
+* EDDN ignore item >1day old.
+* Remove incorrect cmdr set in HL and protect them
 
-Also:
-* Commander dialog added for commander settings with CAPI login details
-* Many engineering recipe fixes.
-* On scan panel lava icon temperature limit increased.
-* Distance tooltips are to systems, not planets.
-* Show home system directly in the tooltip.
-* Add SuperMassiveBlackHole star type (for Sgr A*)
-* Name M and MS stars
-* Removed some EDDN start/end sync spam in log
-* Catch errors reading register from EDDUser.sqlite Don't error out when EDDUser.sqlite exists but has no data.
-* Context menu: copy journal entry to clipboard
-* Merge fuel scoop events
-* Prevent error selecting None for levels or material filters
-* Added more journal events 
+* Fix EliteBindings, Add in Perform listeliteinput, allow input device to be listed
+* Added in %isPresent to help with the voice menus,
+* Sped up scan of logs to every 500ms, added in to config dialog drop down combo
+* AboutForm Updates
+* Add galmap name fields to Route tab
+* Translate Earthlike world to journal format name.
+* More code to support NPC voices
+* Allow audio mixing in SAY during speech
+* Small fix to prevent failure if prev packs not present during install
+* Add last dock to travelhistory/journal.
+* Add EDSM buttons to target control on travelpage and to route finder
+* #1106 fix radians in axial tilt
+* #990 allows body name in screenshots
+* In Stats panel also show stats since last dock.
+* Stats panel: Add custom from and to date for Scans and Travel tab.
+* Fix bug in audio subsystem when doing priority inserts
 
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
