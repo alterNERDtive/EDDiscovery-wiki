@@ -6,7 +6,7 @@ A typical windows program.
 
 Using the setting page, Theme section you can configure the look and feel of the program to a much more modern look.
 
-![Settings Control](http://i.imgur.com/eKlIpQL.png)
+![Settings Control](http://i.imgur.com/GTlrXLc.png)
 
 You can pick one of the default themes, available via the drop down menu.  You can configure if the program is always on top.  And by using the Edit Theme dialog you can configure each visual element individually (the swatches and settings shown below are the ones to configure for the Elite Verdana style):
 
