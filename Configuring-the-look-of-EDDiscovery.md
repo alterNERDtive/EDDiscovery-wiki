@@ -1,6 +1,6 @@
 Out of the box EDDiscovery looks like this:
 
-![EDDiscovery Default Look](http://i.imgur.com/aS5dj8X.png)
+![EDDiscovery Default Look](http://i.imgur.com/qPS4jXn.png)
 
 A typical windows program.
 
