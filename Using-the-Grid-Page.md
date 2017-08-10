@@ -1,0 +1,1 @@
+The grid page consists solely of a grid panel. See [[using the grid|Using the Grid]] for details.
