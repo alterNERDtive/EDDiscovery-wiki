@@ -1,5 +1,40 @@
 # Previous Releases:
 
+8.1.X was released on 10 july 2017. [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
+
+* Supports the [[Joystick Keyboard Mouse|Using the JKM Pack]] pack adding vocalisations to your input devices
+* Supports the [[OBS Pack|Using the OBS Pack]] to provide OBS overlays
+* Supports the [[SoundBlaster|Using the SoundBlaster Pack]] pack to play sounds when journal events occur
+* Updates the [[voice|Using voice packs]] pack to add many more events and adds NPC voices into the pack
+* Action Menu Improvements
+* CSCore back to nuget package, added mouse input
+* Added Missions event info, changed info to basic ship info on events.
+* Fixed bug in writing event line with comma in condition
+* Fixed major bug in missionlists - new entries was losing the data
+* Historylist has been cleaned up and re-orged into sections. Only real change is addition of Copy() to handle copying the class from one to another properly, for use in eddiscoverycontroller
+* Prevent some overflows in WndProc
+* CAPI checks for forbidden and login url
+* Improved expired session fix
+* EDDN ignore item >1day old.
+* Remove incorrect cmdr set in HL and protect them
+
+* Fix EliteBindings, Add in Perform listeliteinput, allow input device to be listed
+* Added in %isPresent to help with the voice menus,
+* Sped up scan of logs to every 500ms, added in to config dialog drop down combo
+* AboutForm Updates
+* Add galmap name fields to Route tab
+* Translate Earthlike world to journal format name.
+* More code to support NPC voices
+* Allow audio mixing in SAY during speech
+* Small fix to prevent failure if prev packs not present during install
+* Add last dock to travelhistory/journal.
+* Add EDSM buttons to target control on travelpage and to route finder
+* #1106 fix radians in axial tilt
+* #990 allows body name in screenshots
+* In Stats panel also show stats since last dock.
+* Stats panel: Add custom from and to date for Scans and Travel tab.
+* Fix bug in audio subsystem when doing priority inserts
+
 8.0.X Was released on 9 may 2017. [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
 
 * Added Companion API (CAPI) login (login in to Elite Dangerous Web API) this will provide:
