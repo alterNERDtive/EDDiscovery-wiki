@@ -6,6 +6,8 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Nearest stars|Using the Nearest Stars Panel]]
 
+[[System Information Panel|Using the System Information Panel]]
+
 [[Materials count|Using the Materials Panel]]
 
 [[Commodities count|Using the Commodities Panel]]
