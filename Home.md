@@ -34,7 +34,7 @@ The main user interface of ED consists of a set of tab pages
 
 * [[History|Using the History Page]] : The history page supports four selectable [[Panels|Using Panels]] which you can select what information is displayed.
 * [[Journal|Using the Journal Page]]
-* [[Grid|Using the Grid]]
+* [[Grid|Using the Grid Page]]
 * [[Trilateration|Using the Trilateration Page]]
 * [[Screenshots|Using the Screenshots Page]]
 * [[Route|Using the Route Page]]
