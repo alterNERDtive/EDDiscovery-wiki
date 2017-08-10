@@ -2,9 +2,13 @@
 
 8.2.X (to be released) on 11 August 2017 is the newest version. 
 
-* UI major rework
+* UI major rework, tooltips, drop down menus etc optimised.
 * The Grid major tab added, allows any of the panels to be placed at any position on it
 * Grid Pop outs supported, allows you multiple pop outs of any set of arbitrary panels
+* Toolbar at the top added, which can roll up to minimise screen space.
+* System info panel added, fully configurable, will work in transparent mode. Much more information.
+* History page now consists of a fixed travel grid, and four configurable panes (one bottom, three left).
+* Travel grid and journal grid have their own 'Cursor to top' options instead of one global option.
 * Uploads to EDSM credits, current ship, progress, rank
 
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
