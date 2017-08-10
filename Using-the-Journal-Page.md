@@ -1,6 +1,6 @@
 The journal page (and also Grid) shows a simpler view of the history, with a single view, and with all the data expanded out.
 
-![Journal page](http://i.imgur.com/olu5Vrp.png)
+![Journal page](http://i.imgur.com/pvWlLjQ.png)
 
 The grid consists of the following columns:
 
