@@ -36,7 +36,7 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Market Data|Using the Market Data Panel]]
 
-These panels are pop out only:
+[[The Grid|Using the Grid]]
 
 [[S panel|Using the SPanel]]
 
