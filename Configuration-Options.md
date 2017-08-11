@@ -30,4 +30,6 @@ Command line options are as follows:
 
 * -LogExceptions: Log exceptions
 
+* -notheme :  Starts EDDiscovery with default theme  (EDD 8.2.1+) 
+
 Other internal options are present for developer use only.
