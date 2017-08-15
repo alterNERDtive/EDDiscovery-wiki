@@ -16,7 +16,7 @@
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
 # Troubleshooting
-Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]]
+Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]] and check out [[Safe Mode|Safe Mode]].
 
 # EDDiscovery - What is it?
 
