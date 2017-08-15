@@ -8,8 +8,7 @@ Create an account, if you haven't already, and generate an API key.
 
 This is found under the User drop-down in "User API Key".
 
-![EGO - API Key](http://imgur.com/a/4pJA2)
-[Imgur](http://i.imgur.com/UEt7TBo.png)
+![EGO - API Key](http://i.imgur.com/UEt7TBo.png)
 
 ## Configuration - EDDiscovery
 
