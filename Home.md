@@ -2,6 +2,7 @@
 
 8.2.X Released on 11 August 2017 is the newest version. 
 
+* New! 8.2.3 Adds a safe mode option.  Hold down shift key and run EDD and a safe mode dialog will appear, which allows you to run without remembering window positions, without loading a theme, or to move your databases to another folder or drive.
 * UI major rework, tooltips, drop down menus etc optimised.
 * The Grid major tab added, allows any of the panels to be placed at any position on it
 * Grid Pop outs supported, allows you multiple pop outs of any set of arbitrary panels
@@ -15,7 +16,7 @@
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
 # Troubleshooting
-See [[Troubleshooting|Troubleshooting]]
+Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]]
 
 # EDDiscovery - What is it?
 
