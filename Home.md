@@ -16,7 +16,7 @@
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
 # Troubleshooting
-Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]] and check out [[Safe Mode|Safe Mode]].
+Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]] and check out [[Safe Mode|Safe Mode]] to allow you to fix issues and [[Move the Databases|Move databases]] to another folder.
 
 # EDDiscovery - What is it?
 
