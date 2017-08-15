@@ -2,34 +2,34 @@ Command Line Options.
 
 These are for advanced users only.  Use at own risk.
 
-Options are read from both the EDDiscovery command line and from an options file.  
+Options are read from both the EDDiscovery command line and from:
+* Any option file included by the -optionfile <file> option given on the command line.  It will check in both the application install folder and the application data folder for this file if its just a file name.  If its a full path it will read it from that path.
+* options.txt if present and located in the same folder as the application install folder of EDDiscovery.exe
+* options.txt if present and located in the application data folder (default c:\users\<x>\appdata\local\eddiscovery)
+* dboptions.txt if present and located in the application data folder - this is written by the program if you've moved the databases, so the user should not normally update this file.
 
-The default options file is read from the file options.txt located in the application install folder of EDDiscovery.  To change to another location and file use -optionsfile <filename> on the command line. If just a file name, it will be searched for in the install folder of EDDiscovery.  If a full path, use the full path location.
-
-Options are case insensitive.
+Options are case insensitive.  In option files, don't include the '-' character in front of the option.
 
 Command line options are as follows:
 
 # USER
 
-* -NRW or -NoRepositionWindow : Use default window positions, don't load at previous positions.  Same as holding down shift during program start.
+* -NRW or -NoRepositionWindow : Use default window positions, don't load at previous positions.  Safe mode (hold down shift as you run the program) allows this to be set by the user via a dialog.
 
-* -Portable : Store EDDiscovery data files in same folder as executable.  If you use this, the EDDiscovery folder must be user writable.
+* -NoTheme : Don't load the theme.  Safe mode allows this to be set by the user via a dialog.
+
+* -Portable : Store EDDiscovery data files in a sub folder of the executable.  If you use this, the EDDiscovery application folder must be user writable.
 
 # Advanced User
 
-* -Appfolder : Use this folder instead of EDDiscovery in the <users>/appdata/local folder.  This can be used to separate the data bases of different commanders if required.  Not needed for multi commander use.  Mostly its for debug purposes.
+* -Appfolder <name/path>: Use this folder instead of c:\users<x>\appdata\local\EDDiscovery for the application data folder.  If a directory name only is supplied, it is stored in appdata\local\<name>. If a full path is given, it is stored there.  Ignored if -Portable is given. This is useful for debug use, to start a clean ED session while keeping your old data. Not needed for multi commander use.  Example: -Appfolder data1
 
-* -Userdbpath: Use this path for the user data base instead of the default appfolder/EDDUser.sqlite file.
+* -Userdbpath <folder path>: Use this path for the user data base instead of the default application data folder.  This allows the db to be stored somewhere else that the application data folder.  Useful if your SSD is small.  Note dboptions.txt uses this as part of the safe mode system to move databases around.
 
-* -Systemsdbpath: Use this path for the systems data base instead of the default appfolder/EDDSystem.sqlite file.
-
-* -Olddbpath: Use this path for the old ED Discovery data base (pre 2.2) instead of the default appfolder/EDDSystem.sqlite file. (8.0+ removes the ability to read this DB).
+* -Systemsdbpath <folder path>: Use this path for the systems data base instead of the default application data folder. Note dboptions.txt uses this as part of the safe mode system to move databases around.
 
 * -Tracelog : Do a tracelog even when debugging.
 
 * -LogExceptions: Log exceptions
-
-* -notheme :  Starts EDDiscovery with default theme  (EDD 8.2.1+) 
 
 Other internal options are present for developer use only.
