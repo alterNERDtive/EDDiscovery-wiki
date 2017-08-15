@@ -23,9 +23,11 @@ Here you can configure:
 
 * Override Journal Location: Used in the remote EDDiscovery use case where you are running EDDiscovery from another computer and looking at the journal files on a file share. EDDiscovery will scan the folder given and read in all journal files found there.
 
-* EDSM Integration: If your going to send travel history to EDSM, you need to enter your EDSM Commander name, EDSM API key [[EDSM Integration|EDSM Integration with EDDiscovery]], and choose the sync directions you want to use.
+* EDSM Integration: If you want to send your travel history to EDSM, you need to enter your EDSM Commander name, EDSM API key [[EDSM Integration|EDSM Integration with EDDiscovery]], and choose the sync directions you want to use.
 
 * EDDN Integration: Select if you want to send information to the EDDN network (which you probably do if you like using EDDB etc since they rely on our data feeds)
+
+* EGO Integration (TODO: requires updated image): If you want to automatically send discoveries to EGO, you need to enter your EGO login and API key [[EGO Integration|EGO integration with EDDiscovery]], and choose the sync directions you want to use.
 
 * Frontier Companion API: If you wish, give your Frontier account log in details here (which is saved in encrypted form) and EDDiscovery will obtain information from the Frontier servers.  This is used primarly to obtain [[Market Data Panel|Using the Market Data Panel]] and drives that panels information. 
 
