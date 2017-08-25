@@ -2,7 +2,7 @@
 
 The Action system, new to 6.0, adds the ability to run a small program when an event is received via the journal, or via a keypress, or due to a program event (startup,shutdown, popup etc).
 
-The action language itself is described in this [action program language google document](https://docs.google.com/document/d/1ZNA7weXF4SQIVkR_j9QDr9fybO6gmG8gPmRPrYWf8VU/edit?usp=sharing) as it is too complicated to describe on this simple wiki.
+The action language itself is described in this [action program language google document](https://docs.google.com/document/d/1nBhGlm35g9vNkS2oIV6-x_i-VH0SQLhTMgivAhCfvsQ/edit?usp=sharing) as it is too complicated to describe on this simple wiki.
 
 These programs can trigger program events themselves, say phrases to the windows text to speech engine, play a sound etc.
 
