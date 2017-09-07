@@ -1,4 +1,4 @@
-Safe mode is entered by holding shift key down as you launch EDDiscovery:
+Safe mode is entered by holding <kbd>Shift</kbd> down as you launch EDDiscovery:
 
 ![Safe Mode](http://i.imgur.com/K0ZUnV2.png)
 
