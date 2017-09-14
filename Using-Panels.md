@@ -14,6 +14,8 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Ledger|Using the Ledger Panel]]
 
+[[Estimated Exploration Values|Estimated Exploration Values]]
+
 [[Journal Grid|Using the Journal Page]]
 
 [[History Grid|Using the History Grid]] 
