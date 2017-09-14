@@ -10,4 +10,6 @@ The dialog itself allows you to select the market data to show (left selection),
 
 You can also using the right drop down select a market to compare these prices with. Then it will show, if it has price information, the profit to/from you will obtain, per ton, from trading that good.
 
-Finally, click buy only to show commodities which you can actually buy or sell at the currently selected stations.
+Click buy only to show commodities which you can actually buy or sell at the currently selected stations.
+
+Click auto swap (8.3+, not shown) to automatically swap your comparision station to the previous visited one when doing a->b->a trading.
