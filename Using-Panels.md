@@ -16,7 +16,9 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Journal Grid|Using the Journal Page]]
 
-[[History Grid|Using the History Grid]]
+[[History Grid|Using the History Grid]] 8.3+
+
+[[Star List Grid|Using the Star List Grid]]
 
 [[Screenshot panel|Using the Screenshot Panel]]
 
