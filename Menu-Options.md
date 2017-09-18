@@ -35,6 +35,8 @@ The menu options, accessible in all pages, is detailed below:
 
 * Clear EDSM ID assigned to all records for current commander: **Advanced** If you are having problems with notes disappearing, or a system is not matching the EDSM entry (which on an individual basis you can fix using a right click on the travel grid and selecting Assign new system), use this. This will clear the association between a entry and an EDSM star.  EDDiscovery will then when next refreshed or run try and find that association again.  If EDSM ever (unlikely) renumbers stars, then also notes could disappear as they are keyed to the EDSM ID.  This would also solve this.
 
+* Created import file to import your visited systems to Elite Dangerous. This will create an import star list of your current commander to the latest ED visiting systems cache folder.  Then restart Elite and your history should be in its database (Replaced functionality on previous Export/Import tab)
+
 # Add Ons
 
 * [[Manage Add-ons|Using the manage Add-Ons Menu]] : Allows the user to install, remove or enable/disable the add on packs.
