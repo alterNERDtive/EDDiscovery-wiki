@@ -1,34 +1,10 @@
-Export allows data collected by EDDiscovery to be exported:
+8.3 Removes this tab, and moves the functionality to excel export buttons on the following other panels:
 
-![Export](http://i.imgur.com/DlTKWUM.png)
+* Travel history
+* Scan panel
+* Route
 
-# Top Section : Export to spreadsheet
+The Admin menu has the option to export visited system history to Elite.
 
-The top section allows data to be written to a spreadsheet Comma or Semicolon Separated File suitable for import into Excel, etc.  
-
-Select the appropriate format.  Include Header places column titles in row 1.  Select the data to export:
-
-* Exploration Scans (All)
-
-* Exportation Scans (Stars only)
-
-* Exportation Scans (Planets only)
-
-* Travel History
-
-* Sold exploration data (all)
-
-* Sold exploration data (by date)
-
-* Route Plan
-
-# Bottom Section: Export Visited Stars to ED Galactic Map
-
-This writes importstars.txt to the correct folder for elite dangerous to read the file, to allow ED to update its visiting stars cache. These stars will appear in the ED Galactic map next time ED is started.  
-
-Two options exist:
-
-* Set the filter text (use the Travel button to fill in the current history grid travel system) and use Export Filtered Systems.
-
-* Press Export Commanders visited stars to export all stars visited by the commander.
+Import of systems has been removed.
 
