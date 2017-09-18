@@ -50,6 +50,6 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Route tracker|Using the Route Tracker Panel]]
 
-[[EDSM Panel|Using the EDSM Panel]]
+[[EDSM Panel|Using the EDSM Panel]] 8.3+
 
 
