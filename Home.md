@@ -31,8 +31,9 @@ EDDiscovery gives you a [[3D map|Using the 3D Map]] and [[2D maps|Using the 2D M
 Here's an example of the history page using the [[ED Theme Elite Verdana|Configuring the look of EDDiscovery]], EDDiscovery supports themeing the user interface to your specification.
 
 ![](http://i.imgur.com/3IdAyWA.png)
+(Image is out of date as per 8.3 - Export tab removed)
 
-The main user interface of ED consists of a set of tab pages
+The main user interface of ED consists of a set of tab pages .
 
 * [[History|Using the History Page]] : The history page supports four selectable [[Panels|Using Panels]] which you can select what information is displayed.
 * [[Journal|Using the Journal Page]]
