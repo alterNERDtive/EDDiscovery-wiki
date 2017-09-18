@@ -41,7 +41,6 @@ The main user interface of ED consists of a set of tab pages
 * [[Screenshots|Using the Screenshots Page]]
 * [[Route|Using the Route Page]]
 * [[Route/Expeditions|Using the Route Expeditions Page]]
-* [[Export|Using the Export Page]]
 * [[Settings|Using the Settings Page]]
 
 Which you can select from. See the topics above for information on each page.  The tab you were on is remembered after exiting the program and selected next time you run.
