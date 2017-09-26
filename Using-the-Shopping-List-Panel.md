@@ -1,6 +1,6 @@
 The Shopping List panel combines the [Engineering](https://github.com/EDDiscovery/EDDiscovery/wiki/Using-the-Engineering-panel) and [Synthesis](https://github.com/EDDiscovery/EDDiscovery/wiki/Using-the-Synthesis-Panel) controls into a single panel.
 
-![Shopping List Panel](http://imgur.com/bffBJfE)
+![Shopping List Panel](http://imgur.com/bffBJfE.png)
 
 Set the wanted values on both controls to produce a single shopping list for the required materials needed for the combined synthesis and engineering recipes.
 
