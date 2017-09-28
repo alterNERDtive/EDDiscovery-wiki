@@ -25,3 +25,6 @@ Hovering over a item shows you a text description of it.  Clicking on a planet p
 Clicking on empty space closes the note.
 
 The blue line around the planet or moon indicates its landable.  Multiple rings are shown by a gap in the ring.
+
+# Export
+Use the excel icon to export the current travel history data to a CSV file for spreadsheets like excel.
