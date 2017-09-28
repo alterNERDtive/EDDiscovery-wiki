@@ -1,17 +1,17 @@
 # Current Version
 
-8.2.X Released on 11 August 2017 is the newest version. 
+8.3.X Released on 26 Sept 2017 for ED 2.4 is the newest version. 
 
-* New! 8.2.3 Adds a [[safe mode option|Safe Mode]].  Hold down shift key and run EDD and a safe mode dialog will appear, which allows you to run without remembering window positions, without loading a theme, or to move your databases to another folder or drive.
-* UI major rework, tooltips, drop down menus etc optimised.
-* The Grid major tab added, allows any of the panels to be placed at any position on it
-* Grid Pop outs supported, allows you multiple pop outs of any set of arbitrary panels
-* Toolbar at the top added, which can roll up to minimise screen space.
-* System info panel added, fully configurable, will work in transparent mode. Much more information.
-* History page now consists of a fixed travel grid, and four configurable panes (one bottom, three left).
-* Travel grid and journal grid have their own 'Cursor to top' options instead of one global option.
-* Uploads to EDSM credits, current ship, progress, rank
-* Elite galaxy online integration (EGO)
+* Companion API (CAPI ) is temporary disabled in this version. Will be enabled again shortly after we have verified the function after ED 2.4 release.
+* Added support for new journal event from Elite Dangerous 2.4
+* New Shoppinglist control with transparent overlay
+* Added popout control to list estimated scan values for bodies in system
+* Send Materials, Data and Cargo to EDSM
+* Move screenshot settings tab to settings panel, removed import/export tab and incorporated features on appropriate panels.
+* Remember to Download Voicepack V5 and JMKV2 for latest support of ED 2.4
+* Moved functionality to excel icons on route/history/scan and admin menu. Export page removed. Moved to move logical UI positions.
+* CAPI can be disabled without losing the credentials.
+* Added visit count to UC star distance, some UC clean ups with events
 
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
@@ -22,7 +22,7 @@ Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]] and check
 
 You play Elite Dangerous and have heard of EDDiscovery - and ended up here.  So what _is_ it?  
   
-In short it's a 3rd party tool that can track your Elite Dangerous travels, combat, trading, rank etc. Before Elite Dangerous 2.2 it could only track travel, now with 2.2, EDDiscovery tracks much more! It can now log other data such as rank, commodities, materials, scans and all host of other data.
+In short it's a 3rd party tool that can track your Elite Dangerous travels, combat, trading, rank etc. Before Elite Dangerous 2.2 it could only track travel, now with 2.2+, EDDiscovery tracks much more! It can now log other data such as rank, commodities, materials, scans and all host of other data.
 
 EDD works on the PC or the MAC.  Unfortunately Frontier does not or cannot support the API required on XBOX or PS4 to output journal entries to the PC/MAC for us to use.
 
