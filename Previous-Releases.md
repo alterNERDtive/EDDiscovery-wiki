@@ -1,5 +1,18 @@
 # Previous Releases:
 
+8.2.X Released was released on 11 August 2017 for ED 2.3
+
+* New! 8.2.3 Adds a [[safe mode option|Safe Mode]].  Hold down shift key and run EDD and a safe mode dialog will appear, which allows you to run without remembering window positions, without loading a theme, or to move your databases to another folder or drive.
+* UI major rework, tooltips, drop down menus etc optimised.
+* The Grid major tab added, allows any of the panels to be placed at any position on it
+* Grid Pop outs supported, allows you multiple pop outs of any set of arbitrary panels
+* Toolbar at the top added, which can roll up to minimise screen space.
+* System info panel added, fully configurable, will work in transparent mode. Much more information.
+* History page now consists of a fixed travel grid, and four configurable panes (one bottom, three left).
+* Travel grid and journal grid have their own 'Cursor to top' options instead of one global option.
+* Uploads to EDSM credits, current ship, progress, rank
+* Elite galaxy online integration (EGO)
+
 8.1.X was released on 10 july 2017. [Download here](https://github.com/EDDiscovery/EDDiscovery/releases). This features:
 
 * Supports the [[Joystick Keyboard Mouse|Using the JKM Pack]] pack adding vocalisations to your input devices
