@@ -52,4 +52,6 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[EDSM Panel|Using the EDSM Panel]] 8.3+
 
+[[Shopping List Panel|Using the Shopping List Panel]] 8.3+
+
 
