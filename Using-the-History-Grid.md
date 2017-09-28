@@ -64,3 +64,6 @@ Right click either on a previous selection or a entry and you will be presented 
 * Set Note: An alternate way of entering a note rather than using the note box on the right
 
 * Run Actions on this entry.  Re-run any actions that apply to this entry.
+
+# Export
+Use the excel icon to export the current travel history data to a CSV file for spreadsheets like excel.
