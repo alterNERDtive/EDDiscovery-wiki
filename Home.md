@@ -12,6 +12,9 @@
 * Moved functionality to excel icons on route/history/scan and admin menu. Export page removed. Moved to move logical UI positions.
 * CAPI can be disabled without losing the credentials.
 * Added visit count to UC star distance, some UC clean ups with events
+* Added a new "TransparentClickThru" transparency mode for popup windows.
+  * Designed for mouse pilots that want panels overlapping their Elite: Dangerous window, but are tired of focus stealing.
+  * Requires holding down a certain key (default: <kbd>shift</kbd>, but editable in settings) in order to focus the window.
 
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
