@@ -10,4 +10,4 @@ The windows default voices are of varying quality.  You must have the voice pack
 
 More voices can be purchased online.  Ivona voices which are commonly used since they are compatible with SAPI 5 interface and can be purchased from www.textaloud.com individually.  Voices must be SAPI 5 compatible to be used with EDDiscovery.
 
-Beware of free sound packs - they come in .exe installers and who knows what else is being loaded.
+Beware free sound packs - they come in .exe installers and who knows what else is being loaded.
