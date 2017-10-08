@@ -31,6 +31,8 @@ EDD works on the PC or the MAC.  Unfortunately Frontier does not or cannot suppo
 
 EDDiscovery gives you a [[3D map|Using the 3D Map]] and [[2D maps|Using the 2D Map]] of the galaxy, showing travel history and data from EDSM and EDDB to aid your journey through the Elite Dangerous galaxy.
 
+EDDiscovery supports [[add-ons|Using the manage Add Ons Menu]], which give you the ability to [[vocalise events |Using voice packs]], add [[keyboard shortcuts|Using key packs]], read and vocalise [[joystick inputs|Using the JKM Pack]], place information on [[OBS|Using the OBS Pack]] plus others.
+
 Here's an example of the history page using the [[ED Theme Elite Verdana|Configuring the look of EDDiscovery]], EDDiscovery supports themeing the user interface to your specification.
 
 ![](https://i.imgur.com/5WakbQp.png)
