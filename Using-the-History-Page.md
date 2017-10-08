@@ -4,8 +4,6 @@ The page is split into the following areas:
 
 ![Areas of the History Page](http://i.imgur.com/NPhpmIq.png)
 
-The toolbar at the top can be instructed to roll up or stay expanded. When the mouse hovers over the toolbar, a pin on the far right (not shown) will show and you can either pin or unpin the toolbar.
-
 The lower areas can be resized, as shown above, against its siblings. The split between the left and right view sets can be adjusted, and the vertical area of the three right panels and the two left panels can be adjusted.
 
 The top left area is fixed to a [[History Grid|Using the History Grid]].  The other areas are configurable, see below. 
@@ -25,7 +23,7 @@ The toolbar allows you to:
 See the [[history grid|Using the History Grid]] topic for help in use of this view area.
 
 # Configuring the views.
-For each view you can configure what panel is shown in each.  Hover the cursor over the tab bar area above the view as shown below.  After a short interval, a set of icons appear which will allow you to select different information to view in that view area.
+For each view you can configure what panel is shown in each.  Hover the cursor over the tab bar area above the view as shown below.  After a short interval, a set of icons appear or a panel selection icon (8.4+) which will allow you to select different information to view in that view area.
 
 ![Select data panel](http://i.imgur.com/5X3MoL1.png)
 
