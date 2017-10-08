@@ -8,17 +8,6 @@ The lower areas can be resized, as shown above, against its siblings. The split 
 
 The top left area is fixed to a [[History Grid|Using the History Grid]].  The other areas are configurable, see below. 
 
-# Using the toolbar
-The toolbar allows you to:
-
-* Commander: use to select which commander to display information about, or Hidden for entries you have hidden.
-* Refresh: causes EDDiscovery to recheck the journal files
-* [[2D Maps|Using the 2D Map]], [[3D Map|Using the 3D Map]]: open maps
-* EDSM Sync: if you've configured EDSM sync in [[Settings Page|Using the Settings Page]] then this causes EDDiscovery to check for EDSM information and up and download it
-* Log etc PopOut: select a pop out data panel (see below)
-* Manage Add-Ons : install new add-ons
-* Edit Add-Ons : edit or disable add-ons.
-
 # Using the History Grid
 See the [[history grid|Using the History Grid]] topic for help in use of this view area.
 
