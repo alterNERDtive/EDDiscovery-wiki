@@ -37,9 +37,26 @@ Here's an example of the history page using the [[ED Theme Elite Verdana|Configu
 
 ![](https://i.imgur.com/5WakbQp.png)
 
-The main user interface of ED consists of a set of tab pages .
+The main user interface of ED consists of (from top):
 
-* [[History|Using the History Page]] : The history page supports four selectable [[Panels|Using Panels]] which you can select what information is displayed.
+# Menu Bar
+[[Menu Options|Menu Options]] for some quick access functions and to run housekeeping functions which seldom need executing.
+
+# The Toolbar.  
+* Commander: use to select which commander to display information about, or Hidden for entries you have hidden.
+* Refresh: causes EDDiscovery to recheck the journal files
+* [[2D Maps|Using the 2D Map]], [[3D Map|Using the 3D Map]]: open maps
+* EDSM Sync: if you've configured EDSM sync in [[Settings Page|Using the Settings Page]] then this causes EDDiscovery to check for EDSM information and up and download it
+* Log etc PopOut: select a pop out data panel (see below)
+* Manage Add-Ons : install new add-ons
+* Edit Add-Ons : edit or disable add-ons.
+
+The toolbar can be instructed to roll up or stay expanded. When the mouse hovers over the toolbar, a pin on the far right (not shown) will show and you can either pin or unpin the toolbar.
+
+# Tab Pages
+A set of tab pages are shown below the toolbar.  These are:
+
+* [[History|Using the History Page]] : The history page shows a list of events for your commander, as well as four selectable [[Panels|Using Panels]].
 * [[Journal|Using the Journal Page]]
 * [[Grid|Using the Grid Page]]
 * [[Trilateration|Using the Trilateration Page]]
@@ -49,7 +66,7 @@ The main user interface of ED consists of a set of tab pages .
 
 Which you can select from. See the topics above for information on each page.  The tab you were on is remembered after exiting the program and selected next time you run.
 
-EDDiscovery also has [[Menu Options|Menu Options]] for some quick access functions and to run housekeeping functions which seldom need executing.
+# Other Information
 
 [[Configuration Options|Configuration Options]] exist to control how EDDiscovery starts and where data is stored.
 
