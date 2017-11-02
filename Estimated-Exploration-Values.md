@@ -1,0 +1,1 @@
+This panel just shows a list of bodies of the  the current system selected by the history grid, and their estimated exploration rewards values.
