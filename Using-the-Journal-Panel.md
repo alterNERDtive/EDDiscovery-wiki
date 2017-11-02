@@ -33,7 +33,7 @@ You can click drag down on the grid to select multiple entries at one time for r
 
 # Right Click options
 
-Right click either on a previous selection or a entry and you will be presented with the following options (a more limited selection than [[the history grid|Using the History Grid]] ):
+Right click either on a previous selection or a entry and you will be presented with the following options (a more limited selection than [[the history grid|Using the History Grid Panel]] ):
 
 ![Right click options](http://i.imgur.com/URNsxY7.png)
 
