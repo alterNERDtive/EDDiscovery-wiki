@@ -16,7 +16,7 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Estimated Exploration Values|Estimated Exploration Values]]
 
-[[Journal Grid|Using the Journal Page]]
+[[Journal Grid|Using the Journal Panel]]
 
 [[History Grid|Using the History Grid]] 
 
