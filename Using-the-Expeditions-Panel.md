@@ -1,4 +1,4 @@
-The route and expeditions page allows you to create a route through the galaxy, with waypoints, from a defined time and date to an end date.
+The expedition panel allows you to create a route through the galaxy, with waypoints, from a defined time and date to an end date.
 
 ![Route and Expeditions](http://i.imgur.com/MCsVqlL.png)
 
