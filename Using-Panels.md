@@ -18,7 +18,7 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Journal Grid|Using the Journal Panel]]
 
-[[History Grid|Using the History Grid]] 
+[[History Grid|Using the History Grid Panel]] 
 
 [[Star List Grid|Using the Star List Grid]] 8.3+
 
