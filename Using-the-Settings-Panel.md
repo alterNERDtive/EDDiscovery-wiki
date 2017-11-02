@@ -35,11 +35,9 @@ Here you can configure:
 
 These configure EDDiscovery:
 
-* Log EDSM requests: Store EDSM requests in a log in your APPDATA EDDiscovery folder.
+* Log HTTP requests: Store HTTP requests in a log in your APPDATA EDDiscovery folder.
 
 * Number Rows Latest Entry Highest: By default 1 is the latest entry. If you prefer it the other way around, click this.
-
-* History cursor to new Journal Entry automatically: When a new journal entry is entered, change the cursor on the [[history panel|Using the History Panel]] to the entry.
 
 * Display Game time instead of local time: Display UTC game time instead of your local time.
 
