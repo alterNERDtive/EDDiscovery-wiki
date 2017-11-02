@@ -2,7 +2,7 @@ The history page is the main information and control page of EDDiscovery. Here y
 
 The page is split into the following areas:
 
-![Areas of the History Page](http://i.imgur.com/NPhpmIq.png)
+![Areas of the History Tab](http://i.imgur.com/NPhpmIq.png)
 
 The lower areas can be resized, as shown above, against its siblings. The split between the left and right view sets can be adjusted, and the vertical area of the three right panels and the two left panels can be adjusted.
 
