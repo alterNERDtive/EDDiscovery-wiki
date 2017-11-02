@@ -1,5 +1,21 @@
 # Previous Releases:
 
+8.3.X was released on 26 Sept 2017 for ED 2.4.
+
+* Companion API (CAPI ) is temporary disabled in this version. Will be enabled again shortly after we have verified the function after ED 2.4 release.
+* Added support for new journal event from Elite Dangerous 2.4
+* New Shoppinglist control with transparent overlay
+* Added popout control to list estimated scan values for bodies in system
+* Send Materials, Data and Cargo to EDSM
+* Move screenshot settings tab to settings panel, removed import/export tab and incorporated features on appropriate panels.
+* Remember to Download Voicepack V5 and JMKV2 for latest support of ED 2.4
+* Moved functionality to excel icons on route/history/scan and admin menu. Export page removed. Moved to move logical UI positions.
+* CAPI can be disabled without losing the credentials.
+* Added visit count to UC star distance, some UC clean ups with events
+* Added a new "TransparentClickThru" transparency mode for popup windows.
+  * Designed for mouse pilots that want panels overlapping their Elite: Dangerous window, but are tired of focus stealing.
+  * Requires holding down a certain key (default: <kbd>shift</kbd>, but editable in settings) in order to focus the window.
+
 8.2.X Released was released on 11 August 2017 for ED 2.3
 
 * New! 8.2.3 Adds a [[safe mode option|Safe Mode]].  Hold down shift key and run EDD and a safe mode dialog will appear, which allows you to run without remembering window positions, without loading a theme, or to move your databases to another folder or drive.
