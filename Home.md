@@ -47,7 +47,7 @@ The toolbar can be instructed to roll up or stay expanded. When the mouse hovers
 Panels are the basic building UI block of EDDiscovery. There are many (>25) panels, each one dedicated to a specific task or information display. Panels can be displayed in a tab, or popped out in a stand alone window.  A [[Grid|Using the Grid]] panel can contain other panels.
 
 # Tab Pages
-A set of tab pages are shown below the toolbar.  You can add or remove tabs (containing a panel) to the program by right clicking on the menu toolbar and selecting or removing a panel.  The only mandatory tab is the [[History Tab|Using the History Tab]] as the program must have at least one [[History Grid|Using the History Grid Panel]] present to work.
+A set of tab pages are shown below the toolbar.  You can add or remove tabs (containing a panel) to the program by right clicking on the menu toolbar and selecting or removing a tab.  The only mandatory tab is the [[History Tab|Using the History Tab]] as the program must have at least one [[History Grid|Using the History Grid Panel]] present to work.
 
 By default, at first run, EDDiscovery presents the user with a set of tabs containing the following panels: [[History Tab|Using the History Tab]], [[Route Panel|Using the Route Panel]], [[Expedition Panel|Using the Expeditions Panel]], [[Settings|Using the Settings Panel]]
 
