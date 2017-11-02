@@ -1,20 +1,10 @@
 # Current Version
 
-8.3.X Released on 26 Sept 2017 for ED 2.4 is the newest version. 
+8.4.X Released on 2 Nov 2017 for ED 2.4 is the newest version. 
 
-* Companion API (CAPI ) is temporary disabled in this version. Will be enabled again shortly after we have verified the function after ED 2.4 release.
-* Added support for new journal event from Elite Dangerous 2.4
-* New Shoppinglist control with transparent overlay
-* Added popout control to list estimated scan values for bodies in system
-* Send Materials, Data and Cargo to EDSM
-* Move screenshot settings tab to settings panel, removed import/export tab and incorporated features on appropriate panels.
-* Remember to Download Voicepack V5 and JMKV2 for latest support of ED 2.4
-* Moved functionality to excel icons on route/history/scan and admin menu. Export page removed. Moved to move logical UI positions.
-* CAPI can be disabled without losing the credentials.
-* Added visit count to UC star distance, some UC clean ups with events
-* Added a new "TransparentClickThru" transparency mode for popup windows.
-  * Designed for mouse pilots that want panels overlapping their Elite: Dangerous window, but are tired of focus stealing.
-  * Requires holding down a certain key (default: <kbd>shift</kbd>, but editable in settings) in order to focus the window.
+* Configurable tabs to the program. Right click on the major tab and add/remove tabs. The program starts with a more limited set of tabs - use right click on the tabs to add your chosen ones back.
+* Exploration panel updates
+* Many under the hood changes to improve panel output, to improve responsiveness etc.
 
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
@@ -46,25 +36,22 @@ The main user interface of ED consists of (from top):
 * Commander: use to select which commander to display information about, or Hidden for entries you have hidden.
 * Refresh: causes EDDiscovery to recheck the journal files
 * [[2D Maps|Using the 2D Map]], [[3D Map|Using the 3D Map]]: open maps
-* EDSM Sync: if you've configured EDSM sync in [[Settings Page|Using the Settings Page]] then this causes EDDiscovery to check for EDSM information and up and download it
+* EDSM Sync: if you've configured EDSM sync in [[Settings Page|Using the Settings Panel]] then this causes EDDiscovery to check for EDSM information and up and download it
 * Log etc PopOut: select a pop out data panel (see below)
 * Manage Add-Ons : install new add-ons
 * Edit Add-Ons : edit or disable add-ons.
 
 The toolbar can be instructed to roll up or stay expanded. When the mouse hovers over the toolbar, a pin on the far right (not shown) will show and you can either pin or unpin the toolbar.
 
+# Panels
+Panels are the basic building UI block of EDDiscovery. There are many (>25) panels, each one dedicated to a specific task or information display. Panels can be displayed in a tab, or popped out in a stand alone window.  A [[Grid|Using the Grid]] panel can contain other panels.
+
 # Tab Pages
-A set of tab pages are shown below the toolbar.  These are:
+A set of tab pages are shown below the toolbar.  You can add or remove tabs (containing a panel) to the program by right clicking on the menu toolbar and selecting or removing a panel.  The only mandatory tab is the [[History Tab|Using the History Tab]] as the program must have at least one [[History Grid|Using the History Grid]] present to work.
 
-* [[History|Using the History Page]] : The history page shows a list of events for your commander, as well as four selectable [[Panels|Using Panels]].
-* [[Journal|Using the Journal Page]]
-* [[Grid|Using the Grid Page]]
-* [[Trilateration|Using the Trilateration Page]]
-* [[Route|Using the Route Page]]
-* [[Route/Expeditions|Using the Route Expeditions Page]]
-* [[Settings|Using the Settings Page]]
+By default, at first run, EDDiscovery presents the user with a set of tabs containing the following panels: [[History Tab|Using the History Tab]], [[Route Panel|Using the Route Panel]], [[Expedition Panel|Using the Expeditions Panel]], [[Settings|Using the Settings Panel]]
 
-Which you can select from. See the topics above for information on each page.  The tab you were on is remembered after exiting the program and selected next time you run.
+The tab you were on is remembered after exiting the program and selected next time you run.  You can have multiple versions of the same panel present on the tab line.
 
 # Other Information
 
