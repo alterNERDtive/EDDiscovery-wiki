@@ -39,7 +39,7 @@ These configure EDDiscovery:
 
 * Number Rows Latest Entry Highest: By default 1 is the latest entry. If you prefer it the other way around, click this.
 
-* History cursor to new Journal Entry automatically: When a new journal entry is entered, change the cursor on the [[history grid|Using the History Grid]] to the entry.
+* History cursor to new Journal Entry automatically: When a new journal entry is entered, change the cursor on the [[history panel|Using the History Panel]] to the entry.
 
 * Display Game time instead of local time: Display UTC game time instead of your local time.
 
