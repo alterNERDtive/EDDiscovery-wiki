@@ -1,4 +1,4 @@
-The route page uses the data collected from EDSM by EDDiscovery and allows you to plot a route throughout the whole galaxy.  It does not suffer from the Frontier curse of only 1000ly maximum plot range!
+The route panel uses the data collected from EDSM by EDDiscovery and allows you to plot a route throughout the whole galaxy.  
 
 ![Routing Page](http://i.imgur.com/dOrvDIN.png)
 
