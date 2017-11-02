@@ -37,7 +37,7 @@ The main user interface of ED consists of (from top):
 * Commander: use to select which commander to display information about, or Hidden for entries you have hidden.
 * Refresh: causes EDDiscovery to recheck the journal files
 * [[2D Maps|Using the 2D Map]], [[3D Map|Using the 3D Map]]: open maps
-* EDSM Sync: if you've configured EDSM sync in [[Settings Page|Using the Settings Panel]] then this causes EDDiscovery to check for EDSM information and up and download it
+* EDSM Sync: if you've configured EDSM sync in [[Settings|Using the Settings Panel]] then this causes EDDiscovery to check for EDSM information and up and download it
 * Panel Selection Icon/List : Pop out a panel to another window
 * Manage Add-Ons : install new add-ons
 * Edit Add-Ons : edit or disable add-ons.
