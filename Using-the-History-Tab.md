@@ -1,15 +1,13 @@
-The history page is the main information and control page of EDDiscovery. Here you can see the history of your travels through the galaxy, find data about these entries.
-
-The page is split into the following areas:
+The history tab is a special tab which can hold five panels. The page is split into the following areas:
 
 ![Areas of the History Tab](http://i.imgur.com/NPhpmIq.png)
 
-The lower areas can be resized, as shown above, against its siblings. The split between the left and right view sets can be adjusted, and the vertical area of the three right panels and the two left panels can be adjusted.
+The areas can be resized, as shown above, against its siblings. The split between the left and right view sets can be adjusted, and the vertical area of the three right panels and the two left panels can be adjusted.
 
-The top left area is fixed to a [[History Grid|Using the History Grid]].  The other areas are configurable, see below. 
+The top left area is fixed to a [[History Grid|Using the History Grid Panel]].  The other areas are configurable, see below. 
 
 # Using the History Grid
-See the [[history grid|Using the History Grid]] topic for help in use of this view area.
+See the [[history grid|Using the History Grid Panel]] topic for help in use of this view area.
 
 # Configuring the views.
 For each view you can configure what panel is shown in each.  Hover the cursor over the tab bar area above the view as shown below.  After a short interval, a set of icons appear or a panel selection icon (8.4+) which will allow you to select different information to view in that view area.
