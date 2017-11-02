@@ -54,6 +54,8 @@ By default, at first run, EDDiscovery presents the user with a set of tabs conta
 
 The tab you were on is remembered after exiting the program and selected next time you run.  You can have multiple versions of the same panel present on the tab line.
 
+If you have removed the [[Settings|Using the Settings panel]] by accident or just want it back, you can either right click the menu bar to add it back on, or using the Tools | Settings option.
+
 # Other Information
 
 [[Configuration Options|Configuration Options]] exist to control how EDDiscovery starts and where data is stored.
