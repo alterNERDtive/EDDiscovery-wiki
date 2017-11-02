@@ -4,7 +4,7 @@ The journal panel shows a simpler view of the history, with a single view, and w
 
 The grid consists of the following columns:
 
-* Time: (either Game time (UTC) or Time (Local), set this up [[using the settings page|Using the Settings Page]].
+* Time: (either Game time (UTC) or Time (Local), set this up [[using the settings page|Using the Settings Panel]].
 * Event: Icons describing the event, plus other icons for start/stop journey, Map entry colour, etc
 * Description: short description of the event
 * Information: more detailed information about the event
