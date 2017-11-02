@@ -1,4 +1,4 @@
-This is a short cut to take you directly to the speech definition file - you need Notepad++ as your default text editor to do this since 8.3.
+This is a short cut to take you directly to the speech definition file (note you need a UTF-16 capable editor such as Notepad++ as your default text editor to do this since 8.3).
 
 ![speech def file](http://i.imgur.com/gsGtRFD.png)
 
