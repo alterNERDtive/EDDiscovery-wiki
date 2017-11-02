@@ -2,7 +2,7 @@
 
 8.3.X was released on 26 Sept 2017 for ED 2.4.
 
-* Companion API (CAPI ) is temporary disabled in this version. Will be enabled again shortly after we have verified the function after ED 2.4 release.
+* Companion API (CAPI ) was temporary disabled in early ones of this sequence.  Now re-enabled in the latest 8.3.X. Due to Frontier CAPI API changed after ED 2.4 release.
 * Added support for new journal event from Elite Dangerous 2.4
 * New Shoppinglist control with transparent overlay
 * Added popout control to list estimated scan values for bodies in system
