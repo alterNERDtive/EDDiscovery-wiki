@@ -2,12 +2,11 @@ The menu options, accessible in all pages, is detailed below:
 
 # Tools
 
+* Settings : Go to the [[settings|Using the Settings Panel]] on the tab list, or if not present, make a settings tab and go to it. 
+
 * Show 2D Maps: Show the [[2D Map|Using the 2D Map]]
+
 * Show 3D Maps: Show the [[3D Map|Using the 3D Map]]
-
-* Set Default Map Colour: [[set the default map colour|Using the Settings Page]], 3D Map section.
-
-* Edit theme: See [[Configuring the look of EDDiscovery|Configuring the look of EDDiscovery]]
 
 * Pop Outs: If you have pop outs you can't find on the screen due to transparency or are configured to not show in the task bar, use this to make them findable.
 
