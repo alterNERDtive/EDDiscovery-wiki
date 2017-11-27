@@ -14,11 +14,18 @@ You can select by the toolbar above the star:
 
 * Planet size:  4 sizing options are given
 
+* Show/Hide Labels : (Not shown in image above yet) turn on/off showing volanism, terraformable and value icons).
+
 Right clicking the star panel gives you the following options:
 
 * Show/Hide menu bar: Once configured, turn it off and get more space
 
 Hovering over a item shows you a text description of it.  Clicking on a planet pops up a note with the same data.
+
+Icons are:
+If a planet is Terraformable : shown as a cog (!)
+If a planet has Volcanism : shown as a cloud with rain coming down.. (!!)
+If a planet has an estimated value >50000cr : A start flag (!!!)
 
 ![Scan notes](http://i.imgur.com/Rdh8TqX.png)
 
