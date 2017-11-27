@@ -24,11 +24,11 @@ Hovering over a item shows you a text description of it.  Clicking on a planet p
 
 Planetary Icons are:
 
-If a planet is Terraformable : shown as a cog (!)
+* If a planet is Terraformable : shown as a cog (!)
 
-If a planet has Volcanism : shown as a cloud with rain coming down.. (!!)
+* If a planet has Volcanism : shown as a cloud with rain coming down.. (!!)
 
-If a planet has an estimated value >50000cr : A start flag (!!!)
+* If a planet has an estimated value >50000cr : A start flag (!!!)
 
 ![Scan notes](http://i.imgur.com/Rdh8TqX.png)
 
