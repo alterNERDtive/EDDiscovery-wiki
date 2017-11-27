@@ -22,7 +22,8 @@ Right clicking the star panel gives you the following options:
 
 Hovering over a item shows you a text description of it.  Clicking on a planet pops up a note with the same data.
 
-Icons are:
+Planetary Icons are:
+
 If a planet is Terraformable : shown as a cog (!)
 
 If a planet has Volcanism : shown as a cloud with rain coming down.. (!!)
