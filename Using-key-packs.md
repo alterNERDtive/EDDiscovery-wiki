@@ -36,8 +36,9 @@ The keys currently set up are:
 * F3 : 3d map
 * F5 : Run actions on currently selected travel history entry (useful with the voice pack, it repeats last phrase)
 * F8 : Edit actions
-* F10 : Go to ROSS URL on current system
-* F11 : Go to EDSM URL on current system
+* F9 : Go to ROSS URL on current system
+* F10 : Go to EDSM URL on current system
+* F11 : Perform EDSM Sync
 * F12 : Refresh 
 * Alt+F1 : Program window topmost
 * Alt+F2 : Program window normal z order
