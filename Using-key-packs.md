@@ -28,7 +28,7 @@ The keys currently set up are:
 * Ctrl+, : Address bottom left panel
 * Ctrl+. : Address bottom right panel
 * Ctrl+? : Address middle right panel
-* Then his one of the Pop up Ctrl+ keys to set the panel to that type (excepting types which cannot be placed in these panels).  So Ctrl+, Ctrl+o sets the bottom left panel to Commodities
+* Then press one of the Pop up Ctrl+ keys to set the panel to that type (excepting types which cannot be placed in these panels).  So Ctrl+, Ctrl+o sets the bottom left panel to Commodities
 
 # F Keys
 * F1 : Help
