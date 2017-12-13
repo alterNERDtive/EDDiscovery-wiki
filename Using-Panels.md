@@ -38,6 +38,8 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Scan Panel|Using the Scan Panel]]
 
+[[Scan Grid|Using the Scan Grid]]
+
 [[Screenshot panel|Using the Screenshot Panel]]
 
 [[Shopping List Panel|Using the Shopping List Panel]] 8.3+
