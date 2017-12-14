@@ -1,6 +1,6 @@
 The synthesis panel allows you to plan your material collection, showing you how many recipes you can make, and what you need to collect to get to your goal.
 
-![](https://imgur.com/4oYFELZ)
+![Synthesis Panle](https://imgur.com/4oYFELZ.png)
 
 The grid shows a list of the synthesis Elite Dangerous defines and gives you information about how many recipes you can make.  The grid adapts to the currently selected travel history entry, so if you move the selected position up and down you can see the state at a certain point in time.
 
