@@ -6,7 +6,7 @@ Set the wanted values on both controls to produce a single shopping list for the
 
 The Engineering and Synthesis grids are hidden when the panel is made transparent allowing the list itself to be used as an overlay to the game.
 
-A context menu (reachable by right-clicking on the shopping list allows the following options to be set:
+A context menu (reachable by right-clicking on the shopping list) allows the following options to be set:
 
 * Show Max FSD Injections - if checked the Shopping List panel will always show the maximum of each level of FSD injection available.
 
