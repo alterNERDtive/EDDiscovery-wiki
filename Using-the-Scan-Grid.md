@@ -1,1 +1,1 @@
-TBD
+The scan panel shows you the same data as the scan panel, but in a grid instead of icons.
