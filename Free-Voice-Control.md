@@ -1,6 +1,8 @@
 This pack allows you to use voice commands to control Elite.  You can order landing gear up, hyperspace,
 lights on etc.
 
+NOTE: You do not need Voice Attack to use this functionality, its stand alone.
+
 You can find all the commands supported by using Help | Free Voice Control Help menu option.
 
 You need to make sure any commands you want to say has an equivalent key binding in Elite Dangerous. A joystick binding won't work, it needs to be a keyboard key (due to Windows limitations). EDD will warn you if it can't find a key binding for a particular phrase - check the log window.
