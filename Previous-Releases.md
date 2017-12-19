@@ -1,5 +1,11 @@
 # Previous Releases:
 
+8.4.X was released on 2 Nov 2017 for ED 2.4.
+
+* Configurable tabs to the program. Right click on the major tab and add/remove tabs. The program starts with a more limited set of tabs - use right click on the tabs to add your chosen ones back.
+* Exploration panel updates
+* Many under the hood changes to improve panel output, to improve responsiveness etc.
+
 8.3.X was released on 26 Sept 2017 for ED 2.4.
 
 * Companion API (CAPI ) was temporary disabled in early ones of this sequence.  Now re-enabled in the latest 8.3.X. Due to Frontier CAPI API changed after ED 2.4 release.
