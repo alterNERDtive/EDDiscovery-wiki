@@ -1,6 +1,6 @@
 # Previous Releases:
 
-9.0.X Released on 19 Dec 2017 for ED 2.4 is the newest version. 
+9.0.1 Released on 19 Dec 2017 for ED 2.4 is the newest version. 
 
 * [[Free Voice Control|Free Voice Control]] - control Elite using your microphone!  Install the FVC action pack, make sure you have key bindings set in elite for items you wish to voice control, and talk away!   Over 140+ voice commands built in!  You do not need Voice Attack to use this functionality, its stand alone.
 
@@ -11,6 +11,19 @@
 * Numerous minor fixes to bugs.
 
 * Voice Pack updated with more fixes.
+
+9.0.2 Was released on 9 Jan 2018 for ED 2.4 
+
+* [[Free Voice Control|Free Voice Control]] - control Elite using your microphone!  Install the FVC action pack, make sure you have key bindings set in elite for items you wish to voice control, and talk away!   Over 140+ voice commands built in!  You do not need Voice Attack to use this functionality, its stand alone.
+
+* [[Scan Grid|Using the Scan Grid]] added
+
+* Synthesis/Engineering/Shopping list tabs are improved with more options
+
+* Voice Pack updated with more fixes.
+
+9.0.2 fixes numerous small issues, see the release notes.
+
 
 8.4.X was released on 2 Nov 2017 for ED 2.4.
 
