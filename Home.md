@@ -10,8 +10,6 @@ See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/tag/Rele
 
 * Fix up of various issues
 
-9.0.2 fixes numerous small issues, see the release notes.
-
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
 # Troubleshooting
