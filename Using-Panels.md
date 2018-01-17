@@ -56,6 +56,9 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Route tracker|Using the Route Tracker Panel]]
 
+[[Plot panel|Using the Plot Panel]]
+
+[[Map panel|Using the Map Panel]]
 
 
 
