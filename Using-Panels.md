@@ -4,7 +4,7 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Commodities count|Using the Commodities Panel]]
 
-[[EDSM Panel|Using the EDSM Panel]] 8.3+
+[[EDSM Panel|Using the EDSM Panel]] 
 
 [[Engineering|Using the Engineering Panel]]
 
@@ -42,9 +42,9 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Screenshot panel|Using the Screenshot Panel]]
 
-[[Shopping List Panel|Using the Shopping List Panel]] 8.3+
+[[Shopping List Panel|Using the Shopping List Panel]]
 
-[[Star List Grid|Using the Star List Grid]] 8.3+
+[[Star List Grid|Using the Star List Grid]]
 
 [[Statistics panel|Using the Statistics Panel]]
 
