@@ -1,14 +1,14 @@
 # Current Version
 
-9.0.2 Released on 9 Jan 2018 for ED 2.4 is the newest version. 
+9.0.3 Released on 17 Jan 2018 for ED 2.4 
+
+See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/tag/Release_9.0.3]]
 
 * [[Free Voice Control|Free Voice Control]] - control Elite using your microphone!  Install the FVC action pack, make sure you have key bindings set in elite for items you wish to voice control, and talk away!   Over 140+ voice commands built in!  You do not need Voice Attack to use this functionality, its stand alone.
 
-* [[Scan Grid|Using the Scan Grid]] added
+* Map/Plot panels added
 
-* Synthesis/Engineering/Shopping list tabs are improved with more options
-
-* Voice Pack updated with more fixes.
+* Fix up of various issues
 
 9.0.2 fixes numerous small issues, see the release notes.
 
