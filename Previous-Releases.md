@@ -2,7 +2,7 @@
 
 See [[Release History|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
-9.0.1 Released on 19 Dec 2017 for ED 2.4
+9.0.1 was released on 19 Dec 2017 for ED 2.4
 
 * [[Free Voice Control|Free Voice Control]] - control Elite using your microphone!  Install the FVC action pack, make sure you have key bindings set in elite for items you wish to voice control, and talk away!   Over 140+ voice commands built in!  You do not need Voice Attack to use this functionality, its stand alone.
 
@@ -14,7 +14,7 @@ See [[Release History|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
 * Voice Pack updated with more fixes.
 
-9.0.2 Was released on 9 Jan 2018 for ED 2.4 
+9.0.2 was released on 9 Jan 2018 for ED 2.4 
 
 * [[Free Voice Control|Free Voice Control]] - control Elite using your microphone!  Install the FVC action pack, make sure you have key bindings set in elite for items you wish to voice control, and talk away!   Over 140+ voice commands built in!  You do not need Voice Attack to use this functionality, its stand alone.
 
