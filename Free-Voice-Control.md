@@ -23,4 +23,4 @@ You may want to enable in the Free Voice Control Configuration the \"Show failed
 
 Enjoy.
 
-PS. Soon a standalone FVC program will be released - watch out for that.\r\n", "Free Voice Control", OK
+PS. I have plans for a standalone FVC program - watch out for that.
