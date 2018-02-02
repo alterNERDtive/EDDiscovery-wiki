@@ -4,9 +4,9 @@
 
 The Map Panel is a 3D representation of the neighborhood of the current highlighted system. It do not replace the galaxy 3D Map neither the galaxy 2D Map: it's main purpose is to aid during exploring uncharted areas, or during investigation regard stars grouping, clusters, special formations or xenon-archeology.
 
+![Map Panel center on Sol](https://i.imgur.com/b2yBAms.png)
 
 ***
-
 
 ### User Interaction
 
@@ -19,13 +19,17 @@ The same menu also has an about item, which display usage instructions.
 
 The Map can also be **panned**, while zoomed, moving the mouse while pressing the middle button.
 
+A tooltip is display when hovering, showing the name, number of visits and distance from current system.
+
+![Imgur](https://i.imgur.com/QSASP9X.png) ![Imgur](https://i.imgur.com/mgRtJlv.png)
+
 ### User Defined Parameters
 
 There are some parameters which can be tweaked by the user: minimum and maximum radius, and maximum numbers of systems. 
 
-- The maximum radius controls the sensitivity of the map; only systems inside the maximum range are showed.
-- Similar to the previous, the minimum radius permit to define **shells**, so only systems which reside between the two ranges are showed.
-- The max items slide let the user choose how much systems are processed by the Distance Computer (shared by the Plot and Star Distance panels), so to tweak for slight better performance in heavily dense galactic regions.
+* The maximum radius controls the sensitivity of the map; only systems inside the maximum range are showed.
+* Similar to the previous, the minimum radius permit to define **shells**, so only systems which reside between the two ranges are showed.
+* The max items slide let the user choose how much systems are processed by the Distance Computer (shared by the Plot and Star Distance panels), so to tweak for slight better performance in heavily dense galactic regions.
 
 
 
