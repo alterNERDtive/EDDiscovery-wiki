@@ -12,3 +12,5 @@ The current system is paint in red. Already visited systems are paint in blue, w
 
 Hovering with the mouse a tooltip is showed, including the system name, number of visits and distance to the current system.
 
+### User Interaction
+The user can zoom the plot, using the scroll wheel, and pan, moving the mouse while pressing the middle button.
