@@ -1,14 +1,16 @@
 # Current Version
 
-9.0.3 Released on 17 Jan 2018 for ED 2.4 
+9.1.1 Released on 27 Feb 2018 for ED 3.0
 
-See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/tag/Release_9.0.3]]
+See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/tag/Release_9.1.1]]
 
-* [[Free Voice Control|Free Voice Control]] - control Elite using your microphone!  Install the FVC action pack, make sure you have key bindings set in elite for items you wish to voice control, and talk away!   Over 140+ voice commands built in!  You do not need Voice Attack to use this functionality, its stand alone.
+* ED 3.0 support for new journal entries
 
-* Map/Plot panels added
+* Compass panel/Bookmark panel for new planetary bookmark features
 
-* Fix up of various issues
+* EDSM Star database fully controllable over storage and download
+
+* Lots of other goodies - see the release notes.
 
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
