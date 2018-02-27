@@ -1,0 +1,1 @@
+Allows editing of bookmarks and planetary points of interest.
