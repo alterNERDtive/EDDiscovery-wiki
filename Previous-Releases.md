@@ -1,6 +1,14 @@
 # Previous Releases:
 
-See [[Release History|https://github.com/EDDiscovery/EDDiscovery/releases]]
+9.0.3 Was released on 17 Jan 2018 for ED 2.4 
+
+See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/tag/Release_9.0.3]]
+
+* [[Free Voice Control|Free Voice Control]] - control Elite using your microphone!  Install the FVC action pack, make sure you have key bindings set in elite for items you wish to voice control, and talk away!   Over 140+ voice commands built in!  You do not need Voice Attack to use this functionality, its stand alone.
+
+* Map/Plot panels added
+
+* Fix up of various issues
 
 9.0.1 was released on 19 Dec 2017 for ED 2.4
 
