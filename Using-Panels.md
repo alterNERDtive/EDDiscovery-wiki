@@ -60,5 +60,9 @@ These panels can be either embedded in the travel history page or popped out:
 
 [[Map panel|Using the Map Panel]]
 
+[[Bookmarks panel|Using the Bookmarks Panel]]
+
+[[Compass panel|Using the Compass Panel]]
+
 
 
