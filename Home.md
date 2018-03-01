@@ -25,7 +25,7 @@ You play Elite Dangerous and have heard of EDDiscovery - and ended up here.  So 
   
 In short it's a 3rd party tool that can track your Elite Dangerous travels, combat, trading, rank etc. Before Elite Dangerous 2.2 it could only track travel, now with 2.2+, EDDiscovery tracks much more! It can now log other data such as rank, commodities, materials, scans and all host of other data.
 
-EDD works on the PC or the MAC.  Unfortunately Frontier does not or cannot support the API required on XBOX or PS4 to output journal entries to the PC/MAC for us to use.
+EDD works on the PC.  Unfortunately Frontier does not or cannot support the API required on XBOX or PS4 to output journal entries to the PC for us to use.  MAC support was withdrawn due to lack of users.
 
 EDDiscovery gives you a [[3D map|Using the 3D Map]] and [[2D maps|Using the 2D Map]] of the galaxy, showing travel history and data from EDSM and EDDB to aid your journey through the Elite Dangerous galaxy.
 
