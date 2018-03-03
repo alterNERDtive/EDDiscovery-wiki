@@ -2,9 +2,9 @@ The market data panel shows you the current market prices at the last station yo
 
 ![](http://i.imgur.com/i6zWbB4.png)
 
-Market data relies on you logging in via the Frontier Companion API.  Configure the CAPI for your commander by [[using the settings panel|Using the Settings Panel]].
+Market data from 3.0 comes from either the Market event, which is written when you visit a stations commodity market.
 
-Once configured, at each dock event EDDiscovery will query the Frontier servers and attempt to obtain market data for that station.  Note due to bugs on Frontiers end it does not always work.  Also if you are carrying rares, as of May 17 we won't ask for market data information as doing so causes a bug on Frontiers servers and your rares become worthless !!  If it obtains the data, it writes a new journal entry called EDD Commodity Prices and saves the prices it has obtained.
+Alternatively it can be gone from Frontier Companion API if you have configured access in your commander settings.  See Configure the CAPI for your commander by [[using the settings panel|Using the Settings Panel]]. For the CAPI, one configured, at each dock event EDDiscovery will query the Frontier servers and attempt to obtain market data for that station.  Note due to bugs on Frontiers end it does not always work. If it obtains the data, it writes a new journal entry called EDD Commodity Prices and saves the prices it has obtained.
 
 The dialog itself allows you to select the market data to show (left selection), you can choose from the Travel History Entry Last meaning show the last stations values, or a particular station if it has those values in memory.  
 
@@ -12,4 +12,4 @@ You can also using the right drop down select a market to compare these prices w
 
 Click buy only to show commodities which you can actually buy or sell at the currently selected stations.
 
-Click auto swap (8.3+, not shown) to automatically swap your comparision station to the previous visited one when doing a->b->a trading.
+Click auto swap (8.3+, not shown) to automatically swap your comparison station to the previous visited one when doing a->b->a trading.
