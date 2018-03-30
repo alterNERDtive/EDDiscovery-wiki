@@ -1,10 +1,10 @@
 # Current Version
 
-9.1.0 to 9.1.4 have a bug which prevent the auto upgrade message from showing!  Please move to 9.1.5.
+9.1.0 to 9.1.4 have a bug which prevent the auto upgrade message from showing!  Please move to 9.1.8.
 
-9.1.5 Released on 28 Feb 2018 for ED 3.0
+9.1.8 Released on 20 Mar 2018 for ED 3.0.3
 
-See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/tag/Release_9.1.1]]
+See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/latest]]
 
 * ED 3.0 support for new journal entries
 
