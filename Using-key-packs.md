@@ -7,7 +7,7 @@ The keys currently set up are:
 # Tabs
 * Ctrl+1 to Ctrl+8 = Select major program tab 1 (history) to 8 (settings)
 
-# PopOuts
+# PopOuts (Out of date list)
 * Ctrl+D : pop in/out star distances
 * Ctrl+E : pop in/out Exploration
 * Ctrl+G : pop in/out Ledger
@@ -28,6 +28,7 @@ The keys currently set up are:
 * Ctrl+, : Address bottom left panel
 * Ctrl+. : Address bottom right panel
 * Ctrl+? : Address middle right panel
+* Ctrl+# : Address top right panel (UK keyboard, button next to return key)
 * Then press one of the Pop up Ctrl+ keys to set the panel to that type (excepting types which cannot be placed in these panels).  So Ctrl+, Ctrl+o sets the bottom left panel to Commodities
 
 # F Keys
