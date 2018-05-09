@@ -4,7 +4,7 @@ These panels can be either in a tab, in a splitter or grid within a tab, embedde
 
 History:
 
-[[Log|Using the EDDiscovery Log Panel]]
+* [[Log|Using the EDDiscovery Log Panel]]
 
 [[History Grid|Using the History Grid Panel]]
 
