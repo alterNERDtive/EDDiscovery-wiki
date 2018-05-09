@@ -1,5 +1,19 @@
 # Previous Releases:
 
+9.1.8 Was Released on 20 Mar 2018 for ED 3.0.3
+
+9.1.0 to 9.1.4 have a bug which prevent the auto upgrade message from showing!  Please move to 9.1.8.
+
+See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/latest]]
+
+* ED 3.0 support for new journal entries
+
+* Compass panel/Bookmark panel for new planetary bookmark features
+
+* EDSM Star database fully controllable over storage and download
+
+* Lots of other goodies - see the release notes.
+
 9.0.3 Was released on 17 Jan 2018 for ED 2.4 
 
 See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/tag/Release_9.0.3]]
