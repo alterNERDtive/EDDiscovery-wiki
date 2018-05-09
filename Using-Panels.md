@@ -6,98 +6,98 @@ History:
 
 * [[Log|Using the EDDiscovery Log Panel]]
 
-[[History Grid|Using the History Grid Panel]]
+* [[History Grid|Using the History Grid Panel]]
 
-[[Journal Grid|Using the Journal Panel]]
+* [[Journal Grid|Using the Journal Panel]]
 
-[[Star List Grid|Using the Star List Grid]]
+* [[Star List Grid|Using the Star List Grid]]
 
 Current Stats:
 
-[[Materials count|Using the Materials Panel]]
+* [[Materials count|Using the Materials Panel]]
 
-[[Commodities count|Using the Commodities Panel]]
+* [[Commodities count|Using the Commodities Panel]]
 
-[[Ledger|Using the Ledger Panel]]
+* [[Ledger|Using the Ledger Panel]]
 
-[[Missions|Using the Missions Panel]]
+* [[Missions|Using the Missions Panel]]
 
-[[Load Out|Using the Load Out Panel]]
+* [[Load Out|Using the Load Out Panel]]
 
-[[Statistics panel|Using the Statistics Panel]]
+* [[Statistics panel|Using the Statistics Panel]]
 
 Data From where you've been:
 
-[[Market Data|Using the Market Data Panel]]
+* [[Market Data|Using the Market Data Panel]]
 
-[[Shipyard Panel|Using the Shipyard Panel]]
+* [[Shipyard Panel|Using the Shipyard Panel]]
 
-[[Outfitting Panel|Using the Outfitting Panel]]
+* [[Outfitting Panel|Using the Outfitting Panel]]
 
 Engineering/Synthesis:
 
-[[Synthesis|Using the Synthesis Panel]]
+* [[Synthesis|Using the Synthesis Panel]]
 
-[[Engineering|Using the Engineering Panel]]
+* [[Engineering|Using the Engineering Panel]]
 
-[[Shopping List Panel|Using the Shopping List Panel]]
+* [[Shopping List Panel|Using the Shopping List Panel]]
 
 Scans and Stars:
 
-[[Scan Panel|Using the Scan Panel]]
+* [[Scan Panel|Using the Scan Panel]]
 
-[[Scan Grid|Using the Scan Grid]]
+* [[Scan Grid|Using the Scan Grid]]
 
-[[Nearest stars|Using the Nearest Stars Panel]]
+* [[Nearest stars|Using the Nearest Stars Panel]]
 
-[[Estimated Exploration Values|Estimated Exploration Values]]
+* [[Estimated Exploration Values|Estimated Exploration Values]]
 
-[[Map panel|Using the Map Panel]]
+* [[Map panel|Using the Map Panel]]
 
-[[Plot panel|Using the Plot Panel]]
+* [[Plot panel|Using the Plot Panel]]
 
-[[EDSM Panel|Using the EDSM Panel]]
+* [[EDSM Panel|Using the EDSM Panel]]
 
-[[Trilateration|Using the Trilateration Panel]]
+* [[Trilateration|Using the Trilateration Panel]]
 
-[[Bookmarks panel|Using the Bookmarks Panel]]
+* [[Bookmarks panel|Using the Bookmarks Panel]]
 
 Combat:
 
-[[Combat Panel|Using the combat panel]]
+* [[Combat Panel|Using the combat panel]]
 
 Route Planning:
 
-[[Route Plotting|Using the Route Panel]]
+* [[Route Plotting|Using the Route Panel]]
 
-[[Expedition Planning|Using the Expeditions Panel]]
+* [[Expedition Planning|Using the Expeditions Panel]]
 
-[[Exploration|Using the Exploration Panel]]
+* [[Exploration|Using the Exploration Panel]]
 
 Info Panels:
 
-[[System Information Panel|Using the System Information Panel]]
+* [[System Information Panel|Using the System Information Panel]]
 
-[[S panel|Using the SPanel]]
+* [[S panel|Using the SPanel]]
 
-[[Trip panel|Using the Trip Panel]]
+* [[Trip panel|Using the Trip Panel]]
 
-[[Note panel|Using the Note Panel]]
+* [[Note panel|Using the Note Panel]]
 
-[[Route tracker|Using the Route Tracker Panel]]
+* [[Route tracker|Using the Route Tracker Panel]]
 
-[[Compass panel|Using the Compass Panel]]
+* [[Compass panel|Using the Compass Panel]]
 
 Settings:
 
-[[Settings|Using the Settings Panel]]
+* [[Settings|Using the Settings Panel]]
 
 Screenshots:
 
-[[Screenshot panel|Using the Screenshot Panel]]
+* [[Screenshot panel|Using the Screenshot Panel]]
 
 Multipanels:
 
-[[Grid|Using the Grid]]
+* [[Grid|Using the Grid]]
 
-[[Splitter|Using the Splitter]]
+* [[Splitter|Using the Splitter]]
