@@ -1,16 +1,10 @@
 # Current Version
 
-9.1.0 to 9.1.4 have a bug which prevent the auto upgrade message from showing!  Please move to 9.1.8.
-
-9.1.8 Released on 20 Mar 2018 for ED 3.0.3
+10.0.0 Released on 9 May 2018 for ED 3.0.X
 
 See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases/latest]]
 
-* ED 3.0 support for new journal entries
-
-* Compass panel/Bookmark panel for new planetary bookmark features
-
-* EDSM Star database fully controllable over storage and download
+* New panels, new Splitter support for configurable splitter windows
 
 * Lots of other goodies - see the release notes.
 
@@ -56,7 +50,7 @@ The toolbar can be instructed to roll up or stay expanded. When the mouse hovers
 [[Panels|Using Panels]] are the basic UI building block of EDDiscovery. There are many (>25) panels, each one dedicated to a specific task or information display. Panels can be displayed in a tab, as part of the [[History Tab|Using the History Tab]] or popped out in a stand alone window (see the toolbar).  A [[Grid|Using the Grid]] panel can contain other panels to allow you to set up a configurable set of panels.
 
 # Tab Pages
-A set of tab pages are shown below the toolbar.  You can add or remove tabs (containing a panel) to the program by right clicking on the menu toolbar and selecting or removing a tab.  The only mandatory tab is the [[History Tab|Using the History Tab]] as the program must have at least one [[History Grid|Using the History Grid Panel]] present to work.
+A set of tab pages are shown below the toolbar.  You can add or remove tabs (containing a panel) to the program by right clicking on the menu toolbar and selecting or removing a tab. You can rename tabs. The only mandatory tab is the [[History Tab|Using the History Tab]] as the program must have at least one [[History Grid|Using the History Grid Panel]] present to work.
 
 By default, at first run, EDDiscovery presents the user with a set of tabs containing the following panels: [[History Tab|Using the History Tab]], [[Route Panel|Using the Route Panel]], [[Expedition Panel|Using the Expeditions Panel]], [[Settings|Using the Settings Panel]]
 
