@@ -36,7 +36,8 @@ https://github.com/YOUR_GITHUB_NAME_HERE/EDDiscovery
 * Clone your forked repo from Git Bash. Create an upstream remote to the main remote repo
 
 ```
-$ clone https://github.com/YOUR_GITHUB_NAME_HERE/EDDiscovery.git
+$ git clone https://github.com/YOUR_GITHUB_NAME_HERE/EDDiscovery.git
+$ cd EDDiscovery
 $ git remote add upstream https://github.com/EDDiscovery/EDDiscovery.git
 ```
 
@@ -202,7 +203,7 @@ Note: Your current HEAD node is a yellow dot. It'll also show there the remote b
 **4) Look in the "reflog" this is a log of all commits ever** (even ones that are 'deleted'):
 
 ```
-$ reflog
+$ git reflog
 ```
 
 Note the SHA codes are shorter here. Just 7 chars. Doesn't matter.
