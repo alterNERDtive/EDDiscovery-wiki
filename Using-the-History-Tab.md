@@ -6,7 +6,7 @@ The areas can be resized, as shown above, against its siblings. The split betwee
 
 The top left area is fixed to a [[History Grid|Using the History Grid Panel]].  The other areas are configurable, see below. 
 
-You can also split the panels or merge them further from EDD 10.0 onwards.  Right click on the splitter bar and options to change the split orientation and merge/split the left/top or right/bottom areas into more or less panel areas.  The history tab operates with a [[Splitter Panel|Using the Splitter]]
+You can also split the panels or merge them further from EDD 10.0 onwards.  Right click on the splitter bar and options to change the split orientation and merge/split the left/top or right/bottom areas into more or less panel areas.  The history tab is a [[Splitter Panel|Using the Splitter]] and you can have multiple ones of those as tabs.
 
 # Using the History Grid
 See the [[history grid|Using the History Grid Panel]] topic for help in use of this view area.
