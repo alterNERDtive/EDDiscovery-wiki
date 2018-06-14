@@ -43,10 +43,10 @@ EDDiscovery supports [[add-ons|Using the manage Add Ons Menu]], which give you t
 
 EDDiscovery integrates with our partner Elite 3rd party developer tools:
 
-* [[EDSM]|EDSM integration with EDDiscovery]]
-* [[Inara]|Inara integration with EDDiscovery]]
-* [[EGO]|EGO integration with EDDiscovery]]
-* [[EDDB]|EDDB integration with EDDiscovery]]
+* [[EDSM|EDSM integration with EDDiscovery]]
+* [[Inara|Inara integration with EDDiscovery]]
+* [[EGO|EGO integration with EDDiscovery]]
+* [[EDDB|EDDB integration with EDDiscovery]]
 
 Here's an example of the history page using the [[ED Theme Elite Verdana|Configuring the look of EDDiscovery]], EDDiscovery supports themeing the user interface to your specification.
 
