@@ -17,7 +17,7 @@ You can manually delete a commander. Note if the journal is scanned with the com
 
 Clicking on Edit or Add will take you to the settings screen
 
-![](http://i.imgur.com/iHMQX8k.png)
+![](https://imgur.com/7bFGwWc.png)
 
 Here you can configure:
 
