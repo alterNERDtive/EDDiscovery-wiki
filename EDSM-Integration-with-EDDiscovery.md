@@ -7,7 +7,7 @@ You also need to first head over to [www.edsm.net](http://www.edsm.net) and crea
 Now copy the numbers and and letters from the API Key  
 
 ![](http://i.imgur.com/VSwjmNh.png)  
-  
-And paste into the "EDSM api key" section of the Settings tab as shown above.
+ 
+Go to the settings panel, select the commander and hit Edit.  In the EDSM section, set your EDSM commander name (it may be different to your ED name, if not you can leave it blank) and the EDSM API you obtained.
 
-Thats it.
+EDD will sent your journal entries to EDSM to keep it up to date with your travels.  It will send all your jump history (slowly) to give it historical jump data.
