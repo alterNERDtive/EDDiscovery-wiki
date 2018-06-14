@@ -1,6 +1,6 @@
 The load out panel shows you the load out of either the ship at the current selected travel history entry, or the last loadout of a particular ship.
 
-![](http://i.imgur.com/MpvQD2H.png)
+![](https://imgur.com/t0FufLI.png)
 
 The drop down at the top (after ship) selected either the travel history position or a particular ship.
 
