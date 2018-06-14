@@ -75,6 +75,16 @@ You can configure some information that 3D Maps needs before starting here:
 
 * Minimize to notification area icon : when minimised, don't show a task bar icon, instead just show a notification area icon.
 
+# EDSM/EDDB Control
+
+Downloading data from these services for star database and station data takes bandwidth and disk space.  Here you can limit this.  
+
+* Turn on/off star data download : If disabled, no EDSM/EDDB downloads takes place
+
+* Galaxy Select : Indicate which areas of the galaxy to store from data obtained from EDSM.  This will limit your disk space usage.
+
+An example is to download the whole data from EDSM say on Wifi then turn off the data feed if using a bandwidth limited service (4G) etc.
+
 # Screenshots
 
 The screenshot area allows you to configure EDDiscovery to automatically recognise screenshots taken either inside Elite Dangerous (F10) or via Steam, and convert and rename them into another format.  Additionally you can crop them if required.
