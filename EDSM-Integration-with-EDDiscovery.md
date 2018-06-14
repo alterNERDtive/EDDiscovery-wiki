@@ -1,6 +1,10 @@
-In order to send journal history, ship details and trilateration results to EDSM, you need to have configured an API key.
+EDD uses [[EDSM|https://www.edsm.net/]] to obtain details on star systems.  It checks after each EDD start and downloads new star data from EDSM when required.  This is all done automatically.
 
-You also need to first head over to [www.edsm.net](http://www.edsm.net) and create yourself a free account.  With that done, in EDSM go to the user drop down and select 'My API Key'  
+The settings panel has an option to disable this synchronisation if you wish to save bandwidth, and to limit what areas of the galaxy is stored to allow you to limit disk space used.
+
+EDD also can send commander data to and from EDSM.  In order to send this data, you need to have configured an API key in EDD commander settings, obtained from EDSM.
+
+Make sure that you have an account on [www.edsm.net](http://www.edsm.net). In EDSM go to the user drop down and select 'My API Key'  
 
 ![](http://i.imgur.com/6g8VGlZ.png)  
 
