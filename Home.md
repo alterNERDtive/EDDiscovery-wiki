@@ -1,6 +1,6 @@
 # Current Version
 
-10.1.0 Released on 9 May 2018 for ED 3.0.X
+10.1.0 Released on 14th June 2018 for ED 3.0.X
 
 See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
