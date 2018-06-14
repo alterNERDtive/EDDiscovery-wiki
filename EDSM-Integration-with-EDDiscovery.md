@@ -1,6 +1,6 @@
 EDD uses [[EDSM|https://www.edsm.net/]] to obtain details on star systems.  It checks after each EDD start and downloads new star data from EDSM when required.  This is all done automatically.
 
-The settings panel has an option to disable this synchronisation if you wish to save bandwidth, and to limit what areas of the galaxy is stored to allow you to limit disk space used.
+The [[settings panel|Using the Settings Panel]] has an option to disable this synchronisation if you wish to save bandwidth, and to limit what areas of the galaxy is stored to allow you to limit disk space used.
 
 EDD also can send commander data to and from EDSM.  In order to send this data, you need to have configured an API key in EDD commander settings, obtained from EDSM.
 
