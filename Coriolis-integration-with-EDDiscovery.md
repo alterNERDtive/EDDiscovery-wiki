@@ -1,0 +1,1 @@
+EDD supports, on the [[Ships/Loadout panel|Using the Load Out Panel]] integration with Corolis.  Click on the button to send your ship data to Corolis for display and modification.
