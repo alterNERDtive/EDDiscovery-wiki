@@ -14,6 +14,4 @@ Any 3rd party DLLs distributed within the EDD distribution system for add on fea
 
 * Open source code, nominally using the Apache License (others may be considered).  You can host on your own GitHub/GitLab etc host, or you can send the source code and we will host on the EDDiscoveryAdditionalDLLs github project.  Source code will be reviewed before it is acceptable.
 
-* Use of well known 3rd party DLLs only (from reputable vendors/NUGET packages etc)
-
-If you wish to distribute outside of the EDD distribution system then EDD project can't control that.  
+* Use of well known 3rd party DLLs only (from reputable vendors/NUGET packages etc
