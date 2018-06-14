@@ -27,25 +27,21 @@ Here you can configure:
 
 * EDDN Integration: Select if you want to send information to the EDDN network (which you probably do if you like using EDDB etc since they rely on our data feeds)
 
-* EGO Integration (TODO: requires updated image): If you want to automatically send discoveries to EGO, you need to enter your EGO login and API key [[EGO Integration|EGO integration with EDDiscovery]], and choose the sync directions you want to use.
+* EGO Integration: If you want to automatically send discoveries to EGO, you need to enter your EGO login and API key [[EGO Integration|EGO integration with EDDiscovery]], and choose the sync directions you want to use.
 
-* Frontier Companion API: If you wish, give your Frontier account log in details here (which is saved in encrypted form) and EDDiscovery will obtain information from the Frontier servers.  This is used primarly to obtain [[Market Data Panel|Using the Market Data Panel]] and drives that panels information. 
+* Frontier Companion API: If you wish, give your Frontier account log in details here (which is saved in encrypted form) and EDDiscovery will obtain information from the Frontier servers.  This is used primarily to obtain [[Market Data Panel|Using the Market Data Panel]] and drives that panels information. 
 
-# Options
+* Inara Integration: To integrate EDD with [[Inara|Inara integration with EDDiscovery]], fill out this section. 
 
-These configure EDDiscovery:
+# History Options
 
-* Log HTTP requests: Store HTTP requests in a log in your APPDATA EDDiscovery folder.
+* Show UI Events in History. Certain UI events are reported to EDD by ED.  These occur frequently and are not really useful historically. Click on this to show them in history.
 
 * Number Rows Latest Entry Highest: By default 1 is the latest entry. If you prefer it the other way around, click this.
 
 * Display Game time instead of local time: Display UTC game time instead of your local time.
 
-* Show notification area icon : show a notification icon in the notification area.
-
-* Minimize to notification area icon : when minimised, don't show a task bar icon, instead just show a notification area icon.
-
-* Show UI Events in History. Certain UI events are reported to EDD by ED.  These occur frequently and are not really useful historically. Click on this to show them in history.
+* Only read essential Entries : If you have a very large history, EDD can go slow due to the effort of reading it all.  Use this to indicate that only essential entries older than X days should be loaded.  Default is disabled.
 
 # Theme
 
@@ -63,7 +59,7 @@ You can configure some information that 3D Maps needs before starting here:
 
 * Default Map Colour: New FSD journal entries are assigned this colour to show on 3D Map.
 
-# Pop Out Widnow Options
+# Window Options
 
 * Load Setup on Start : Reload last saved pop out configuration
 
@@ -72,6 +68,12 @@ You can configure some information that 3D Maps needs before starting here:
 * Open Saved Setup : Open now the saved setup.  For manual use.
 
 * Save Current Setup : Save now the current setup.  For manual use.
+
+* Key to Activate transparent windows : If you have the window set to no response when the cursor hovers over it (via the 'T' control on the top right) you need to press a key to get the window to activate.  Define the key here.
+
+* Show notification area icon : show a notification icon in the notification area.
+
+* Minimize to notification area icon : when minimised, don't show a task bar icon, instead just show a notification area icon.
 
 # Screenshots
 
