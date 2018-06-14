@@ -36,6 +36,8 @@ The menu options, accessible in all pages, is detailed below:
 
 * Created import file to import your visited systems to Elite Dangerous. This will create an import star list of your current commander to the latest ED visiting systems cache folder.  Then restart Elite and your history should be in its database (Replaced functionality on previous Export/Import tab)
 
+* Send historic fleet data to [[Inara|Inara Integration with EDDiscovery]]
+
 # Add Ons
 
 * [[Manage Add-ons|Using the manage Add-Ons Menu]] : Allows the user to install, remove or enable/disable the add on packs.
