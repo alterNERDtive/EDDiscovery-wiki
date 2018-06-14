@@ -47,6 +47,8 @@ EDDiscovery integrates with our partner Elite 3rd party developer tools:
 * [[Inara|Inara integration with EDDiscovery]]
 * [[EGO|EGO integration with EDDiscovery]]
 * [[EDDB|EDDB integration with EDDiscovery]]
+* [[Coriolis|Coriolis integration with EDDiscovery]]
+* [[ED Shipyard|ED Shipyard integration with EDDiscovery]]
 
 Here's an example of the history page using the [[ED Theme Elite Verdana|Configuring the look of EDDiscovery]], EDDiscovery supports themeing the user interface to your specification.
 
