@@ -22,9 +22,22 @@ In short it's a 3rd party tool that can track your Elite Dangerous travels, comb
 
 EDD works on the PC.  Unfortunately Frontier does not or cannot support the API required on XBOX or PS4 to output journal entries to the PC for us to use.  MAC support was withdrawn due to lack of users.
 
-EDDiscovery gives you a [[3D map|Using the 3D Map]] and [[2D maps|Using the 2D Map]] of the galaxy, showing travel history and data from EDSM and EDDB to aid your journey through the Elite Dangerous galaxy.
+EDDiscovery gives you the following major features:
 
-EDDiscovery supports [[add-ons|Using the manage Add Ons Menu]], which give you the ability to [[vocalise events |Using voice packs]], add [[keyboard shortcuts|Using key packs]], read and vocalise [[joystick inputs|Using the JKM Pack]], place information on [[OBS|Using the OBS Pack]], play [[MP3s when an event occurs|Using the SoundBlaster Pack]], plus others.
+* [[Shows your ED History|Using the History Tab]]
+* [[Shows your current Materials State|Using the Materials Panel]], [[Commodity State|Using the Commodities Panel]], [[Mission Lists|Using the Missions Panel]]
+* [[Has a 3D map of the galaxy|Using the 3D Map]] showing travel history and data from EDSM and EDDB to aid your journey through the Elite Dangerous galaxy.
+* [[2D map|Using the 2D Map]] 
+
+EDDiscovery supports [[add-ons|Using the manage Add Ons Menu]], which give you the ability to:
+
+* [[vocalise events |Using voice packs]]
+* [[Control EDD using your voice using the Free Voice Control pack|Free Voice Control]]
+* [[keyboard shortcuts|Using key packs]] 
+* Read and vocalise [[joystick inputs|Using the JKM Pack]]
+* Place information on [[OBS|Using the OBS Pack]]
+* Play [[MP3s when an event occurs|Using the SoundBlaster Pack]], plus others.
+* Integrate with [[3rd party DLLs|3rd Party DLL Support]]
 
 Here's an example of the history page using the [[ED Theme Elite Verdana|Configuring the look of EDDiscovery]], EDDiscovery supports themeing the user interface to your specification.
 
