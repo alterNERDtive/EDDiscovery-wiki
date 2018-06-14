@@ -1,5 +1,11 @@
 # Previous Releases:
 
+10.0.X Was Released on 9 May 2018 for ED 3.0.X
+
+* New panels, new Splitter support for configurable splitter windows
+
+* Lots of other goodies - see the release notes.
+
 9.1.8 Was Released on 20 Mar 2018 for ED 3.0.3
 
 9.1.0 to 9.1.4 have a bug which prevent the auto upgrade message from showing!  Please move to 9.1.8.
