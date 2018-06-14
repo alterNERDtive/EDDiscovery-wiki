@@ -4,7 +4,9 @@ The history tab is a type of splitter which can hold five panels. The page is sp
 
 The areas can be resized, as shown above, against its siblings. The split between the left and right view sets can be adjusted, and the vertical area of the three right panels and the two left panels can be adjusted.
 
-The top left area is fixed to a [[History Grid|Using the History Grid Panel]].  The other areas are configurable, see below. You can also split the panels or merge them further from EDD 10.0 onwards.
+The top left area is fixed to a [[History Grid|Using the History Grid Panel]].  The other areas are configurable, see below. 
+
+You can also split the panels or merge them further from EDD 10.0 onwards.  Right click on the splitter bar and options to change the split orientation and merge/split the left/top or right/bottom areas into more or less panel areas.  The history tab operates with a [[Splitter Panel|Using the Splitter]]
 
 # Using the History Grid
 See the [[history grid|Using the History Grid Panel]] topic for help in use of this view area.
