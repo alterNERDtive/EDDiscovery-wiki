@@ -25,19 +25,28 @@ EDD works on the PC.  Unfortunately Frontier does not or cannot support the API 
 EDDiscovery gives you the following major features:
 
 * [[Shows your ED History|Using the History Tab]]
-* [[Shows your current Materials State|Using the Materials Panel]], [[Commodity State|Using the Commodities Panel]], [[Mission Lists|Using the Missions Panel]]
+* [[Shows your current Materials State|Using the Materials Panel]], [[Commodity State|Using the Commodities Panel]], [[Mission Lists|Using the Missions Panel]] and many other [[panels|Using Panels]] exist to provide other information
+* [[Plan your Expeditions|Using the Expeditions Panel]]
+* [[Plan your Exploration|Using the Exploration Panel]]
 * [[Has a 3D map of the galaxy|Using the 3D Map]] showing travel history and data from EDSM and EDDB to aid your journey through the Elite Dangerous galaxy.
 * [[2D map|Using the 2D Map]] 
 
 EDDiscovery supports [[add-ons|Using the manage Add Ons Menu]], which give you the ability to:
 
-* [[vocalise events |Using voice packs]]
+* [[Vocalise Elite Events as they are received |Using voice packs]]
 * [[Control EDD using your voice using the Free Voice Control pack|Free Voice Control]]
-* [[keyboard shortcuts|Using key packs]] 
+* [[Keyboard shortcuts to control EDD|Using key packs]] 
 * Read and vocalise [[joystick inputs|Using the JKM Pack]]
 * Place information on [[OBS|Using the OBS Pack]]
 * Play [[MP3s when an event occurs|Using the SoundBlaster Pack]], plus others.
 * Integrate with [[3rd party DLLs|3rd Party DLL Support]]
+
+EDDiscovery integrates with our partner Elite 3rd party developer tools:
+
+* [[EDSM]|EDSM integration with EDDiscovery]]
+* [[Inara]|Inara integration with EDDiscovery]]
+* [[EGO]|EGO integration with EDDiscovery]]
+* [[EDDB]|EDDB integration with EDDiscovery]]
 
 Here's an example of the history page using the [[ED Theme Elite Verdana|Configuring the look of EDDiscovery]], EDDiscovery supports themeing the user interface to your specification.
 
