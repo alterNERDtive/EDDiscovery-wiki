@@ -9,6 +9,8 @@ See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 * History Limit Loading
 * Lots of other goodies - see the release notes.
 
+Voice pack V8 is for this version - please update!
+
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
 # Troubleshooting
