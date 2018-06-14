@@ -1,6 +1,6 @@
 The settings panel configures operation of EDDiscovery.
 
-![Settings page](https://imgur.com/BivPnFm)
+![Settings page](https://imgur.com/BivPnFm.png)
 
 The page is split into the following sections.
 
