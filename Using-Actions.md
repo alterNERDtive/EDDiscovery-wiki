@@ -4,8 +4,9 @@ The Action system adds the ability to run a small program when an event is recei
 
 The action language itself is described in this these google documents:
 
-[Action V9](https://docs.google.com/document/d/1ZrDGc_E8IblmWpAfAqbUSHlqJe0JneqHgJsr50wDW3U/edit?usp=sharing) 
-[Action V10](https://docs.google.com/document/d/1TiSEWYR17c7E31K8f5VvDaDoqNLyYXXqixhG2LuyHqo/edit?usp=sharing) 
+* [Action V9](https://docs.google.com/document/d/1ZrDGc_E8IblmWpAfAqbUSHlqJe0JneqHgJsr50wDW3U/edit?usp=sharing) 
+
+* [Action V10](https://docs.google.com/document/d/1TiSEWYR17c7E31K8f5VvDaDoqNLyYXXqixhG2LuyHqo/edit?usp=sharing) 
 
 Latest in 
 
