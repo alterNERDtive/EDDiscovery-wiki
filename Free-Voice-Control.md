@@ -9,7 +9,7 @@ You need to make sure any commands you want to say has an equivalent key binding
 
 EDD reads the keybindings file at startup.  If you change them in Elite, for now just restart EDD to pick the new ones up.
 
-**Note that you need to make Elite create a key bindings file ** - if you use one of the stock bindings then it won't have written the file.  Just go in to Elite and manually create a key binding on a function (does not matter which one) and it will create a custom key binding file which EDD will see.
+** Note that you need to make Elite create a key bindings file ** - if you use one of the stock bindings then it won't have written the file.  Just go in to Elite and manually create a key binding on a function (does not matter which one) and it will create a custom key binding file which EDD will see.
 
 Windows voice recognitions is very sensitive to the following:
 
