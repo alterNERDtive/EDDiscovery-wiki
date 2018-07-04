@@ -7,7 +7,7 @@ Safe mode is entered by holding <kbd>Shift</kbd> down as you launch EDDiscovery.
 * Remove all action packs
 
 * [[Move the databases|Move databases]] to another location
-* Rebuild the system database (does not lose user settings)
+* Rebuild the system database (does not effect user settings)
 
 * Run the program
 * Cancel running the program
