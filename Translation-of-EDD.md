@@ -12,7 +12,9 @@ The TLF file may use Include filename to include another file (usually called TL
 
 # Structure in the EDD Solution (Visual Studio)
 
-In EDDISCOVERY project, the VS folder Translations contains the source controlled TLF files.  
+Check out the code in GIT and use visual studio to edit the main SLN file.
+
+In Eddiscovery project, the VS folder Translations contains the source controlled TLF files.  
 
 In EliteDangerous project, the EliteDangerous subfolder contains TLP files containing definitions for the Materials and other common ED terms.
 
