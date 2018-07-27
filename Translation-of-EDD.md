@@ -2,7 +2,7 @@
 
 # How It works
 
-To define a language, a languagename-isotwocharname.tlf file needs to be present either in the .exe folder where EDD is run from (the installer puts these files in there) or in the appdata/eddiscovery/translator folder.
+To define a language, a languagename-isotwocharname.tlf file needs to be present either in the .exe folder where EDD is run from (the installer puts these files in there) or in the appdata/eddiscovery/translator folder.  Or a debug option needs to be given from the command line (see below).
 
 The TLF file defines language strings for all EDD panels, forms, program features etc.
 
