@@ -19,7 +19,9 @@ Each line of the TLF/TLP is either a comment (//), blank line, Include statement
 The format of a definition is:
 
 ID : "english text example" => "Foreign text"
+
 or
+
 ID : "english text example" @
 
 ID is case sensitive and is generally in the form Module.Part.  The shortform .Part is also used which just means, assign it the previous stated module.
@@ -28,9 +30,10 @@ The English part after the colon is a guide for what you should be replacing.  I
 
 The first form fully replaces the english text in the program with the foreign text - this is the end game!
 
-The second is used during development. It means:
-* Debug mode : repeat the program English phrase but with '' around it to show on screen the ID has been recognised.
-* Release mode : repeat in program English exactly.  This means that you don't want to translate this section and are happy for it to be in English.
+The @ second form is used during development. It means:
+
+* Debug mode : repeat the program's English phrase (not the one in quotes) but with '' around it to show on screen the ID has been recognised.
+* Release mode : repeat the program's English phrase exactly.  This means that you don't want to translate this section and are happy for it to be in English.
 
 You don't need to translate every bit at once, you can do it as you see fit, and try it between goes.
 
