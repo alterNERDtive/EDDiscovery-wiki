@@ -14,7 +14,7 @@ See the [[action help|Using Actions]] for a document describing what the functio
 
 Use the Add-ons | Edit Add-on Action Files to bring up a menu showing the packs installed.  Hit Edit on the voice pack to edit the file (ensure you have installed it first!):
 
-![](http://i.imgur.com/9bd7jql.png)
+![](https://i.imgur.com/i9tOaEf.png)
 
 (Image out of date) Each event may be enabled/disabled using the column here shown Always True/Enable.  Set this to disable to turn the event off.
 
