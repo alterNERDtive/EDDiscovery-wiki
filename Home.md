@@ -47,6 +47,8 @@ EDDiscovery supports [[add-ons|Using the manage Add Ons Menu]], which give you t
 * Play [[MP3s when an event occurs|Using the SoundBlaster Pack]], plus others.
 * Integrate with [[3rd party DLLs|3rd Party DLL Support]]
 
+EDDiscovery has been [[Translated|Translations]] into a few other languages.  You can change the language you want to see on the [[Settings Panel|Using the Settings Panel]].
+
 EDDiscovery integrates with our partner Elite 3rd party developer tools:
 
 * [[EDSM|EDSM integration with EDDiscovery]]
@@ -69,6 +71,7 @@ The main user interface of ED consists of (from top):
 # The Toolbar.  
 * Commander: use to select which commander to display information about, or Hidden for entries you have hidden.
 * Refresh: causes EDDiscovery to recheck the journal files
+* [[Profile|Profiles]]: Change to another profile or define new profiles. A profile holds all your setup of EDD such as which panels and pop outs, and their configuration settings.
 * [[2D Maps|Using the 2D Map]], [[3D Map|Using the 3D Map]]: open maps
 * EDSM Sync: if you've configured EDSM sync in [[Settings|Using the Settings Panel]] then this causes EDDiscovery to check for EDSM information and up and download it
 * Panel Selection Icon/List : Pop out a panel to another window
