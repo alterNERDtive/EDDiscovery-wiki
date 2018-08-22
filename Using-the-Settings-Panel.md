@@ -1,6 +1,6 @@
 The settings panel configures operation of EDDiscovery.
 
-![Settings page](https://imgur.com/BivPnFm.png)
+![Settings page](https://i.imgur.com/Rn3ieUe.png)
 
 The page is split into the following sections.
 
@@ -61,19 +61,17 @@ You can configure some information that 3D Maps needs before starting here:
 
 # Window Options
 
-* Load Setup on Start : Reload last saved pop out configuration
-
-* Save Setup on Start : Save pop out configuration at exit
-
-* Open Saved Setup : Open now the saved setup.  For manual use.
-
-* Save Current Setup : Save now the current setup.  For manual use.
-
 * Key to Activate transparent windows : If you have the window set to no response when the cursor hovers over it (via the 'T' control on the top right) you need to press a key to get the window to activate.  Define the key here.
 
 * Show notification area icon : show a notification icon in the notification area.
 
 * Minimize to notification area icon : when minimised, don't show a task bar icon, instead just show a notification area icon.
+
+* Redraw the screen during resizing : turn off if you have a 80486!
+
+* Keep on Top: Keep window on top
+
+* Panel List Sorted Alphanumerically: Instead of in groupings. Effects drop down panel lists and the selector tab.  You need to restart to make this apply everywhere.
 
 # EDSM/EDDB Control
 
@@ -84,6 +82,10 @@ Downloading data from these services for star database and station data takes ba
 * Galaxy Select : Indicate which areas of the galaxy to store from data obtained from EDSM.  This will limit your disk space usage.
 
 An example is to download the whole data from EDSM say on Wifi then turn off the data feed if using a bandwidth limited service (4G) etc.
+
+# Language
+
+Use to select another EDD language.  Note not all languages have everything translated. See [[Translations|Translations]].
 
 # Screenshots
 
