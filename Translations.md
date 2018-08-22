@@ -16,9 +16,7 @@ The language .tlf will include other files, called .tlp files.
 
 The .tlf and .tlp files together form the translation for a particular language.
 
-To start, copy the example-ex.* files found in the exe folder to a new set of names, such as francais-fr.*
-
-Then use notepad++ or visual studio to edit .tlf files (they are in UTF-8-BOM format) and they are Unicode files.  Do not use an ASCII only editor.
+Use notepad++ or visual studio to edit .tlf files (they are in UTF-8-BOM format) as they are Unicode files.  Do not use an ASCII only editor.
 
 # Format of translation files
 
@@ -49,4 +47,18 @@ PopOutInfo.Log.Description: "Program log" => "Registro del Programma"
 This translated a PopOutInfo log entry into italian.
 
 Translations are grouped together for particular panels/elements.  Not all of them needs translating, you may prefer to leave the more obscure bits in english.  A group will always start with the same prefix, for example AddOnManagerForm.<id>
+
+# How to start
+
+To start, copy the example-ex.* files found in the exe folder to a new set of names, such as francais-fr.*
+
+Then start with the .tlf file and translats the generic UCs and the PopOutInfo.* entries.
+
+Run EDD, your language should appear in settings | Languages.  Select it.  Close EDD and re-run.  Your translations should then be there - look at the panel drop down button on the toolbar and the panel names should have changed to your text.
+
+Then continue. EDDiscoveryForm and EDDiscoveryCotnroller are the next ones to do.  Then you can pick off the panels at your leisure.  The two .tlp files address the journal entries (affecting what's printed on the history panel) and the Materials/Commodity names.
+
+Once you'd done a bit, please submit them back for inclusion!  Use discord to find out how.
+
+
 
