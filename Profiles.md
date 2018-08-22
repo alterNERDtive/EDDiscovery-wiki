@@ -18,7 +18,7 @@ The final feature is triggers. EDD can be configured to switch to another profil
 
 To configure a profile to trigger due to an event, use the drop down with "No Trigger" in the combo box.  Select one to the triggers. EDD has defined a few basic triggers - such as Docked/Undocked. 
 
-You can then configure the look and pop outs for planets, while docked, while in space, etc.
+You can then configure a set of profiles for EDD configuration when on a planet, while docked, while in space, etc.
 
 The Trigger/Back buttons allow you to configure the trigger conditions manually - this is more complicated.  You can see from some of the built in triggers how it detects conditions to change profiles on.
 
