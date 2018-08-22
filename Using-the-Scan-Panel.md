@@ -1,6 +1,6 @@
 The scan panel shows you the known stars and planets of a system, due to a system scan of it, for the system selected by the [[history window cursor|Using the History Grid]].
 
-![Scan Panel](http://i.imgur.com/9P99T4C.png)
+![Scan Panel](https://i.imgur.com/LRtSdcV.png)
 
 Only stars and planets scanned by your current commander in a system, at any point in the history (including above the cursor position) is shown.
 
