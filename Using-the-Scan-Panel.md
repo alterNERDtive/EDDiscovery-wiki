@@ -2,21 +2,27 @@ The scan panel shows you the known stars and planets of a system, due to a syste
 
 ![Scan Panel](https://i.imgur.com/LRtSdcV.png)
 
-Only stars and planets scanned by your current commander in a system, at any point in the history (including above the cursor position) is shown.
-
-You can select by the toolbar above the star:
+You can select what is shown by using the toolbar above the star:
 
 * Show/Hide Materials: Show materials, as seen here, or not (a small icon will show materials are present)
 
 * Show Rare Materials only: For the people who only care about them.
 
+* Show/Hide Materials that have reached their storage limits: Don't show ones you don't need.
+
 * Show/Hide Moons: Diable showing moons, planets and stars only
 
 * Planet size:  4 sizing options are given
 
-* Show/Hide Labels : (Not shown in image above yet) turn on/off showing volanism, terraformable and value icons).
+* EDSM: Grab EDSM data on the system to supplement your own data
 
-Planetary Icons are:
+* Show/Hide Body Status Icons: Turn on/off showing volanism, terraformable and value icons.
+
+* Export to Excel: Output data in an CSV output for excel etc.
+
+The toolbar can be hidden. Right click on an empty part and you can choose to hide the icons and leave only the value indicator.
+
+Body Status Icons are:
 
 * If a planet is Terraformable : A picture of the planet earth.
 
@@ -24,18 +30,10 @@ Planetary Icons are:
 
 * If a planet has an estimated value >50000cr : A $ (your in the money!)
 
-Right clicking the star panel gives you the following options:
-
-* Show/Hide menu bar: Once configured, turn it off and get more space
-
 Hovering over a item shows you a text description of it.  Clicking on a planet pops up a note with the same data.
-
 
 ![Scan notes](http://i.imgur.com/Rdh8TqX.png)
 
 Clicking on empty space closes the note.
 
 The blue line around the planet or moon indicates its landable.  Multiple rings are shown by a gap in the ring.
-
-# Export
-Use the excel icon to export scan data to a CSV file for spreadsheets like excel.
