@@ -34,7 +34,7 @@ or
 
 PopOutInfo.Journal.Description: "Journal grid view" => "<Journal grid view>"
 
-The @ or the text in <> in the language text means that an item has not received a translation yet.  To translate, replace the @ with => "Language text" in your translation file.
+The @ or the text in <> in the language text means that an item has not received a translation yet.  To translate, replace the @/text with => "Language text" with your translation.
 
 For example, in the italiano-it.tlf file, you have:
 
@@ -52,13 +52,46 @@ Translations are grouped together for particular panels/elements.  Not all of th
 
 To start, copy the example-ex.* files found in the exe folder to a new set of names, such as francais-fr.*
 
-Then start with the .tlf file and translates the generic UCs and the PopOutInfo.* entries.
+Then start with the .tlf file and translate the generic UCs and the PopOutInfo.* entries.
 
-Run EDD, your language should appear in settings | Languages.  Select it.  Close EDD and re-run.  Your translations should then be there - look at the panel drop down button on the toolbar and the panel names should have changed to your text.
+Run EDD, your language should appear in settings | Languages.  Select it.  Close EDD and re-run.  Your translations should then be there - press the panel drop down button on the toolbar and the panel names should have changed to your text.
 
-Then continue. EDDiscoveryForm and EDDiscoveryCotnroller are the next ones to do.  Then you can pick off the panels at your leisure.  The two .tlp files address the journal entries (affecting what's printed on the history panel) and the Materials/Commodity names.
+Then continue. EDDiscoveryForm and EDDiscoveryController are the next ones to do.  Then you can pick off the panels at your leisure.  The two .tlp files address the journal entries (affecting what's printed on the history panel) and the Materials/Commodity names.
 
 Once you'd done a bit, please submit them back for inclusion!  Use discord to find out how.
+
+# Format strings
+
+You will see entries in c# or EDD Field builder format.  These show up due to {N} brackets or semicolons in the text.
+
+c# format: Example is TravelHistoryFilter.Hours: "{0} hours" @
+
+For C#, you need to keep the {N} entries in there (may be {0} {1} etc) but you may move them around to fix your translated text around them.
+
+Field Builder format (1): Examples are:
+JournalEntry.Capacity: "Capacity:;;0.0" @
+JournalFuelScoop.Total: "Total:;t;0.0" @
+
+The format is:
+Prefix to item;Postfix to item;format control of item
+
+You need to respect this.  Put your translated text in the prefix/postfix parts.  Leave the format control generally alone.
+
+Field Builder format (2): Example are:
+JournalEntry.NotLanded: "Not Landed;Landed" @
+JournalEntry.Wanted: ";(Wanted)" @
+
+The format is:
+
+Text if false;text is true
+
+Replace the text as appropriate.  The text may be blank, such as for the Wanted entry.
+
+
+
+
+
+
 
 
 
