@@ -10,7 +10,7 @@ Then contribute!
 
 Language translation files are simple.  They are found inside (for the release version) the .exe folder (c:\program files\eddiscovery\eddiscovery normally). 
 
-The primary translation for a language is called a .tlf file, and is named <languagename>-<iso 2 or 3 char code>.tlf.  For instance italiano-it.tlf.  Any language files found in the .exe folder using the .tlf and this format name will be presented in settings to the user to select.
+The primary translation for a language is called a .tlf file, and is named languagename-iso 2 or 3 char code.tlf.  For instance italiano-it.tlf.  Any language files found in the .exe folder using the .tlf and this format name will be presented in settings to the user to select.
 
 The language .tlf will include other files, called .tlp files.
 
@@ -42,7 +42,7 @@ The program treats the @ different dependent on the Debug mode. In debug it repe
 
 There are also in example-ex:
 
-PopOutInfo.Journal.Description: "Journal grid view" => "<Journal grid view>"
+PopOutInfo.Journal.Description: "Journal grid view" => "\<Journal grid view\>"
 
 The <> in the language text also means that the translation has not been done.
 
