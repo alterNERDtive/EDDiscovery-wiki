@@ -40,19 +40,19 @@ For example, in the italiano-it.tlf file, you have:
 
 Cancel: "Cancel" => "Cancella"
 
-This translats the Cancel identity, which normally has the English text "Cancel" into Italian "Cancella".  And
+This translates the Cancel identity, which normally has the English text "Cancel" into Italian "Cancella".  And
 
 PopOutInfo.Log.Description: "Program log" => "Registro del Programma"
 
 This translated a PopOutInfo log entry into italian.
 
-Translations are grouped together for particular panels/elements.  Not all of them needs translating, you may prefer to leave the more obscure bits in english.  A group will always start with the same prefix, for example AddOnManagerForm.<id>
+Translations are grouped together for particular panels/elements.  Not all of them needs translating, you may prefer to leave the more obscure bits in English.  A group will always start with the same prefix, for example AddOnManagerForm.<id>
 
 # How to start
 
 To start, copy the example-ex.* files found in the exe folder to a new set of names, such as francais-fr.*
 
-Then start with the .tlf file and translats the generic UCs and the PopOutInfo.* entries.
+Then start with the .tlf file and translates the generic UCs and the PopOutInfo.* entries.
 
 Run EDD, your language should appear in settings | Languages.  Select it.  Close EDD and re-run.  Your translations should then be there - look at the panel drop down button on the toolbar and the panel names should have changed to your text.
 
