@@ -18,11 +18,11 @@ You can select by the toolbar above the star:
 
 Planetary Icons are:
 
-* If a planet is Terraformable : shown as a cog (!)
+* If a planet is Terraformable : A picture of the planet earth.
 
-* If a planet has Volcanism : shown as a cloud with rain coming down.. (!!)
+* If a planet has Volcanism : A volcano erupting
 
-* If a planet has an estimated value >50000cr : A start flag (!!!)
+* If a planet has an estimated value >50000cr : A $ (your in the money!)
 
 Right clicking the star panel gives you the following options:
 
