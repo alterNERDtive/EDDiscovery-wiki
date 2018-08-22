@@ -60,7 +60,7 @@ EDDiscovery integrates with our partner Elite 3rd party developer tools:
 
 Here's an example of the history page using the [[ED Theme Elite Verdana|Configuring the look of EDDiscovery]], EDDiscovery supports themeing the user interface to your specification.
 
-![](https://i.imgur.com/5WakbQp.png)
+![](https://i.imgur.com/mTD6Pkf.png)
 (slightly out of date)
 
 The main user interface of ED consists of (from top):
