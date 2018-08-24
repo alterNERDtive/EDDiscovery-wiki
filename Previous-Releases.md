@@ -1,5 +1,14 @@
 # Previous Releases:
 
+10.1.0 Was Released on 14th June 2018 for ED 3.0.X
+
+* INARA
+* DLL Integration
+* History Limit Loading
+* Lots of other goodies - see the release notes.
+
+Voice pack V8 is for this version - please update!
+
 10.0.X Was Released on 9 May 2018 for ED 3.0.X
 
 * New panels, new Splitter support for configurable splitter windows
