@@ -1,19 +1,12 @@
 # Next Version
 
-10.2.0 Will be released..
-
-# Current Version
-
-10.1.0 Released on 14th June 2018 for ED 3.0.X
+10.2.0 Released on 24th August 2018 for ED 3.X
 
 See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
-* INARA
-* DLL Integration
-* History Limit Loading
-* Lots of other goodies - see the release notes.
+Voice pack V9 is for this version - please update!
 
-Voice pack V8 is for this version - please update!
+# Current Version
 
 Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
 
