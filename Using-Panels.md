@@ -110,7 +110,15 @@ All panels can be popped out into their own windows. When so, icons along the to
 
 The icons along the top configure it.  
 
-* T means transparent on/off, 
+* T controls the transparency: 
+
+T No box = No transparency
+
+T with a box around = Transparent, activates when cursor enters area of panel.
+
+Tc = Transparent, Controls on form will be clickable, to show the panel hold down the activate key defined in the [[Settings|Using the Settings Panel]] panel
+
+Tf = Transparent, Controls on form are not clickable, to show the panel hold down the activate key defined in the [[Settings|Using the Settings Panel]] panel
 
 * C means caption("Summary panel") on/off, 
 
