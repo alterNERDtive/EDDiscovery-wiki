@@ -73,7 +73,7 @@ The main user interface of ED consists of (from top):
 The toolbar can be instructed to roll up or stay expanded. When the mouse hovers over the toolbar, a pin on the far right (not shown) will show and you can either pin or unpin the toolbar.
 
 # Panels
-[[Panels|Using Panels]] are the basic UI building block of EDDiscovery. There are many (>25) panels, each one dedicated to a specific task or information display. Panels can be displayed in a tab, as part of the [[History Tab|Using the History Tab]] or popped out in a stand alone window (see the toolbar).  A [[Grid|Using the Grid]] or [[Splitter|Using the Splitter]] panel can contain other panels to allow you to set up a configurable set of panels.
+[[Panels|Using Panels]] are the basic UI building block of EDDiscovery. There are many (>25) panels, each one dedicated to a specific task or information display. Panels can be displayed in a tab, as part of the [[History Tab|Using the History Tab]] or popped out in a stand alone window (see the toolbar).  A [[Grid|Using the Grid]] or [[Splitter|Using the Splitter]] panel can contain other panels to allow you to set up a configurable set of panels.  See [[Panels|Using Panels]] for help on how to control the transparency of some panels.
 
 # Tab Pages
 A set of tab pages are shown below the toolbar.  You can add or remove tabs (containing a panel) to the program by right clicking on the menu toolbar and selecting or removing a tab. You can rename tabs. The only mandatory tab is the [[History Tab|Using the History Tab]] as the program must have at least one [[History Grid|Using the History Grid Panel]] present to work.
