@@ -101,3 +101,23 @@ Multipanels:
 * [[Grid|Using the Grid]]
 
 * [[Splitter|Using the Splitter]]
+
+# Pop Out Panels
+
+All panels can be popped out into their own windows. When so, icons along the top of the panel configure how it is displayed. An example from the summary panel:
+
+![non transparent](http://i.imgur.com/WTf1jtO.png)
+
+The icons along the top configure it.  
+
+* T means transparent on/off, 
+
+* C means caption("Summary panel") on/off, 
+
+* The box with dots mean show in taskbar on/off.  
+
+* The empty rectangle is top most on/off
+
+* Minimise 
+
+* Close.
