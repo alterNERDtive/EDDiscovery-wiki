@@ -4,7 +4,7 @@ The scan panel in non transparent mode with caption on looks like this:
 
 ![non transparent](http://i.imgur.com/WTf1jtO.png)
 
-The icons along the top configure it.  T means transparent on/off, C means caption("Summary panel") on/off, the box with dots mean show in taskbar on/off.  The empty rectangle is top most on/off, finally minimise and close.
+The icons along the top configure the look - see [[Using Panels|Using Panels]]
 
 With transparent on and caption off you get this:
 
