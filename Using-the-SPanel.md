@@ -1,4 +1,4 @@
-The scan panel is useful to place over the top of Elite Dangerous. Make sure ED is in borderless graphics mode.
+The summary panel is useful to place over the top of Elite Dangerous. Make sure ED is in borderless graphics mode.
 
 The scan panel in non transparent mode with caption on looks like this:
 
