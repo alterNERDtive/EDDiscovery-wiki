@@ -134,23 +134,25 @@ To find the .TX IDs in a set of source files, and to find the IDs used in the de
 
 EDDTest scantranslate c:\code\eddiscovery *.cs c:\code\eddiscovery\eddiscovery\translations\ 2 italiano-it  >c:\code\output.txt
 
-c:\code\eddiscovery\eddiscovery>eddtest scantranslate . *.cs Translations\ 2 italiano-it
+another:
 
+c:\code\eddiscovery\eddiscovery>eddtest scantranslate . *.cs Translations\ 2 italiano-it showerrorsonly
 
-Scan all .cs files under eddiscovery and its sub folders.  Read in the italian translation files located at \..\translations (use a 2 level up search for the TLP files, see above).  Output results to output.txt
+without the translator:
 
-You can use 
+c:\code\eddiscovery\eddiscovery>eddtest scantranslate . *.cs . . . showrepeats
 
-You should scan all of the code under c:\code\eddiscovery.  It may be easier to do it a few sub folders at a time, instead of the whole thing.
+these scan all .cs files under the subfolder set, and its sub folders.  Read in the italian translation files located at \..\translations\ (use the last slash) and use a 2 level up search for the TLP files, see above.  Output results to output.txt
 
 Options available, list after the italiano-it bit, are: 
 
 * combine - Use one list for local IDs across all files. Use in the journal folder. Don't use elsewhere.
 * showrepeats - Show the repeats (they are normally removed)
-* showerrrorsonly - use then
+* showerrrorsonly - use with the translator, only show lines where the translator file does not match the found ID.
 
+You should scan all of the code under c:\code\eddiscovery.  It may be easier to do it a few sub folders at a time, instead of the whole thing.
 
-It will scan all the .cs files for designer type entries and for .Tx statements and produce a set of results such as below:
+Once run, it will scan the .cs files for designer type entries and for .Tx statements and produce a set of results such as below:
 ```
 ///////////////////////////////////////////////////// AddOnManagerForm in AddOnManagerForm.Designer.cs
 AddOnManagerForm.buttonMore: "+" @ // OK
@@ -166,9 +168,9 @@ DraggableFormPos: "DraggableFormPos" @ // NOT DEFINED
 
 ```
 
-IDs found will be listed, and then checked against the translation file.  It will indicate if the ID is found (OK) or not found (NOT DEFINED).
+IDs found will be listed. If the translation is loaded, it will be checked against the translation file.  It will indicate if the ID is found (OK) or not found (NOT DEFINED) or if there is another error.
 
-It will generally overstate the number of IDs to translate as it does not know about any programatic exclusion of controls, such found in bookmarkform.cs which indicates not to translate certain controls using : 
+It will generally overstate the number of IDs to translate as it does not know about any programmatic exclusion of controls, such found in bookmarkform.cs which indicates not to translate certain controls using : 
             BaseUtils.Translator.Instance.Translate(this, new Control[] { labelX, labelY, labelZ, SurfaceBookmarks });
 
 Use this as a good guide for what may be missing from your translator files, but don't rely on it 100%!
