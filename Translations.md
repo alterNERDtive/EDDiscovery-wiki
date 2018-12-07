@@ -38,7 +38,7 @@ Systemnotknown: "System not known" @
 
 The @ means an item has not received a translation yet. You should translate it. 
 
-The program treats the @ different dependent on the Debug mode. In debug it repeat the program's internal English phrase but with '' around it to show on screen the ID has been recognised.  In release mode it just repeats the programs internal English phrase exactly.
+The program treats the @ different dependent on the Debug mode. In debug it repeat the program's internal English phrase but with quotes around it to show on screen the ID has been recognised.  In release mode it just repeats the programs internal English phrase exactly.
 
 There are also in example-ex:
 
@@ -125,6 +125,57 @@ You could also copy all the TLF/TLPs to appdata/eddiscovery/translation folder, 
 In debug mode, the translation system writes to appdata/eddiscovery/translator-ids.txt.  This indicates what files it reads and importantly tells you if any IDs are missing from the translation files.  Use this mechanism when developing new code.
 
 Netlogentry also has a translator scanner which reads the C# source code files and finds any .Tx statements in there.  This is also the other primary way of finding new IDs to add to the translation files during development.
+
+# Finding translations
+
+Compile the EDDTest program, in the EDTools repo https://github.com/EDDiscovery/EDTools 
+
+To find the .TX IDs in a set of source files, and to find the IDs used in the designer, use the following command line:
+
+EDDTest scantranslate c:\code\eddiscovery *.cs c:\code\eddiscovery\eddiscovery\translations\ 2 italiano-it  >c:\code\output.txt
+
+c:\code\eddiscovery\eddiscovery>eddtest scantranslate . *.cs Translations\ 2 italiano-it
+
+
+Scan all .cs files under eddiscovery and its sub folders.  Read in the italian translation files located at \..\translations (use a 2 level up search for the TLP files, see above).  Output results to output.txt
+
+You can use 
+
+You should scan all of the code under c:\code\eddiscovery.  It may be easier to do it a few sub folders at a time, instead of the whole thing.
+
+Options available, list after the italiano-it bit, are: 
+
+* combine - Use one list for local IDs across all files. Use in the journal folder. Don't use elsewhere.
+* showrepeats - Show the repeats (they are normally removed)
+* showerrrorsonly - use then
+
+
+It will scan all the .cs files for designer type entries and for .Tx statements and produce a set of results such as below:
+```
+///////////////////////////////////////////////////// AddOnManagerForm in AddOnManagerForm.Designer.cs
+AddOnManagerForm.buttonMore: "+" @ // OK
+AddOnManagerForm.buttonExtGlobals: "Globals" @ // OK
+AddOnManagerForm.buttonOK: "OK" @ // OK
+///////////////////////////////////////////////////// AssignTravelLogSystemForm in AssignTravelLogSystemForm.Designer.cs
+AssignTravelLogSystemForm.label1: "Travel Log System Name:" @ // OK
+AssignTravelLogSystemForm.label2: "Date Visited:" @ // OK
+AssignTravelLogSystemForm.label3: "New system name:" @ // OK
+AssignTravelLogSystemForm.label4: "Travel Log Coordinates:" @ // OK
+///////////////////////////////////////////////////// DraggableFormPos in DraggableFormPos.Designer.cs
+DraggableFormPos: "DraggableFormPos" @ // NOT DEFINED
+
+```
+
+IDs found will be listed, and then checked against the translation file.  It will indicate if the ID is found (OK) or not found (NOT DEFINED).
+
+It will generally overstate the number of IDs to translate as it does not know about any programatic exclusion of controls, such found in bookmarkform.cs which indicates not to translate certain controls using : 
+            BaseUtils.Translator.Instance.Translate(this, new Control[] { labelX, labelY, labelZ, SurfaceBookmarks });
+
+Use this as a good guide for what may be missing from your translator files, but don't rely on it 100%!
+
+
+
+
 
 
 
