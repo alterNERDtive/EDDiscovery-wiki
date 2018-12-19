@@ -6,6 +6,8 @@ The system information panel uses the entry selected by its associated journal o
 
 The panel shows information on the system, your credits, your journal notes, the target selection (and allows you to set it), ship information, materials, data and commodity counts at that point in your history.  If you've set up a start and stop points, it will show accumulated travel information.  It will also show game mode and group.  It provides three buttons to jump to EDSM, Ross or EDDB directly.
 
+If you are sending data to EDSM (see the commanders form on the settings page) and EDSM indicates that the system you just jumped into is unknown to it, you will see a star next to the name of the system showing you discovered the system for EDSM!  This is different to the Frontier first discovered, which occurs when you sell the data to a station.  
+
 Right click on a blank area to get the configuration drop down menu:
 
 ![Configuration Menu](http://i.imgur.com/ENkQml0.png)
