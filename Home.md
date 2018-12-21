@@ -1,14 +1,8 @@
-# Next Version
-
-10.2.0 Released on 24th August 2018 for ED 3.X
-
-See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
-
-Voice pack V9 is for this version - please update!
-
 # Current Version
 
-Also see [[Previous Releases|Previous Releases]] for past history of EDDiscovery.
+10.3.X Series is now the current EDD
+
+See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
 # Troubleshooting
 Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]] and check out [[Safe Mode|Safe Mode]] to allow you to fix issues and [[Move the Databases|Move databases]] to another folder.
