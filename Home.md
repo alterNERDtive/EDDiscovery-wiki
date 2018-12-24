@@ -7,6 +7,8 @@ See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 # Troubleshooting
 Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]] and check out [[Safe Mode|Safe Mode]] to allow you to fix issues and [[Move the Databases|Move databases]] to another folder.
 
+Also see [[Settings History settings|Using the Settings Panel]] to allow you to limit the amount of memory EDD consumes.
+
 # EDDiscovery - What is it?
 
 You play Elite Dangerous and have heard of EDDiscovery - and ended up here.  So what _is_ it?  
