@@ -43,6 +43,8 @@ Here you can configure:
 
 * Only read essential Entries : If you have a very large history, EDD can go slow due to the effort of reading it all.  Use this to indicate that only essential entries older than X days should be loaded.  Default is disabled.
 
+* Define essential items (Not shown above yet) - define what you mean by essential items.  Using nothing means that EDD will only read entries up to the time limit above.  This allows you to limit memory usage.
+
 # Theme
 
 See [[configuring ED theme|Configuring the look of EDDiscovery]] for how to change the look of EDDiscovery
