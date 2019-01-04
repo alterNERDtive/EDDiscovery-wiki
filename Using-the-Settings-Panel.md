@@ -29,7 +29,9 @@ Here you can configure:
 
 * EGO Integration: If you want to automatically send discoveries to EGO, you need to enter your EGO login and API key [[EGO Integration|EGO integration with EDDiscovery]], and choose the sync directions you want to use.
 
-* Frontier Companion API: If you wish, give your Frontier account log in details here (which is saved in encrypted form) and EDDiscovery will obtain information from the Frontier servers.  This is used primarily to obtain [[Market Data Panel|Using the Market Data Panel]] and drives that panels information. 
+* Frontier Companion API: Not currently active due to Frontier change of access method.
+
+If you wish, give your Frontier account log in details here (which is saved in encrypted form) and EDDiscovery will obtain information from the Frontier servers.  This is used primarily to obtain [[Market Data Panel|Using the Market Data Panel]] and drives that panels information. 
 
 * Inara Integration: To integrate EDD with [[Inara|Inara integration with EDDiscovery]], fill out this section. 
 
