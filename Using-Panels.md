@@ -1,4 +1,4 @@
-Each panel displays different information to the user. The main history page supports displaying four different panels. Panels can be popped out into their own windows to allow more to be shown:
+Each panel displays different information to the user. The main history page supports displaying two to many different panels. Panels can be popped out into their own windows to allow more to be shown:
 
 These panels can be either in a tab, in a splitter or grid within a tab, embedded in the travel history page, or popped out:
 
@@ -87,6 +87,8 @@ Info Panels:
 * [[Route tracker|Using the Route Tracker Panel]]
 
 * [[Compass panel|Using the Compass Panel]]
+
+* [[Mission Overlay panel|Using the Mission Overlay Panel]]
 
 Settings:
 
