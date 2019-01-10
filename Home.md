@@ -46,7 +46,7 @@ EDDiscovery integrates with our partner Elite 3rd party developer tools:
 * [[EDDB|EDDB integration with EDDiscovery]]
 * [[Coriolis|Coriolis integration with EDDiscovery]]
 * [[ED Shipyard|ED Shipyard integration with EDDiscovery]]
-* EDDN Network : Run by EDCD, this distributes information on shipyards, markets, stations, scans to the EDCD community (EDSM, EDDB, etc). 
+* EDDN Network : Run by [EDCD](https://edcd.github.io/), this distributes information on shipyards, markets, stations, scans to the EDCD community (EDSM, EDDB, etc). 
 
 Use [[the Settings Panel|Using the Settings Panel]] to configure these options.
 
