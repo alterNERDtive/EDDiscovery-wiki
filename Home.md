@@ -1,8 +1,10 @@
 # Current Version
 
-10.3.X Series is now the current EDD
+10.4.X Series is now the current EDD
 
 See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
+
+[[Download the latest version|https://github.com/EDDiscovery/EDDiscovery/releases/latest]]
 
 # Troubleshooting
 Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]] and check out [[Safe Mode|Safe Mode]] to allow you to fix issues and [[Move the Databases|Move databases]] to another folder.
