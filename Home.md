@@ -11,6 +11,8 @@ Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]] and check
 
 Also see [[Settings History settings|Using the Settings Panel]] to allow you to limit the amount of memory EDD consumes.
 
+Also, if your putting the program on a Hard Disk Drive (not an SDD), the volume of data from EDSM on stars is now large.  Initially setting up the DB will take a considerable amount of time.  You may solve this either by using an SDD to host, or when the program is first run (or later via the Galaxy selector on settings) selecting a small amount of the galaxy to store.
+
 # EDDiscovery - What is it?
 
 You play Elite Dangerous and have heard of EDDiscovery - and ended up here.  So what _is_ it?  
