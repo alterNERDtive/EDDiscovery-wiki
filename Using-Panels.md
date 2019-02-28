@@ -62,6 +62,8 @@ Scans and Stars:
 
 * [[Bookmarks panel|Using the Bookmarks Panel]]
 
+* [[Captains Log panel|Using the Captains Log Panel]]
+
 Combat:
 
 * [[Combat Panel|Using the combat panel]]
@@ -89,6 +91,10 @@ Info Panels:
 * [[Compass panel|Using the Compass Panel]]
 
 * [[Mission Overlay panel|Using the Mission Overlay Panel]]
+
+* [[Surveyor panel|Using the Surveyor Panel]]
+
+
 
 Settings:
 
