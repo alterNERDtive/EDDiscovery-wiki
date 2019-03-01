@@ -1,6 +1,8 @@
 # Current Version
 
-10.4.X Series is now the current EDD
+10.5.X is out on pre-release on 1st March.
+
+10.4.X Series is the stable version
 
 See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
