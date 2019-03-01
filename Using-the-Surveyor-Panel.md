@@ -1,0 +1,1 @@
+The surveyor panel gives you information on the scans you have made in the current system. Overlay it over ED for up to date survey information.
