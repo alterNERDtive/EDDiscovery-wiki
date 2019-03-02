@@ -56,7 +56,7 @@ Scans and Stars:
 
 * [[Plot panel|Using the Plot Panel]]
 
-* [[EDSM Panel|Using the EDSM Panel]]
+* [[Search Panel|Using the Search Panel]]
 
 * [[Trilateration|Using the Trilateration Panel]]
 
