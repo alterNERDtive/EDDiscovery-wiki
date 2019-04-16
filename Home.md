@@ -1,8 +1,6 @@
 # Current Version
 
-10.5.X is out on pre-release on 1st March.
-
-10.4.X Series is the stable version
+10.5.X is out on release from 1st March.
 
 See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
