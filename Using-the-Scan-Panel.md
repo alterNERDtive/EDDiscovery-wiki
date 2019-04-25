@@ -28,7 +28,7 @@ Body Status Icons are:
 
 * If a planet has Volcanism : A volcano erupting
 
-* If a planet has an estimated value >50000cr : A $ (your in the money!)
+* If a planet has an estimated value >50000cr (configurable via the $ button) : A $ (your in the money!)
 
 Hovering over a item shows you a text description of it.  Clicking on a planet pops up a note with the same data.
 
