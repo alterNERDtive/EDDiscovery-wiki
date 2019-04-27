@@ -2,9 +2,7 @@ The market data panel shows you the current market prices at the last station yo
 
 ![](http://i.imgur.com/i6zWbB4.png)
 
-Market data from 3.0 comes from either the Market event, which is written when you visit a stations commodity market.
-
-Alternatively it can be gone from Frontier Companion API if you have configured access in your commander settings.  See Configure the CAPI for your commander by [[using the settings panel|Using the Settings Panel]]. For the CAPI, one configured, at each dock event EDDiscovery will query the Frontier servers and attempt to obtain market data for that station.  Note due to bugs on Frontiers end it does not always work. If it obtains the data, it writes a new journal entry called EDD Commodity Prices and saves the prices it has obtained.
+Market data from 3.0 comes from the Market event, which is written when you visit a stations commodity market.  You must visit this service to get the market data.
 
 The dialog itself allows you to select the market data to show (left selection), you can choose from the Travel History Entry Last meaning show the last stations values, or a particular station if it has those values in memory.  
 
