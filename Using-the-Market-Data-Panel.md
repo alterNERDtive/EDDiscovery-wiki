@@ -2,7 +2,7 @@ The market data panel shows you the current market prices at the last station yo
 
 ![](http://i.imgur.com/i6zWbB4.png)
 
-Market data from 3.0 comes from the Market event, which is written when you visit a stations commodity market.  You must visit this service to get the market data.
+Market data from the Market event, which is written when you visit a stations commodity market.  You must visit this service to get the market data event.
 
 The dialog itself allows you to select the market data to show (left selection), you can choose from the Travel History Entry Last meaning show the last stations values, or a particular station if it has those values in memory.  
 
