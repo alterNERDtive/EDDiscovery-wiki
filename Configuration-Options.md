@@ -14,6 +14,10 @@ Command line options are as follows:
 
 # USER
 
+* `-Commander <name>` (11.0+)
+
+Switch to commander <name>.  Use quotes if name has spaces.
+
 * `-NRW` or `-NoRepositionWindow`
 
   Use default window positions, don't load at previous positions.  Safe mode (hold down shift as you run the program) allows this to be set by the user via a dialog.
