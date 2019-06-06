@@ -44,6 +44,8 @@ Engineering/Synthesis:
 
 Scans and Stars:
 
+* [[EDSM Panel|Using the EDSM Panel]]
+
 * [[Scan Panel|Using the Scan Panel]]
 
 * [[Scan Grid|Using the Scan Grid]]
