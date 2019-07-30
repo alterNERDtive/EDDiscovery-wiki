@@ -6,6 +6,8 @@ See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
 [[Download the latest version|https://github.com/EDDiscovery/EDDiscovery/releases/latest]]
 
+[[Get help and advice on our Discord|https://discord.gg/uBq3UHq]]
+
 # Troubleshooting
 Problems running it? Crashing? See [[Troubleshooting|Troubleshooting]] and check out [[Safe Mode|Safe Mode]] to allow you to fix issues and [[Move the Databases|Move databases]] to another folder.
 
