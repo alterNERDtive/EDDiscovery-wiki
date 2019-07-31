@@ -2,6 +2,8 @@ Install the chat console from Add ons | Manage Add Ons.
 
 This allows you to send commands to EDD from the Elite chat system.
 
+You need to be sending in local chat.  Other chats won't work.
+
 * /ln Text : Make a new captains log entry
 * /la Text : Append text to the latest captains log entry
 * /nn Text : Make a new note on the latest journal entry
