@@ -18,4 +18,33 @@ If EDD webserver is not working, or working only on the PC but not from a tablet
 
 Use the test button to see if the configuration is successful. This will open a browser window which EDD should serve web pages to.
 
-# Web Pages
+# Journal Page
+This shows the journal view and the current status (like the system info panel).
+
+![](https://i.imgur.com/BCQHkCu.png)
+
+The journal view can be scrolled up and down.  Clicking on the event image changes the status to that entry.
+
+#  Status Page
+
+This shows the current status and a set of icons describing the state. At the bottom are action buttons where you can send orders to EDD to perform actions, such as landing gear down, lights on, etc.
+
+The icons change dependent on the game mode.
+
+## In Supercruise:
+![](https://i.imgur.com/KQ3eGov.png)
+
+## In SRV:
+![](https://i.imgur.com/SHgZKY6.png)
+
+## In Normal Space:
+![](https://i.imgur.com/YjW9k1h.png)
+
+# Grid Page
+This shows the status icons and action buttons from the status page, but larger, and easier to hit on a tablet. This page acts as a super Roccat style grid with interactivity with the game.
+
+![](https://i.imgur.com/sLyQlIw.png)
+
+# Button Meanings
+![](https://i.imgur.com/Lp6aSKI.png)
+Docked, Landed, Supercruise, 
