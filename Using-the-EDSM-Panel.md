@@ -1,6 +1,6 @@
-11.0+
-
 The EDSM panel shows you the web page for the system which the travel history cursor (or Journal/star list if your using splitters/grids) is pointing at.
+
+![EDSM Panel](https://i.imgur.com/hUGWTvT.png)
 
 If EDSM does not have a known system, it shows the main EDSM page.
 
