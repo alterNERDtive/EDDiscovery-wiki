@@ -32,13 +32,30 @@ This shows the current status and a set of icons describing the state. At the bo
 The icons change dependent on the game mode.
 
 ## In Supercruise:
-![](https://i.imgur.com/KQ3eGov.png)
+![](https://i.imgur.com/QBfV3Ww.png)
+
+Indicators: Docked, Landed, Shields, In Wing, Fuel Scooping, Low Fuel, Heat Damage, In Danger, Being Interdicted, Charging FSD, FSD Cooldown
+
+Actions: Lights, Hardpoints, Supercruise, Supercruise/Jump, Orbit Lines, Previous Target, Next Target, Target Next System in Route, Previous fire group, Next Fire Group, Increase Systems Power, Increase Engine Power, Increase Weapon Power, Balance power, Galaxy map, System map, Take picture.
 
 ## In SRV:
-![](https://i.imgur.com/SHgZKY6.png)
+![](https://i.imgur.com/mirb5Ho.png)
+
+Indicators: Under ship, low fuel, Shields
+
+Actions: Handbrake, Turret, Drive Assist, Lights, Recall Ship, Increase Systems Power, Increase Engine Power, Increase Weapon Power, Balance power, Galaxy map, System map, Take picture.
 
 ## In Normal Space:
-![](https://i.imgur.com/YjW9k1h.png)
+![](https://i.imgur.com/OYc34DR.png)
+
+Indicators: Docked, Landed, Shields, In Wing, Low Fuel, Heat Damage, In Danger, Charging FSD, Mass locked, FSD Cooldown
+
+Actions: Landing Gear, Lights, Flight Assist, Hardpoints, Cargo Scoop, Night Vision, Boost, Shield Cell, Chaff, Heatsink, ChargeECM, Supercruise, Supercruise/Jump, Orbit Lines
+
+Line 2: Previous Target, Next Target, Highest Threat, Previous Highest Threat, Next Highest Threat, Previous subsystem, Next subsystem, Previous Fire Group, Next Fire Group, Increase Systems Power, Increase Engine Power, Increase Weapon Power, Balance power, Defensive Behaviour
+
+Line 3: Agressive Behaviour, Focus on Target, Hold Fire, Hold Position, Follow me, Request Dock, Open orders, Galaxy map, System map, Take picture.
+
 
 # Grid Page
 This shows the status icons and action buttons from the status page, but larger, and easier to hit on a tablet. This page acts as a super Roccat style grid with interactivity with the game.
