@@ -1,6 +1,6 @@
 The settings panel configures operation of EDDiscovery.
 
-![Settings page](https://i.imgur.com/Vaw6TI9.png
+![Settings page](https://i.imgur.com/Vaw6TI9.png)
 
 The page is split into the following sections.
 
