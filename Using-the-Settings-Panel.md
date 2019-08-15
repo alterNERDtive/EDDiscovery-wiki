@@ -29,53 +29,33 @@ Here you can configure:
 
 * EGO Integration: If you want to automatically send discoveries to EGO, you need to enter your EGO login and API key [[EGO Integration|EGO integration with EDDiscovery]], and choose the sync directions you want to use.
 
-* Frontier Companion API: Not currently active due to Frontier change of access method.
-
-If you wish, give your Frontier account log in details here (which is saved in encrypted form) and EDDiscovery will obtain information from the Frontier servers.  This is used primarily to obtain [[Market Data Panel|Using the Market Data Panel]] and drives that panels information. 
-
 * Inara Integration: To integrate EDD with [[Inara|Inara integration with EDDiscovery]], fill out this section. 
 
-# History Options
-
-* Show UI Events in History. Certain UI events are reported to EDD by ED.  These occur frequently and are not really useful historically. Click on this to show them in history.
-
-* Number Rows Latest Entry Highest: By default 1 is the latest entry. If you prefer it the other way around, click this.
-
-* Display Game time instead of local time: Display UTC game time instead of your local time.
-
-* Only read essential Entries : If you have a very large history, EDD can go slow due to the effort of reading it all.  Use this to indicate that only essential entries older than X days should be loaded.  Default is disabled.
-
-* Define essential items (Not shown above yet) - define what you mean by essential items.  Using nothing means that EDD will only read entries up to the time limit above.  This allows you to limit memory usage.
+* Commander specific options.  Where your home system is, where to open the map map on, the default zoom of the map, and the default colour to use for 3d map route traces.
 
 # Theme
 
 See [[configuring ED theme|Configuring the look of EDDiscovery]] for how to change the look of EDDiscovery
 
-# 3D Map Settings
+# History Options
 
-You can configure some information that 3D Maps needs before starting here:
+* Number Rows Latest Entry Highest: By default 1 is the latest entry. If you prefer it the other way around, click this.
 
-* Home System: What system do you want to call home?
+* Display Game time instead of local time: Display UTC game time instead of your local time.
 
-* Open Centred on: Either home system or last History Grid selection
+# Web Server
 
-* Default Zoom: Select the zoom to use when opening. Use the map itself to find out your preferred zoom and then enter it here.
+* Settings for the web server.  This allows configuration to enable or disable the web server, to set theTCP port to serve on, and a test button which launches your browser on the web page.  See [[Web Server|Web Server]]
 
-* Default Map Colour: New FSD journal entries are assigned this colour to show on 3D Map.
-
-# Window Options
+# Interaction
 
 * Key to Activate transparent windows : If you have the window set to no response when the cursor hovers over it (via the 'T' control on the top right) you need to press a key to get the window to activate.  Define the key here.
 
-* Show notification area icon : show a notification icon in the notification area.
+# Memory
 
-* Minimize to notification area icon : when minimised, don't show a task bar icon, instead just show a notification area icon.
+* Only read essential Entries : If you have a very large history, EDD can go slow due to the effort of reading it all.  Use this to indicate that only essential entries older than X days should be loaded.  Default is disabled.
 
-* Redraw the screen during resizing : turn off if you have a 80486!
-
-* Keep on Top: Keep window on top
-
-* Panel List Sorted Alphanumerically: Instead of in groupings. Effects drop down panel lists and the selector tab.  You need to restart to make this apply everywhere.
+* Define essential items (Not shown above yet) - define what you mean by essential items.  Using nothing means that EDD will only read entries up to the time limit above.  This allows you to limit memory usage.
 
 # EDSM/EDDB Control
 
@@ -87,9 +67,25 @@ Downloading data from these services for star database and station data takes ba
 
 An example is to download the whole data from EDSM say on Wifi then turn off the data feed if using a bandwidth limited service (4G) etc.
 
+# Window Options
+
+* Show notification area icon : show a notification icon in the notification area.
+
+* Minimize to notification area icon : when minimised, don't show a task bar icon, instead just show a notification area icon.
+
+* Redraw the screen during resizing : turn off if you have a 80486!
+
+* Keep on Top: Keep window on top
+
+* Panel List Sorted Alphanumerically: Instead of in groupings. Effects drop down panel lists and the selector tab.  You need to restart to make this apply everywhere.
+
 # Language
 
 Use to select another EDD language.  Note not all languages have everything translated. See [[Translations|Translations]].
+
+# Advanced
+
+Active the [[Safe Mode|safe mode]] screen to allow special operations.
 
 # Screenshots
 
