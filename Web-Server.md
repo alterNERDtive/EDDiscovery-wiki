@@ -62,6 +62,8 @@ This shows the status icons and action buttons from the status page, but larger,
 
 ![](https://i.imgur.com/sLyQlIw.png)
 
-# Button Meanings
-![](https://i.imgur.com/Lp6aSKI.png)
-Docked, Landed, Supercruise, 
+# Additional In Wing Buttons
+
+You can target wingman 1 to 3, target the wingman's target, and target his next system.  These appear only when in wing.
+
+![](https://i.imgur.com/sca5CD9.png)
