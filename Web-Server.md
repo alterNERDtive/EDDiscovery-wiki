@@ -60,7 +60,7 @@ Line 3: Agressive Behaviour, Focus on Target, Hold Fire, Hold Position, Follow m
 # Grid Page
 This shows the status icons and action buttons from the status page, but larger, and easier to hit on a tablet. This page acts as a super Roccat style grid with interactivity with the game.
 
-![](https://i.imgur.com/sLyQlIw.png)
+![](https://i.imgur.com/oTLfs2a.png)
 
 # Additional In Wing Buttons
 
