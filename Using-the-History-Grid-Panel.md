@@ -28,6 +28,12 @@ Using the Event Filter drop down, you can filter events by specific event types.
 
 Use the [[Field Filter|Using the Field Filter]] to filter out entries matching criteria.  The journal view gives you a good idea of the fields you can pick.  If you have the event in memory already the field entries available will be listed.
 
+You can export to excel/csv format using the next button.
+
+The Green Up arrow says move the cursor to the latest entry every time a new event is received by EDD from Elite.
+
+The final button turns on/off outlining.  Outlining allows you to roll up areas of the history for compactness.
+
 
 # Column Resizing
 
