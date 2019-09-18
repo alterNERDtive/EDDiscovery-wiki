@@ -29,6 +29,8 @@ The journal view can be scrolled up and down.  Clicking on the event image chang
 
 This shows the current status and a set of icons describing the state. At the bottom are action buttons where you can send orders to EDD to perform actions, such as landing gear down, lights on, etc.
 
+NOTE: You won't see status icons until Elite is running, as it bases the icons it shows on Elite's current game state.
+
 The icons change dependent on the game mode.
 
 ## In Supercruise:
