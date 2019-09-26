@@ -19,6 +19,8 @@ Windows voice recognitions is very sensitive to the following:
 
 Getting it set up right can sometimes be a bit of a challenge.
 
+I recommend to use voice recognition only if you are using a headset so the microphone hears nothing except your voice.
+
 Currently the voice pack supports only the default recording device, set this in Control Panel | Sound | Recording\r
 
 You may want to enable in the Free Voice Control Configuration the \"Show failed voice recognition\" and see what its listening to in the log window.
