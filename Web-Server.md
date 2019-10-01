@@ -18,6 +18,10 @@ If EDD webserver is not working, or working only on the PC but not from a tablet
 
 Use the test button to see if the configuration is successful. This will open a browser window which EDD should serve web pages to.
 
+This has been tested to work on windows 10 in both normal user mode and as an administrator.
+
+For the grid buttons to work, you must be running EDD on the same computer as Elite, and you must have keybindings set up for each function you want to use on the grid.  Even if you normally have a joystick to do that function (say deploy hardpoints) you need a key also bound to that function. EDD will read your keybinding file for configuration so it knows which key to press.
+
 # Journal Page
 This shows the journal view and the current status (like the system info panel).
 
