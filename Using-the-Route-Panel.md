@@ -12,4 +12,5 @@ Hit Find Route and it will calculate the route. Shown here is Sol to Lembava.
 
 You can, once the route is found, click on the [[3D Map Button|Using the 3D Map]] and see the route in full super 3D!
 
+From 11.1, you can indicate you will accept boosts to find stars, and double clicking on the star opens up a scan popout panel to show you the known configuration (by EDSM) of the system.
 
