@@ -52,7 +52,7 @@ Scans and Stars:
 
 * [[Nearest stars|Using the Nearest Stars Panel]]
 
-* [[Estimated Exploration Values|Estimated Exploration Values]]
+* [[Estimated Exploration Values|Using the Estimated Exploration Values Panel]]
 
 * [[Map panel|Using the Map Panel]]
 
