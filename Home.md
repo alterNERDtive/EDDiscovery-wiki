@@ -1,6 +1,6 @@
 # Current Version
 
-10.6.X is out on now.
+11.0.X is out on now.
 
 See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
