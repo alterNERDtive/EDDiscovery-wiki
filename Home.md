@@ -41,7 +41,7 @@ EDDiscovery supports [[add-ons|Using the manage Add Ons Menu]], which give you t
 * Read and vocalise [[joystick inputs|Using the JKM Pack]]
 * Place information on [[OBS|Using the OBS Pack]]
 * Play [[MP3s when an event occurs|Using the SoundBlaster Pack]], plus others.
-* Get commands from the Elite local Chat interface using the [[Chat Console|Chat Console]]
+* Get commands from the Elite local Chat interface using the [[Chat Console|Using the Chat Console]]
 * Integrate with [[3rd party DLLs|3rd Party DLL Support]]
 
 EDDiscovery has been [[Translated|Translations]] into a few other languages.  You can change the language you want to see on the [[Settings Panel|Using the Settings Panel]].
