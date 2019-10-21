@@ -66,6 +66,8 @@ To start, copy the example-ex.* files found in the exe folder to a new set of na
 
 Then start with the .tlf file and translate the generic UCs and the PopOutInfo.* entries.
 
+Example-ex.* is the master source of translation Ids.  We keep them up to date with the source code. The other translation files are then based off of example-ex.  
+
 Run EDD, your language should appear in settings | Languages.  Select it.  Close EDD and re-run.  Your translations should then be there - press the panel drop down button on the toolbar and the panel names should have changed to your text.
 
 Then continue. EDDiscoveryForm and EDDiscoveryController are the next ones to do.  Then you can pick off the panels at your leisure.  The two .tlp files address the journal entries (affecting what's printed on the history panel) and the Materials/Commodity names.
@@ -122,11 +124,9 @@ When distributed, the .TLF and .TLP files will all be in the same folder as the 
 
 You could also copy all the TLF/TLPs to appdata/eddiscovery/translation folder, but then you'd have two copies.
 
-In debug mode, the translation system writes to appdata/eddiscovery/translator-ids.txt.  This indicates what files it reads and importantly tells you if any IDs are missing from the translation files.  Use this mechanism when developing new code.
+In debug mode, the translation system writes to appdata/eddiscovery/translator-ids.txt.  This indicates what files it reads and importantly tells you if any IDs are missing from the translation files.  If your based your files off of example-ex you should not have many of them.
 
-Netlogentry also has a translator scanner which reads the C# source code files and finds any .Tx statements in there.  This is also the other primary way of finding new IDs to add to the translation files during development.
-
-# Finding translations
+# Advanced - use of EDDTest - Slightly Out of Date.  Mainly for Code editors.
 
 Compile the EDDTest program, in the EDTools repo https://github.com/EDDiscovery/EDTools 
 
