@@ -14,6 +14,11 @@ Delete route allows you to remove routes saved.  Reverse route allows you to ret
 
 To retrieve previous saved routes, use the drop down box to select the route to show.
 
+You can import routes from the route panel using the import route button.
+
+You can import systems from a .txt file using Import file.  This file should just be a list of systems with a line feed between each system.
+
+
 
 
 
