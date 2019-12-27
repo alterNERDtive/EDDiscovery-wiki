@@ -4,7 +4,7 @@
 
 See [[Release Notes|https://github.com/EDDiscovery/EDDiscovery/releases]]
 
-[[Download the latest version|https://github.com/EDDiscovery/EDDiscovery/releases/latest]]
+[[Download the latest version|https://github.com/EDDiscovery/EDDiscovery/releases/latest]] (Make sure you pick the .exe installer unless you want the portable version)
 
 [[Get help and advice on our Discord|https://discord.gg/uBq3UHq]]
 
