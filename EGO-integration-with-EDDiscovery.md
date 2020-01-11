@@ -1,5 +1,10 @@
 # Elite Galaxy Online integration with EDDiscovery
 
+Update Autumn 2019.
+
+I'm afraid EGO seems to be no more. If it does not appear again the code to integrate with it will be removed.
+
+
 ## Overview
 [EGO](http://www.elitegalaxyonline.com/) (Elite Galaxy Online) is an online database maintaining a list of record-breaking discoveries. By adding integration into EDDiscovery you can automatically upload discoveries to EGO as you explore.
 
