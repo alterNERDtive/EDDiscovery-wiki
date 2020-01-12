@@ -6,4 +6,6 @@ Contributing to EDDN means that your improving the data set which powers [EDDB](
 
 You can enable the EDDN feed, on a per commander basis, using the [[Commander editing dialog from the Settings panel|Using the Settings Panel]]
 
-A PDF contributed by [[Redfox gives more information|pdfs/Guide-for-sharing-explo-data_2020_01_03(1).pdf]]
+A PDF contributed by [[pdfs/Guide-for-sharing-explo-data_2020_01_03(1).pdf|sks]]
+
+https://github.com/EDSM-NET/EDDN/tree/master/schemas
