@@ -12,6 +12,6 @@ A PDF contributed by [[fred|Redfox_Guide_For_Sharing-Explo-Data.pdf]]
 
 Image [[/Map-galaxy-map.png]]
 
-Image [ww](https://github.com/EDDiscovery/EDDiscovery/wiki/Map-galaxy-map.png)
+Image [[(https://github.com/EDDiscovery/EDDiscovery/wiki/Map-galaxy-map.png]]
 
 https://github.com/EDSM-NET/EDDN/tree/master/schemas
