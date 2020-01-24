@@ -5,5 +5,3 @@ You can see the type of data EDD will send to EDDN [at this address](https://git
 Contributing to EDDN means that your improving the data set which powers [EDDB](https://eddb.io/) and [EDSM](https://www.edsm.net/) which I'm sure you've used in the past to help you succeed in Elite Dangerous.
 
 You can enable the EDDN feed, on a per commander basis, using the [[Commander editing dialog from the Settings panel|Using the Settings Panel]]
-
-Doc [Redfox](https://github.com/EDDiscovery/EDDiscovery/tree/master/Docs/Exploration-Guide-for-sharing-v1.pdf)
