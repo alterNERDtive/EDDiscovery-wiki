@@ -20,6 +20,8 @@ Use the test button to see if the configuration is successful. This will open a 
 
 This has been tested to work on windows 10 in both normal user mode and as an administrator.
 
+If you previously used the webserver on a port in administrator mode, and now want to use it in normal user mode, you will have to change the port number to make EDD retry the above procedure.
+
 For the grid buttons to work, you must be running EDD on the same computer as Elite, and you must have keybindings set up for each function you want to use on the grid.  Even if you normally have a joystick to do that function (say deploy hardpoints) you need a key also bound to that function. EDD will read your keybinding file for configuration so it knows which key to press.
 
 # Journal Page
