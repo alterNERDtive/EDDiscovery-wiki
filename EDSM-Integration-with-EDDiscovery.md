@@ -4,7 +4,7 @@ The [[settings panel|Using the Settings Panel]] has an option to disable this sy
 
 EDD also can send commander data to and from EDSM.  
 
-A useful guide by Redfox is here at [Guide for Exploration Sharing](https://github.com/EDDiscovery/EDDiscovery/tree/master/Docs/Exploration-Guide-for-sharing-v1.pdf) which gives you a background on why you would want to use EDSM integration.
+A useful guide by Redfox is here at [Guide for Exploration Sharing](https://github.com/EDDiscovery/EDDiscovery/tree/master/Docs/Exploration-Guide-for-sharing-v2.pdf) which gives you a background on why you would want to use EDSM integration.
 
 In order to send this data, you need to have configured an API key in EDD commander settings, obtained from EDSM.
 
