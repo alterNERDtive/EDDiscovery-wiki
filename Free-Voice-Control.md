@@ -3,6 +3,8 @@ lights on etc.
 
 NOTE: You do not need Voice Attack to use this functionality, it's stand alone.
 
+NOTE: The voice pack is in English, and expects to work with a windows 10 computer which can recognise English, through its locale settings.  If you want to use it with another language, its easy enough to change the phrases by editing them in the voice configuration settings accessible via the add-on menu.
+
 You can find all the commands supported by using Help | Free Voice Control Help menu option.
 
 You need to make sure any commands you want to say has an equivalent key binding in Elite Dangerous. A joystick binding won't work, it needs to be a keyboard key (due to Windows limitations). EDD will warn you if it can't find a key binding for a particular phrase - check the log window.
