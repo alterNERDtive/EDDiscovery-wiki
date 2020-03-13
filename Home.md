@@ -18,7 +18,7 @@ Also, if your putting the program on a **Hard Disk Drive** (not an SDD), the vol
 # EDDiscovery - What is it?
 
 You play Elite Dangerous and have heard of EDDiscovery - and ended up here.  So what _is_ it?  
-  
+
 In short it's a 3rd party tool that can track your Elite Dangerous travels, combat, trading, rank etc. Before Elite Dangerous 2.2 it could only track travel, now with 2.2+, EDDiscovery tracks much more! It can now log other data such as rank, commodities, materials, scans and all host of other data.
 
 EDD works on the PC.  Unfortunately Frontier does not or cannot support the API required on XBOX or PS4 to output journal entries to the PC for us to use.  MAC support was withdrawn due to lack of users, and now is not supported by Frontier.  It does also work with Linux using Mono with some features removed (such as audio).
@@ -30,14 +30,14 @@ EDDiscovery gives you the following major features:
 * [[Plan your Expeditions|Using the Expeditions Panel]]
 * [[Plan your Exploration|Using the Exploration Panel]]
 * [[Has a 3D map of the galaxy|Using the 3D Map]] showing travel history and data from EDSM and EDDB to aid your journey through the Elite Dangerous galaxy.
-* [[2D map|Using the 2D Map]] 
+* [[2D map|Using the 2D Map]]
 * [[Web browser support|Web Server]] - use your tablet to display status and control the ship using a Roccat type grid.
 
 EDDiscovery supports [[add-ons|Using the manage Add Ons Menu]], which give you the ability to:
 
 * [[Vocalise Elite Events as they are received |Using voice packs]]
 * [[Control EDD using your voice using the Free Voice Control pack|Free Voice Control]]
-* [[Keyboard shortcuts to control EDD|Using key packs]] 
+* [[Keyboard shortcuts to control EDD|Using key packs]]
 * Read and vocalise [[joystick inputs|Using the JKM Pack]]
 * Place information on [[OBS|Using the OBS Pack]]
 * Play [[MP3s when an event occurs|Using the SoundBlaster Pack]], plus others.
@@ -50,11 +50,11 @@ EDDiscovery integrates with our partner Elite 3rd party developer tools:
 
 * [[EDSM|EDSM integration with EDDiscovery]]
 * [[Inara|Inara integration with EDDiscovery]]
-* [[EGO|EGO integration with EDDiscovery]] (EGO seems dead now so from 11.1 support has been suspended).
+* [[IGAU|IGAU integration with EDDiscovery]]
 * [[EDDB|EDDB integration with EDDiscovery]]
 * [[Coriolis|Coriolis integration with EDDiscovery]]
 * [[ED Shipyard|ED Shipyard integration with EDDiscovery]]
-* [[EDDN Network|EDDN-Integration-with-EDDiscovery]] : Run by [EDCD](https://edcd.github.io/), this distributes information on shipyards, markets, stations, scans to the EDCD community (EDSM, EDDB, etc). 
+* [[EDDN Network|EDDN-Integration-with-EDDiscovery]] : Run by [EDCD](https://edcd.github.io/), this distributes information on shipyards, markets, stations, scans to the EDCD community (EDSM, EDDB, etc).
 
 Use [[the Settings Panel|Using the Settings Panel]] to configure these options.
 
